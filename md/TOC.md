@@ -18,3 +18,39 @@ Rights: CC BY-NC 4.0
 
 
 
+# CONTENTS
+
+### <a href="ch003.xhtml"> **1: Introduction: The first scene** </a>
+
+### <a href="ch004.xhtml"> **2: Technological Echoes** </a>
+
+### <a href="ch005.xhtml"> **3: Cyber Bazaar** </a>
+
+### <a href="ch006.xhtml"> **4: The Ambitious Children of AI** </a>
+
+### <a href="ch007.xhtml"> **5: Attention: Stolen Treasure** </a>
+
+### <a href="ch008.xhtml"> **6: Rebellions** </a>
+
+### <a href="ch009.xhtml"> **7: Algorithmic Territories** </a>
+
+### <a href="ch009.xhtml"> **8: Biography** </a>
+
+
+1: Introduction: The first scene
+
+2: Technological Echoes
+
+3: Cyber Bazaar
+
+4: The Ambitious Children of AI
+
+5: Attention: Stolen Treasure
+
+6: Rebellions
+
+7: Algorithmic Territories 
+
+8: The Last Scene
+
+

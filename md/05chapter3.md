@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# **3rd Story - The Ambitious Children of Ai **
+# 3rd Story - The Ambitious Children of Ai
 
 ### 
 
@@ -35,7 +35,7 @@ control regime to a sophisticated and automated totalitarian regime.
 
 ### 
 
-## **AI Tale **
+## AI Tale
 
 Humans, in their lofty self-regard, have always believed themselves to
 be at the apex of intelligence among earthly beings. This belief,
@@ -50,7 +50,7 @@ thought with efficiency and precision the organic brain could never
 achieve. AI was born to that expectation.
 
 In antiquity, man-made apparatuses with intelligence appeared as
-storytelling devices and have been common in fiction.[^1] In the 2^nd^
+storytelling devices and have been common in fiction.[^1] In the 2nd
 century BC, the early analogue computers and the study of mechanical
 reasoning began with philosophers and mathematicians.[^2] In the
 twentieth century, the research of mathematical logic led directly to
@@ -147,9 +147,7 @@ programs. In some cases, the recent deep learning systems have been able
 to produce results comparable to the performance of the human
 expery.[^18]
 
-## **Deep Learning Beauty**
-
-##  
+## Deep Learning Beauty
 
 With the new development of deep learning methods, the world has been
 observed, recorded, and evaluated by computer vision. The tasks of
@@ -229,7 +227,7 @@ expected rewards by learning to execute sequences of action, which
 generate additional interesting input data with yet unknown, but
 learnable predictability or regularity. The principles can be realized
 in artificial agents constructing a form of *artificial
-curiosity*.[^25]^,^ [^26]
+curiosity*.[^25] [^26]
 
 In 2005, computer scientists attempted to invent automated techniques to
 presume the aesthetic quality of images.[^27] These approaches follow a
@@ -242,7 +240,7 @@ technique, in which the *order* and *complexity* of an image determined
 information theory and the order was determined through the usage of
 fractal compression Developed at Penn State University, the Acquine
 engine is another example that rates natural photographs uploaded by
-users. [^28]^,^ [^29] Computational approaches have also been applied in
+users. [^28] [^29] Computational approaches have also been applied in
 filmmaking by using a software model developed by Chitra Dorai and
 researchers at the IBM T.J. Watson Research Center; this tool estimates
 aesthetics based on the values of *narrative elements*.[^30]
@@ -268,7 +266,7 @@ Currently, the majority of computer aesthetic formulas are rooted in
 classical aesthetic judgments, that is the beauty concepts of the
 European Renaissance. The golden ratio calculation formulas and the
 perspective and proportion formulas became the measure of computer
-aesthetics. [^31]^,^ [^32]^,^ [^33] Meanwhile, we have witnessed a
+aesthetics. [^31] [^32] [^33] Meanwhile, we have witnessed a
 *coup* in aesthetic perception since the early 20th century, when
 various anti-beauty concepts emerged influencing significantly modern
 art.[^34] The ideas of high and low art, beautiful and ugly generated
@@ -292,8 +290,8 @@ view, but they also generate the *aesthetic dominance* of media owners,
 the aesthetic manipulation of corporations, ultimately serving the
 constant development of consumerism.
 
-Formed in the late 17^th^ century and flourishing with its multiple
-tactics in the 20^th^ century, the consumerism of the 21^st^ century has
+Formed in the late 17th century and flourishing with its multiple
+tactics in the 20th century, the consumerism of the 21st century has
 been associated with the psychological manipulation of consumers through
 digital devices in which aesthetic manipulation is the most complex and
 compelling manipulative tool.[^35] Aesthetic appeal serves as a veil
@@ -327,7 +325,7 @@ the usage of which is flooding social media sites. Videos from security
 cameras are stored everywhere. The current world is all recorded by
 humans and viewed through lenses. The digital imaging society has
 brought visual culture closer to computer vision, where everything is
-depicted by a device and observed the others. ‘The 21^st^-century image
+depicted by a device and observed the others. ‘The 21st-century image
 became purely technical. Seeing has become mediated by a universal lens:
 the smartphone. We swipe, *like*, and move on, annihilating the gaze and
 any real aesthetic judgment. At the same time, the image resolution is
@@ -476,7 +474,7 @@ dominate the aesthetic perception of society.
 
 ## 
 
-## **Algorithm - The Biased Princess**
+## Algorithm - The Biased Princess
 
 When discussing computational aesthetics, it's crucial to recognize the
 societal implications of aesthetic manipulation by AI. Algorithm systems
@@ -495,11 +493,10 @@ depend on the data sets the AI system has been exposed to. One of the
 most scandalous examples of this issue is the AI version of Barack
 Obama’s photo.
 
-![](media/image1.png){width="6.294444444444444in"
-height="3.1256944444444446in"}
+![Figure 3.1: The AI version of the photo of Barack Obama
+©theverge.com.[^44]](imgs/TRA_Figure S3. 1.jpg)
 
-Figure S3. 1: The AI version of the photo of Barack Obama
-©theverge.com.[^44]
+<br/>
 
 When the user uploaded a low-resolution portrait of Barack Obama, the
 first President of color of the United States, the algorithm
@@ -507,7 +504,7 @@ automatically generated a picture of a man with distinctly white
 features.[^45]
 
 AI facial recognition systems used for criminal risk assessment have
-been found to be biased against black individuals.[^46]^,^ [^47] Several
+been found to be biased against black individuals.[^46] [^47] Several
 criminal risk AI systems have been used in England and have been opposed
 by citizens because the identification results tend to discriminate
 against the poor.[^48] In 2015, Google photos would tag black people as
@@ -721,12 +718,8 @@ Networks.’ *Medium*, 2019.
     2000.
 
 [^4]: Pamela McCorduck, *Machines Who Think,* 2nd ed. Natick, MA: A. K.
-    Peters, Ltd., 2004. ISBN 1-56881-205-1.
-
-    Daniel Crevier, *AI: The Tumultuous Search for Artificial
-    Intelligence*, New York, NY: Basic Books, 1993.
-
-    Hans Moravec, *Mind Children: The Future of Robot and Human
+    Peters, Ltd., 2004. ISBN 1-56881-205-1; Daniel Crevier, *AI: The Tumultuous Search for Artificial
+    Intelligence*, New York, NY: Basic Books, 1993; Hans Moravec, *Mind Children: The Future of Robot and Human
     Intelligence*, Harvard University Press, 1988.
 
 [^5]: Stuart J Russell and Peter Norvig, *Artificial Intelligence: A
@@ -745,9 +738,7 @@ Networks.’ *Medium*, 2019.
     Intelligence*, New York, NY: BasicBooks, 1993.
 
 [^9]: Stanford University, ‘Artificial Intelligence Index Report 2021’*,
-    aiindex.stanford.edu*, 10 January 2021,
-
-    https://aiindex.stanford.edu/wp-content/uploads/2021/11/2021-AI-Index-Report\_Master.pdf.
+    aiindex.stanford.edu*, 10 January 2021, https://aiindex.stanford.edu/wp-content/uploads/2021/11/2021-AI-Index-Report\_Master.pdf.
 
 [^10]: McKinsey & Company, ‘Ask the AI experts: What's driving today's
     progress in AI?’, *mckinsey.com*, 10 January 2021,
@@ -859,9 +850,7 @@ Networks.’ *Medium*, 2019.
     https://business.pinterest.com/en-us/shopping.
 
 [^40]: Cohen David, ‘Pinterest Brings Its Visual Discovery Technology to
-    the Advertising Side’. *Adweek, 2017. *
-
-    https://www.adweek.com/performance-marketing/pinterest-visual-discovery-advertising/.
+    the Advertising Side’. *Adweek, 2017.* https://www.adweek.com/performance-marketing/pinterest-visual-discovery-advertising/.
 
 [^41]: Kyle Chayka, ‘What Google Search Isn't Showing You’. *The New
     Yorker*, 10 March 2022.

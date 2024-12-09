@@ -113,7 +113,7 @@ automation machines discovered in many places over the world.
 > tale has a strong basis in links between Ancient Greece and ancient
 > India.[^5]
 
-![Figure S1. 2: A sculpture depicting the distribution of the Buddha’s
+![Figure 1.2: A sculpture depicting the distribution of the Buddha’s
 relics. ©Los Angeles County Museum of Art.](imgs/TRA_Figure S1. 2.jpg)
 
 <br/>
@@ -130,7 +130,7 @@ devices for temples to instill faith by deceiving believers with
 *magical acts of the gods*, theatrical spectacles, and machines like a
 statue that poured wine.
 
-![Figure S1. 3: Heron of Alexandria. Diagram of an automaton, a Bacchus
+![Figure 1.3: Heron of Alexandria. Diagram of an automaton, a Bacchus
 figure that dispenses wine and milk in a small temple. The figure has
 connected by invisible pipes with hidden tanks containing wine and milk.
 Venice, Biblioteca Marciana, Gr. 516, fol. 202r.[^7] This 13th
@@ -156,7 +156,7 @@ and remains a compact and complex relationship between illusion and
 reality and between magical belief and technological reality in the
 process of manipulation of human perception.
 
-![Figure S1. 4: Virgin de Los Reyes – a medieval robot – photo by Ubayrbd.
+![Figure 1.4: Virgin de Los Reyes – a medieval robot – photo by Ubayrbd.
 © Wikipedia Commons.](imgs/TRA_Figure S1. 4.jpg)
 
 <br/>
@@ -178,7 +178,7 @@ empire that ruled the Mediterranean world for nearly 30 Centuries. –
 (from Egyptian unification around 3100 B.C. to its conquest by Alexander
 the Great in 332 B.C.).
 
-![Figure S1. 5: The Pharaoh Tutankhamun destroyed his enemies. ©Wikimedia
+![Figure 1.5: The Pharaoh Tutankhamun destroyed his enemies. ©Wikimedia
 Commons.[^10]](imgs/TRA_Figure S1. 5.jpg)
 
 <br/>
@@ -191,7 +191,7 @@ the Roman Empire’s domination on large territories around the
 Mediterranean Sea in Europe, North Africa, and Western Asia over the
 first three centuries after the common era.
 
-![Figure S1. 6: Alexander's battle - mosaic around 100 BC Roman.
+![Figure 1.6: Alexander's battle - mosaic around 100 BC Roman.
 ©Wikimedia Commons.[^11]](imgs/TRA_Figure S1. 6.jpg)
 
 <br/>
@@ -218,7 +218,7 @@ are of silk printed with flowers in three colors from the Han Dynasty
 (before 220 A.D.). The earliest examples of woodblock printing on paper
 also appeared in the mid-seventh century in China.
 
-![Figure S1. 7: The Diamond Sutra of the Chinese Tang Dynasty, the oldest
+![Figure 1.7: The Diamond Sutra of the Chinese Tang Dynasty, the oldest
 dated printed book in the world, was found at Dunhuang, in 868 CE.
 ©Wikimedia Commons.[^13]](imgs/TRA_Figure S1. 7.jpg)
 
@@ -237,7 +237,7 @@ aforementioned firecracker weapons.[^15] There is no doubt that
 *gunpowder weapons* were a powerful tool of Chinese emperors during
 their invasions, helping them own most of East Asia for centuries.
 
-![Figure S1. 8: Ming artillerymen from a mural in Yanqing District,
+![Figure 1.8: Ming artillerymen from a mural in Yanqing District,
 Beijing. ©Wikimedia Commons.[^16]](imgs/TRA_Figure S1. 8.jpg)
 
 <br/>
@@ -255,18 +255,18 @@ new perception of space for humanity. At the same time, it was the basic
 advantage for European empires to claim possession of different
 territories and turn many newly found lands into colonies.
 
-![Figure S1. 9: Early modern dry compass suspended by a gimbal (1570)
+![Figure 1.9: Early modern dry compass suspended by a gimbal (1570)
 ©Wikimedia Commons.[^18]](imgs/TRA_Figure S1. 9.jpg)
 
 <br/>
 
-![Figure S1. 10: A 13th-century depiction of the world as a circle
+![Figure 1.10: A 13th-century depiction of the world as a circle
 divided into three continents, Asia, Europe, and Africa. ©British
 Library.](imgs/TRA_Figure S1. 10.jpg)
 
 <br/>
 
-![Figure S1. 11: One of the earliest maps to show the New World, the
+![Figure 1.11: One of the earliest maps to show the New World, the
 Cantino planisphere (1502) ©Wikimedia Commons.[^19]](imgs/TRA_Figure S1. 11.jpg)
 
 <br/>
@@ -290,7 +290,7 @@ the *steam engine* and the unprecedented development of mass production
 capabilities opened up *the golden age of colonialism* in the 19th
 century to the European empires.
 
-![Figure S1. 12: Sächsische Maschinenfabrik in Chemnitz, Germany, 1868.
+![Figure 1.12: Sächsische Maschinenfabrik in Chemnitz, Germany, 1868.
 ©Wikimedia Commons.[^21]](imgs/TRA_Figure S1. 12.jpg)
 
 <br/>
@@ -299,7 +299,7 @@ Most of the land on all continents became European colonies, and the
 enslavement of indigenous populations became a phenomenon that spread
 throughout the globe.
 
-![Figure S1. 13: Map of colonial and land-based empires throughout the
+![Figure 1.13: Map of colonial and land-based empires throughout the
 world in 1914 CE. ©Wikimedia Commons.[^22]](imgs/TRA_Figure S1. 13.jpg)
 
 <br/>
@@ -322,12 +322,12 @@ by iron materials. The material change in shipbuilding technology
 allowed the new ships to withstand extreme weather on the sea and
 enduring battles with natives.
 
-![Figure S1. 14: Engraving of the elevation plan and section of a
+![Figure 1.14: Engraving of the elevation plan and section of a
 steam-boat, 1827. ©Wikimedia Commons.[^23]](imgs/TRA_Figure S1.14.jpg)
 
 <br/>
 
-![Figure S1. 15: Great Britain in the Cumberland Basin, April 1844.
+![Figure 1.15: Great Britain in the Cumberland Basin, April 1844.
 ©Wikimedia Commons.[^24]](imgs/TRA_Figure S1.15.jpg)
 
 <br/>
@@ -369,7 +369,7 @@ exemplifies the European fear of Africa: ‘Beware, oh beware, of the
 Bight of Benin, Where few come out although many go in.’[^30] However,
 quinine had the potential to change the entire situation.
 
-![Figure S1. 16: Crane's Quinine and Tar Compound, 19th Century Medicine
+![Figure 1.16: Crane's Quinine and Tar Compound, 19th Century Medicine
 Bottle with Box. ©National Museum of American History.](imgs/TRA_Figure S1.16.jpg)
 
 <br/>
@@ -390,13 +390,13 @@ artillery batteries at Alexandria. Later that same year, the French and
 British forces landed troops under searchlights. By 1907 the value
 searchlights had become widely used among European Empires.
 
-![Figure S1. 17: Russian troops use a searchlight against a Japanese night
+![Figure 1.17: Russian troops use a searchlight against a Japanese night
 attack during the Russo-Japanese War, 1904. American searchlight crew
 and equipment in France during WWI. ©Wikimedia Commons.[^31]](imgs/TRA_Figure S1.17.jpg)
 
 <br/>
 
-Driven by the 1^st^ and 2^nd^ industrial revolutions, Western society
+Driven by the 1st and 2nd industrial revolutions, Western society
 witnessed the unprecedented emergence and development of *photography*.
 Shortly after, the first camera image had been captured by Nicéphore
 Niépce in 1826, and photographs of war events were born in 1855. Since
@@ -409,19 +409,19 @@ beginning to the present day, photography has been become a universal
 means of evaluating the level of civilization of individuals and the
 identity of a country or region.
 
-![Figure S1. 18: This 1870 image is considered the first actual photograph
+![Figure 1.18: This 1870 image is considered the first actual photograph
 taken of a battle. It shows a line of Prussian troops advancing. The
 photographer stood with the French defenders when he captured this
 image. ©militaryhistorynow.com.[^32]](imgs/TRA_Figure S1.18.jpg)
 
 <br/>
 
-![Figure S1. 19: A man in Iyede, Delta State, Nigeria, 1909.
+![Figure 1.19: A man in Iyede, Delta State, Nigeria, 1909.
 ©theguardian.com.[^33]](imgs/TRA_Figure S1.19.jpg)
 
 <br/>
 
-![Figure S1. 20: Postcard Saigon Cochinchine Vietnam, Camp des Mares, le
+![Figure 1.20: Postcard Saigon Cochinchine Vietnam, Camp des Mares, le
 Repas des Tirailleurs punish de prison. ©akpool.co.uk.[^34]](imgs/TRA_Figure S1.20.jpg)
 
 <br/>
@@ -430,7 +430,7 @@ After World War II (1939–1945), decolonization progressed rapidly, and a
 series of colonial states declared their independence. However, the
 colonial relationship had not really come to a halt; it had transitioned
 to a new stage, a postcolonial or neocolonial period. Especially in the
-late 20^th^ and early 21^st^ centuries, based on the development of
+late 20th and early 21st centuries, based on the development of
 *computer science, cloud storage, Big Data, IoT, and AI,* this dominance
 of one power over another has become more profound, more dangerous and
 considerably broader in scope. Once again, the owners of advanced
@@ -445,7 +445,7 @@ aircraft, stealth submarines, generations of weapons,* and
 *AI-controlled robots* have been developed and put to use widely in the
 technologically developed countries.
 
-![Figure S1. 21: Boston Dynamic's robots, ©newatlas.com.[^35] Blackbird
+![Figure 1.21: Boston Dynamic's robots, ©newatlas.com.[^35] Blackbird
 supersonic aircraft, ©popularmechanics.com.[^36] Israel’s Rafael integrates
 artificial intelligence into Spice bombs Illustration of Japan's new
 Epsilon AI rocket, ©c4isrnet.com.[^37]](imgs/TRA_Figure S1.21.jpg)
@@ -465,7 +465,7 @@ more important than ever. In reality, new technology empires are
 attempting to assert control over human life through digital means,
 establishing a form of *cyber colonialism* around the world.
 
-## **The Usurper **
+## **The Usurper**
 
 ‘Technology is a useful servant but a dangerous master.’– Christian Lous
 Lange.[^38]
@@ -525,8 +525,7 @@ vehicles. The longer the software is used, the higher the level of user
 exploitation and control by service providers. Out of individual
 control, users' level of digital connectivity is increasing at an
 unprecedented rate globally. The extension of the human body to machines
-is no longer a prediction as seen in Donna Haraway’s early remarks in
-[[]{#OLE_LINK2 .anchor}]{#OLE_LINK1 .anchor}*A Cyborg Manifesto*, but
+is no longer a prediction as seen in Donna Haraway’s early remarks in *A Cyborg Manifesto*, but
 has become a reality of contemporary mankind.[^42] In Haraway's opinion,
 the cyborg's integration of technology into its body creates a new form
 of embodiment that challenges the dichotomy between mind and body. By
@@ -611,11 +610,11 @@ strategy has helped Apple become the leader in sales of personal
 electronics products globally over the past decade, with a net revenue
 of 378.7 billion U.S. Dollars in 2022.[^45]
 
-![](media/image22.png){width="3.6343285214348207in"
-height="2.9808027121609797in"}
-
-Figure S1. 22: Sales of leading consumer electronic (CE) companies
+![Figure 1.22: Sales of leading consumer electronic (CE) companies
 worldwide in 2022. ©statista.com.[^46]
+](imgs/TRA_Figure S1.22.jpg)
+
+<br/>
 
 Similar to the Google and Apple ecosystem, other products and service
 providers such as Amazon, Facebook, Baidu and WeChat have created new
@@ -623,7 +622,7 @@ technology ecosystems with complex, mesmerizing functional matrices,
 which include traps which users may find difficult to escape.
 
 Today, we are witnessing a repeat of patterns seen during former
-colonial periods Previously, empires heralded a prosperous and
+colonial periods. Previously, empires heralded a prosperous and
 gratifying life to the indigenous people as their justification for
 colonization. Actually, they typified their colonization as a mission of
 *enlightenment*. Today, despite affirming unceasingly the motto of
@@ -648,7 +647,7 @@ Storing, processing, analyzing, and transmitting information in the form
 of data sets is a fundamental activity in the digital space. The larger
 the amount of data, the more advanced the analysis ability, the higher
 value of the information obtained after the analysis, and the more
-applicability of that information. The *data mining*has become the
+applicability of that information. The *data mining* has become the
 spearhead industry of the technology empires.[^48]
 
 Therefore, rather than cyber-colonialism, Nick Couldry and Ulises Mejias
@@ -663,11 +662,10 @@ the foundation for governing today's technological colonies. In the year
 farms, the majority of which are, to this day, concentrated in developed
 countries, led by the US, Germany, the UK, China, and Canada.
 
-![](media/image23.png){width="4.257973534558181in"
-height="4.447761373578302in"}
+![Figure 1.23: Number of data centers worldwide in 2022, by country.
+©statista.com.[^50]](imgs/TRA_Figure S1.23.jpg)
 
-Figure S1. 23: Number of data centers worldwide in 2022, by country.
-©statista.com.[^50]
+<br/>
 
 Moreover, since 2015, the number of hyperscale data centers has more
 than doubled.[^51] The number of hyperscale data centers worldwide
@@ -731,31 +729,25 @@ their lives, the profound dependence on technological devices, and the
 loss of decision-making and autonomy. The enslavement is transferred
 from direct to indirect form through digital media and devices.
 
-![](media/image24.tiff){width="3.478571741032371in"
-height="4.456735564304462in"}
-
-Figure S1. 24: Photo essay 01. More than 1.5 million Africans were
+![Figure 1.24: Photo essay 01. More than 1.5 million Africans were
 shipped across the Atlantic Ocean between the 15th and 19th Centuries,
-©nilepost.co.ug. More than 62.5 percent of the world's total population
-is internet Users in 2022, ©deviceatlas.com. Locking and tracking
-colonial slaves, ©t-vine.com. Personal tracking location, © gpsbob.com.
-Slave's stamp recognition, ©Wikimedia Commons. Facial recognition,
-©Reuters. Brussels World fair 1958 ©Wikimedia Commons. Children’s rights
-in the cyberspace, ©theasianparent.com.[^57]^,^ [^58]^,^ [^59]^,^
-[^60]^,^ [^61]^,^ [^62]^,^ [^63]^,^ [^64]
+©nilepost.co.ug.[^57] More than 62.5 percent of the world's total population
+is internet Users in 2022, ©deviceatlas.com.[^58] Locking and tracking
+colonial slaves, ©t-vine.com.[^59] Personal tracking location, © gpsbob.com.[^60]Slave's stamp recognition, ©Wikimedia Commons.[^61] Facial recognition,
+©Reuters.[^62] Brussels World fair 1958 ©Wikimedia Commons.[^63] Children’s rights in the cyberspace, ©theasianparent.com.[^64]](imgs/TRA_Figure S1.24.jpg)
 
-![](media/image25.tiff){width="4.870967847769029in"
-height="4.790825678040245in"}
+<br/>
 
-Figure S1. : Photo essay 02. The White Sea-Baltic Canal opened on 2
-August 1933, ©dmitrievaffair.com. Daily, users are creating content and
-information values without payment, ©abcnews.go.com. Sale of Estates,
+![Figure 1.25: Photo essay 02. The White Sea-Baltic Canal opened on 2
+August 1933, ©dmitrievaffair.com.[^65] Daily, users are creating content and
+information values without payment, ©abcnews.go.com.[^66] Sale of Estates,
 Pictures and Slaves in the Rotunda, New Orleans; by William Henry
 Brooke, engraver; engraving with watercolor from The Slave States of
-America, vol. 1; London: Fisher and Son, 1842 ©wwno.org. The Big Data
-Privacy Problem. ©innovate-edu.com. Cape Town slaves to migrant gold
-miners, ©ucd.ie. Data Mining Techniques, ©justtotaltech.com.[^65]^,^
-[^66]^,^ [^67]^,^ [^68]^,^ [^69]^,^ [^70]
+America, vol. 1; London: Fisher and Son, 1842 ©wwno.org.[^67] The Big Data
+Privacy Problem. ©innovate-edu.com.[^68] Cape Town slaves to migrant gold
+miners, ©ucd.ie.[^69] Data Mining Techniques, ©justtotaltech.com.[^70]](imgs/TRA_Figure S1.25.jpg)
+
+<br/>
 
 If *weapons* were the main tools of colonization in the past, the new
 empires use *digital* and *social media* to control and manipulate
@@ -766,9 +758,10 @@ There is no doubt that dominating perceptions is the most effective and
 dangerous way to possess human beings, influence their awareness and
 manipulate their action.
 
-![](media/image26.png){width="4.375in" height="3.104106517935258in"}
+![Figure 1.26 : Mecedes-Benz advertisment 2010. ©adsoftheworld.com.[^71]
+](imgs/TRA_Figure S1.26.jpg)
 
-Figure S1. : Mecedes-Benz advertisment 2010. ©adsoftheworld.com.[^71]
+<br/>
 
 *Advertising* is considered an effective tool to influence perception,
 an indispensable tool in the colonization process in cyberspace.
@@ -796,11 +789,10 @@ insurance to purchase; issues to discuss with friends; financial
 channels to be aware of; candidates to vote for in the next election; or
 even the person they should love!
 
-![](media/image27.png){width="4.882812773403325in"
-height="5.090436351706037in"}
+![Figure 1.27: Advertising is driving the whole spectrum of social
+activities. ©the author collects from various companies’ ads.](imgs/TRA_Figure S1.27.jpg)}
 
-Figure S1. : Advertising is driving the whole spectrum of social
-activities. ©the author collects from various companies’ ads.
+<br/>
 
 Technology owners appropriate not only the user’s body but also their
 *identity, emotions, spirit* and *self-determination*. That means the
@@ -881,38 +873,39 @@ million internet users in Vietnam in January 2022. Vietnam’s internet
 penetration rate stood at 73.2 percent of the total population at the
 start of 2022. 
 
-![](media/image28.png){width="6.119860017497813in"
-height="3.4468088363954505in"}
+![Figure 1.28: Vietnam’s internet penetration rate. ©hootsuite.com.
+](imgs/TRA_Figure S1.28.jpg)
 
-Figure S1. 28: Vietnam’s internet penetration rate. ©hootsuite.com.
+<br/>
 
 On average, Vietnamese users daily spend 6 hours and 38 minutes each in
 cyberspace which is equivalent to the administrative working time of
 office workers and approximately one third of the total time they have
 daily.[^78]
 
-![](media/image29.png){width="6.1194444444444445in"
-height="3.458053368328959in"}
+![Figure 1.29: Daily time spend with media ©hootsuite.com.
+](imgs/TRA_Figure S1.29.jpg)
 
-Figure S1. 29: Daily time spend with media ©hootsuite.com.
+<br/>
 
 Vietnam ranked 13th on the list of countries with the largest digital
 populations in the world in 2022.[^79] However, privacy in the internet
 space and Vietnam's cybersecurity index have always been among the
-lowest and most alarming in recent years.[^80]^,^ [^81]^,^ [^82]^,^
+lowest and most alarming in recent years.[^80] [^81] [^82] 
 [^83]
 
-![](media/image30.png){width="5.290322615923009in"
-height="3.8346675415573053in"}
+<br/>
 
-Figure S1. : Countries with the largest digital populations in the world
-as of January 2022.[^84]
+![Figure 1.30: Countries with the largest digital populations in the world
+as of January 2022.[^84]](imgs/TRA_Figure S1.30.jpg)
 
-![](media/image31.png){width="5.048448162729659in"
-height="3.028846237970254in"}
+<br/>
 
-Figure S1. : Group of countries with low internet privacy and
-cybersecurity in the world ©Chamber of Commerce.org.
+![Figure 1.31: Group of countries with low internet privacy and
+cybersecurity in the world ©Chamber of Commerce.org.](imgs/TRA_Figure S1.31.jpg)
+
+<br/>
+
 
 Vietnam's legal framework for privacy and cybersecurity is still in its
 early stages of development. Although Vietnam has passed several laws,
@@ -921,7 +914,7 @@ Cybersecurity, and the Law on Information Security, these legal
 regulations may not be comprehensive enough to address all the
 challenges and concerns of today’s digital world, especially emerging
 social phenomena related to artificial intelligence and machine
-learning-based automation.[^85]^,^ [^86] The implementation of these
+learning-based automation.[^85] [^86] The implementation of these
 laws is often inadequate, and enforcement is often lax.[^87] Corruption
 and bureaucracy are the main reasons that make law enforcement even less
 effective.
@@ -932,15 +925,15 @@ corporations. According to the statistical assessment of *We Are Social
 and Kepios*, Vietnam's digital advertising market is estimated to be
 worth \$812.9 million by 2022.
 
-![](media/image32.png){width="6.294444444444444in"
-height="3.5319444444444446in"}
+![Figure 1.32: Value of the digital advertising market ©hootsuite.com.
+](imgs/TRA_Figure S1.32.jpg)
 
-Figure S1. 32: Value of the digital advertising market ©hootsuite.com.
+<br/>
 
 The Global South had been regarded as a potential market and a target by
 international traders as long as 200 years ago. For this reason,
 European merchants expanded their market and exploited colonies in the
-18^th^ and 19^th^ centuries. Clearly, technology owners have a special
+18th and 19th centuries. Clearly, technology owners have a special
 preference for investing in this market in the 21st century.
 
 All in all, the colonization process in cyberspace has been carried out
@@ -1171,10 +1164,7 @@ Mifflin, 1912.
 
 [^25]: Daniel R Headrick, ‘The Tools of Imperialism: Technology and the
     Expansion of European Colonial Empires in the Nineteenth Century.’
-    *The Journal of Modern History 51*, no. 2 (1979): 231-263.
-
-    https://en.wikipedia.org/wiki/Machine\_gun\#:\~:text=The%20first%20successful%20machine%2Dgun,by%20the%20United%20States%20Navy.
-
+    *The Journal of Modern History 51*, no. 2 (1979): 231-263. https://en.wikipedia.org/wiki/Machine\_gun.
 [^26]: Wikipedia contributors, ‘History of hospitals’, 20 October 2021,
     https://en.wikipedia.org/wiki/History\_of\_hospitals.
 
@@ -1245,14 +1235,10 @@ Mifflin, 1912.
     https://en.wikipedia.org/wiki/Social\_Credit\_System
 
 [^44]: First Site Guide, ‘Google Search Statistics and Facts 2022,’
-    *First Site Guide*, 2 March 2023,
-
-    https://firstsiteguide.com/google-search-stats/
+    *First Site Guide*, 2 March 2023, https://firstsiteguide.com/google-search-stats/
 
 [^45]: Statista, ‘Global revenue of Apple from 2004 to 2022’,
-    *statista.com,* 2 March 2023,
-
-    https://www.statista.com/statistics/265125/total-net-sales-of-apple-since-2004/
+    *statista.com,* 2 March 2023, https://www.statista.com/statistics/265125/total-net-sales-of-apple-since-2004/
 
 [^46]: Statista, ‘Sales of leading consumer electronic (CE) companies
     worldwide in 2022’, *statista.com,* 2 March 2023,
@@ -1263,10 +1249,7 @@ Mifflin, 1912.
 
 [^48]: Data mining is the process of extracting and discovering patterns
     in large data sets involving methods at the intersection of machine
-    learning, statistics, and database systems.
-
-    Wikipedia contributors, ‘Data Mining’, 10 October 2022,
-    https://en.wikipedia.org/wiki/Data\_mining.
+    learning, statistics, and database systems. Wikipedia contributors, ‘Data Mining’, 10 October 2022, https://en.wikipedia.org/wiki/Data\_mining.
 
 [^49]: Nick Couldry and Mejias Ulises A, *The Costs of Connection: How
     Data Is Colonizing Human Life and Appropriating It for Capitalism*,
@@ -1360,10 +1343,7 @@ Mifflin, 1912.
     https://www.adsoftheworld.com/campaigns/right-brain-left-brain.
 
 [^72]: The slogan of Prudential - a British multinational insurance
-    company.
-
-    Prudential, ‘Always Listening, Always Understanding,’ *Our History*,
-    21 November 2022, https://www.prudential.com.sg/about/our-history.
+    company. Prudential, ‘Always Listening, Always Understanding,’ *Our History*, 21 November 2022, https://www.prudential.com.sg/about/our-history.
 
 [^73]: Tariq Khokhar, ‘Chart: How Is the World's Youth Population
     Changing?’ *World Bank*, 2017.
@@ -1371,9 +1351,7 @@ Mifflin, 1912.
 
 [^74]: Eric Farny, ‘Dependency Theory: A Useful Tool for Analyzing
     Global Inequalities Today*?’ E-International Relations*, 19 June
-    2016.
-
-    https://www.e-ir.info/2016/11/23/dependency-theory-a-useful-tool-for-analyzing-global-inequalities-today.
+    2016. https://www.e-ir.info/2016/11/23/dependency-theory-a-useful-tool-for-analyzing-global-inequalities-today.
 
 [^75]: Isaac K. Biney, ‘Revitalizing Blended and Self-Directed Learning
     Among Adult Learners Through the Distance Education Mode of Learning
@@ -1389,9 +1367,7 @@ Mifflin, 1912.
     *Global Networks* 22, no. 3 (2022): 514-529.
 
 [^78]: Simon Kemp, ‘Digital 2022: Vietnam.’ *DataReportal*, 1 March
-    2022.
-
-    https://datareportal.com/reports/digital-2022-vietnam?rq=vietnam.
+    2022. https://datareportal.com/reports/digital-2022-vietnam?rq=vietnam.
 
 [^79]: Statista, ‘Countries with the largest digital populations in the
     world’, *statista.com*, 12 March 2022,

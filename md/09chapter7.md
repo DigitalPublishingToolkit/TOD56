@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# **The Last Scene **
+# The Last Scene
 
 The Elder Woman sits quietly, the glow of countless screens casting a
 soft light upon her weathered face. The stories have been told, their

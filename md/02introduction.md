@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# **The First Scene **
+# The First Scene
 
 In the heart of the Cyber Village, beneath the endless flicker of
 screens and the hum of invisible sever networks, the elder woman—our

@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# **6th Story - Algorithmic Territories **
+# 6th Story - Algorithmic Territories
 
 Within the fractured web of human and artificial cognition, the tale
 *Algorithmic Territories* unfolds—a narrative where the promise of a
@@ -38,7 +38,7 @@ narrative can ever truly capture the essence of human experience.
 
 ### 
 
-## **Southeast Asia’s Cyber Terrain **
+## Southeast Asia’s Cyber Terrain
 
 In Southest Asia, the dream of connecting with the world is a wish that
 is not unique to any one person in particular. For people with a lower
@@ -120,10 +120,9 @@ countries like Brunei, Singapore and Malaysia have a high standard of
 living, while countries like Myanmar, Cambodia and Laos have a lower
 standard of living.[^12]
 
-![](media/image1.jpeg){width="6.453125546806649in"
-height="4.348277559055118in"}
+![Figure 6.1: Per Capital GDP in Southeast Asia ©Wikimedia Commons.[^13]](imgs/TRA_Figure S6. 1.jpg)
 
-Figure S6. 1: Per Capital GDP in Southeast Asia ©Wikimedia Commons.[^13]
+<br/>
 
 While the level of development in Southeast Asia varies by nation, in
 general, it is a region on the road to development with understandable
@@ -146,8 +145,6 @@ internet fell into a range as low as 37% in Timor-Leste to a high of
 developed countries like Singapore, Malaysia, and Thailand, and lower in
 less developed countries like Cambodia, Laos, Myanmar and Timor-
 Leste.[^14]
-
-*Image*
 
 Southeast Asia is considered to be a rapidly growing market for
 e-commerce, with countries like Indonesia, Thailand, Vietnam, and the
@@ -266,7 +263,7 @@ becoming a new method of domination; the free market involves various
 dependent and controlling factors. The inequality between the capital
 owners of AI and users becomes deeper and deeper.
 
-*Digital censorship*
+### Digital censorship
 
 To some extent, cyber-colonialism has spread globally with an intense
 concentration in developing countries, and obviously in Southeast Asia.
@@ -276,7 +273,7 @@ to create digital censorship. Imposed by governments, private companies,
 or other entities, digital censorship is normally claimed with various
 reasons, such as protecting national security, preventing the spread of
 harmful or offensive content, or suppressing dissenting opinions.
-[^27]^,^ [^28] Common examples of digital censorship include the
+[^27] [^28] Common examples of digital censorship include the
 blocking of social media platforms like Facebook or Twitter, the removal
 of specific websites or content from search engines, and the use of
 filters or firewalls to prevent access to certain types of information
@@ -328,21 +325,20 @@ As a matter of fact, human rights in cyberspace are an important issue,
 which has not received enough attention in various parts of the world
 and, most notably, not in Southeast Asia.
 
-*Digital states*
+### Digital states
 
 Globally, multinational technology corporations are gradually
 establishing various powerful digital states. At the present, Alphabet,
 Meta, Amazon, and Alibaba own billions of active accounts, a number much
 larger than the population of many countries around the world. In the
-Southeast Asia region, there are over 400 million internet users and,
+Southeast Asia region, there are over 400 million internet users[^30] and,
 among them, young people between the ages of 16 and 24 are spending an
-average of 10 hours a day in cyberspace.[^30]^,^ [^31]
+average of 10 hours a day in cyberspace.[^31]
 
-![](media/image2.png){width="6.530555555555556in"
-height="3.660416666666667in"}
+![Figure 6.2: Daily Time Spent With Media: S.E. Asia Young Adults.
+©datareportal.com.](imgs/TRA_Figure S6. 2.jpg)
 
-Figure S6. 2: Daily Time Spent With Media: S.E. Asia Young Adults.
-©datareportal.com.
+<br/>
 
 With a large number and active participation, platform corporations have
 made a profound impact on society and especially on young people.
@@ -376,9 +372,9 @@ purchased a new venture weekly.[^34] Facebook has also swallowed
 Instagram (\$1bn), WhatsApp (\$19bn), and Oculus (\$2bn) and invested in
 drone-based internet, e-commerce, and payment services.[^35] In 2016,
 Alibaba acquired a controlling stake in Lazada–a leading e-commerce
-platform in Southeast Asia, for \$1 billion; in 2018, it also acquired
+platform in Southeast Asia, for \$1 billion[^36]; in 2018, it also acquired
 Daraz–an e-commerce platform in South Asia that operates in Pakistan,
-Bangladesh, Myanmar, Sri Lanka, and Nepal. [^36]^,^ [^37]
+Bangladesh, Myanmar, Sri Lanka, and Nepal.[^37]
 
 The takeover of other companies has become a common strategy of
 technology corporations. These acquisitions mostly aim to achieve
@@ -516,7 +512,7 @@ however, this can be considered an inhumane act directed toward those
 disadvantaged groups that doesn’t hold the tools, abilities and legal
 conditions to defend themselves.
 
-*Digital and nondigital*
+## Digital and nondigital
 
 The combination of different technologies has currently submerged people
 in the mixed world of real and virtual. The actual actions of users
@@ -631,9 +627,7 @@ Agencies.’ *The Washington Post*, 2017.
 
 Halstead, Murat. *The Story of the Philippines and Our New Possessions,
 Including the Ladrones, Hawaii, Cuba and Porto Rico*. 1898.
-http://books.google.com/books?id=lIQcwt7g2wkC.
-
-Hao, Karen, and Heidi Swart. ‘South Africa’s Private Surveillance
+http://books.google.com/books?id=lIQcwt7g2wkC; Hao, Karen, and Heidi Swart. ‘South Africa’s Private Surveillance
 Machine Is Fueling a Digital Apartheid.’ *MIT Technology Review*, 2022.
 
 Hao, Karen. ‘Artificial Intelligence Is Creating a New Colonial World
@@ -716,12 +710,8 @@ Zhuang, Guotu. ‘The Overseas Chinese: A Long History.’ *UNESCO Courier*.
 
 [^10]: Murat Halstead, *The Story of the Philippines and Our New
     Possessions, Including the Ladrones, Hawaii, Cuba and Porto Rico,*
-    1898. http://books.google.com/books?id=lIQcwt7g2wkC.
-
-    Proclamation, ‘Independence of the Philippines’*, archives.gov*, 26
-    May 2020,
-
-    https://www.archives.gov/federal-register/codification/proclamations/02695.html.
+    1898. http://books.google.com/books?id=lIQcwt7g2wkC; Proclamation, ‘Independence of the Philippines’*, archives.gov*, 26
+    May 2020, https://www.archives.gov/federal-register/codification/proclamations/02695.html.
 
 [^11]: Ronald H. Spector, ‘Vietnam War’, *Britannica*, 20 May 2020.
     Available at: https://www.britannica.com/event/Vietnam-War.
@@ -781,9 +771,7 @@ Zhuang, Guotu. ‘The Overseas Chinese: A Long History.’ *UNESCO Courier*.
     https://fia.mpi.gov.vn/en/Detail/CatID/1c9dee34-6455-4d73-8b8c-71a35a99b8ae/NewsID/6ccb38b8-7290-416a-9b43-d806eb4fc49b.
 
 [^23]: Luật Việt Nam, ‘Nhiều ưu đãi thuế dành cho doanh nghiệp công nghệ
-    thông tin’, *luatvietnam.vn,* 22 April 2023.
-
-    https://luatvietnam.vn/thue-phi-le-phi/uu-dai-thue-cho-doanh-nghiep-cong-nghe-thong-tin-565-24815-article.html\#:\~:text=Thu%E1%BA%BF%20su%E1%BA%A5t%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp,%C4%91%E1%BA%A7u%20ti%C3%AAn%20c%C3%B3%20doanh%20thu.
+    thông tin’, *luatvietnam.vn,* 22 April 2023. https://luatvietnam.vn/thue-phi-le-phi/uu-dai-thue-cho-doanh-nghiep-cong-nghe-thong-tin-565-24815-article.html\#:\~:text=Thu%E1%BA%BF%20su%E1%BA%A5t%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp,%C4%91%E1%BA%A7u%20ti%C3%AAn%20c%C3%B3%20doanh%20thu.
 
 [^24]: Naomi Klein, *No Logo: No Space, No Choice, No Jobs*, Picador,
     2009.
@@ -809,9 +797,7 @@ Zhuang, Guotu. ‘The Overseas Chinese: A Long History.’ *UNESCO Courier*.
     p.3.
 
 [^30]: Statista, ‘Internet usage in Southeast Asia - statistics & fact’,
-    *statista.com,* 22 May 2022.
-
-    https://www.statista.com/topics/9093/internet-usage-in-southeast-asia/\#topicOverview.
+    *statista.com,* 22 May 2022. https://www.statista.com/topics/9093/internet-usage-in-southeast-asia/\#topicOverview.
 
 [^31]: Data Reportal, ‘The Social Media Habits of Young People In
     South-East Asia’, *datareportal.com, 12 May 2021.*
@@ -855,9 +841,7 @@ Zhuang, Guotu. ‘The Overseas Chinese: A Long History.’ *UNESCO Courier*.
     (1994-2001)*, Vol. 1. Institute of Network Cultures, 2009. p. 8.
 
 [^42]: *Tristan Harris – Congress Testimony January*, (Center for Humane
-    Technology, 2020), Available at:
-
-    https://www.youtube.com/watch?v=gDL9z\_lof3Q.
+    Technology, 2020), Available at: https://www.youtube.com/watch?v=gDL9z\_lof3Q.
 
 [^43]: Karen Hao, ‘Artificial Intelligence Is Creating a New Colonial
     World Order.’ *MIT Technology Review*, July, 2022.
@@ -905,9 +889,7 @@ Zhuang, Guotu. ‘The Overseas Chinese: A Long History.’ *UNESCO Courier*.
     engagemedia.org, 22 may 2022. Available at: https://engagemedia.org.
 
 [^56]: Asean, ‘The 3rd ASEAN Digital Ministers’ Meeting and Related
-    Meetings’, *asean.org*, 12 May 2023. Available at:
-
-    https://asean.org/wp-content/uploads/2023/02/Endorsed-3rd-ADGMIN-JMS.pdf.
+    Meetings’, *asean.org*, 12 May 2023. Available at: https://asean.org/wp-content/uploads/2023/02/Endorsed-3rd-ADGMIN-JMS.pdf.
 
 [^57]: Nick Srnicek, ‘We Need to Nationalise Google, Facebook and
     Amazon. Here’s Why.’ *The Guardian*, 30 August 2017.

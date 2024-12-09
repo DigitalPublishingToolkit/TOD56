@@ -51,7 +51,7 @@ The more *sophisticated* the attempts to appropriate attention, the more
 intense the human sufferance becomes, and the more the *unconscious
 tension of societies* increases.
 
-## **Tracing the Stolen Treasure **
+## Tracing the Stolen Treasure
 
 We journey back to a time before the airwaves buzzed with the relentless
 pursuit of consumer attention, a time when advertisements spoke directly
@@ -70,7 +70,7 @@ profound shifts not only in how products are sold but in how truth
 itself is marketed and consumed.
 
 As an example, the first printed advertisement was a bronze plate dating
-from the Song Dynasty (10^th^ to 13^th^ AD). It used to print posters on
+from the Song Dynasty (10th to 13th AD). It used to print posters on
 a square paper with a rabbit symbol and the words *Jinan Liu's Fine
 Needle Shop*.[^3] Written above and below the copper printing plate were
 the sentences ‘We buy high-quality steel rods and make fine-quality
@@ -78,10 +78,10 @@ needles, To be ready for use at home in no time’. These messages
 identified the clear purpose of drawing customers’ attention and
 establishing a robust reputation for the shop.
 
-![](media/image1.jpg){width="2.6875in" height="2.7233344269466317in"}
+![Figure 4.1: Page advertisement from Jinan Liu’s Fine Needle Shop,
+Shandong Province, Song Dynasty. ©depts.washington.edu.](imgs/TRA_Figure S4. 1.jpg)
 
-Figure S4. 1: Page advertisement from Jinan Liu’s Fine Needle Shop,
-Shandong Province, Song Dynasty. ©depts.washington.edu.
+<br/>
 
 In Europe, when the towns and cities of the Middle Ages began to grow
 and the general population was yet unable to read, instead of signs that
@@ -91,7 +91,7 @@ a horseshoe, a candle or even a bag of flour.[^4] Most of these
 advertisements directly introduce the products and services to to
 attract the attention of customers.
 
-In the 18^th^ century, advertisements began to appear in the English
+In the 18th century, advertisements began to appear in the English
 weekly newspapers. These early print advertisements were used to
 advertise books and newspapers, which became increasingly affordable
 with the advancement of the press.[^5] Parallel with this efficient
@@ -101,7 +101,7 @@ False pharmaceutical advertisements became a serious social problem, and
 skepticism about advertising arose, leading to the development of
 regulations for advertising content.
 
-By the middle of the 19^th^ century, mass production had become
+By the middle of the 19th century, mass production had become
 commonplace as a result of the commercialization that connected
 continents, this driven by colonialism throughout the globe. Printing
 techniques developed rapidly. The demand to promote products and
@@ -113,11 +113,10 @@ cookies, one of the first global brands in the world, were sold in 172
 countries in 1900, and their global reach was reflected in their
 advertisements.[^7]
 
-![](media/image2.jpg){width="2.7475732720909884in"
-height="2.7475732720909884in"}
+![Figure S4. 2: Advertising for Huntley & Palmers wafers c. 1890
+©Wikimedia Commons.](imgs/TRA_Figure S4. 2.jpg)
 
-Figure S4. 2: Advertising for Huntley & Palmers wafers c. 1890
-©Wikimedia Commons.
+<br/>
 
 La Press, one French newspaper, was the first to set up paid
 advertisments on its pages in June 1836. This advertising service
@@ -146,24 +145,23 @@ Public spaces were also gradually commercialized into areas for
 advertising. Signs appeared in stores and advertisements in newspapers
 while advertising posters were produced and displayed throughout the
 city. The promoted posters also appeared on public transport vehicles to
-attract the attention of passersby in the early part of 20^th^
+attract the attention of passersby in the early part of 20th
 Century.[^12]
 
-![](media/image3.jpg){width="5.524272747156606in"
-height="3.791660104986877in"}
-
-Figure S4. 3: George William Joy's depiction of the interior of a late
+![Figure S4. 3: George William Joy's depiction of the interior of a late
 19th century omnibus conspicuously shows the advertisements placed
-overhead. ©Wikimedia Commons.
+overhead. ©Wikimedia Commons.](imgs/TRA_Figure S4. 3.jpg)
 
-By the beginning of the 20^th^ century, targeted advertising tactics had
+<br/>
+
+By the beginning of the 20th century, targeted advertising tactics had
 been introduced through the practice of Thomas J. Barratt of London,
 known as *the father of modern advertising*.[^13] Consulting for the
 Pears soap company, Barratt formed various influential advertising
 campaigns to promote the products of the company, which involved
 targeted slogans, images, and phrases. One of his slogans, ‘Good
 morning. Have you used Pears' soap?’ was very well known in its day and
-throughout the 20^th^ century.[^14] In 1882, Barratt collaborated with
+throughout the 20th century.[^14] In 1882, Barratt collaborated with
 the English actress, Lillie Langry to create the poster-girl for Pears;
 this role resulted in Langtry becoming the first celebrity to endorse a
 commercial product.[^15] Being the company's brand manager in 1865,
@@ -180,14 +178,13 @@ stale, and unprofitable if presented to the public today. Not that the
 idea of today is always better than the older idea, but it is different
 – it hits the present taste.’[^16]
 
-![](media/image4.jpg){width="2.631068460192476in"
-height="3.396469816272966in"}
+![Figure 4.4: Poster for Pears soap created under Thomas J. Barratt's
+leadership, 1900. Victoria and Albert Museum, London ©Wikimedia Commons.](imgs/TRA_Figure S4. 4.jpg)
 
-Figure S4. 4: Poster for Pears soap created under Thomas J. Barratt's
-leadership, 1900. Victoria and Albert Museum, London ©Wikimedia Commons.
+<br/>
 
-In the late 19^th^ and early 20^th^ centuries, the development of the
-1^st^ and 2^nd^ industrial revolutions initiated a mass production
+In the late 19th and early 20th centuries, the development of the
+1st and 2nd industrial revolutions initiated a mass production
 period which eventually led to overproduction. Consequently, the supply
 of goods would grow beyond consumer demand. To be able to sell products,
 businesses began to use advertising as a means to bring their attention
@@ -211,7 +208,7 @@ directing *consumer attention* to their *inner selfish desires*, and the
 media will suggest ways to satisfy those desires with solutions,
 products, and services.[^19] Influencing human instincts by tactical
 scenarios has been the most profound intention of advertising from the
-20^th^ century until the present.
+20th century until the present.
 
 In the early 1920s, radio stations were founded firstly by radio
 equipment manufacturers, and then non-profit associations such as
@@ -221,7 +218,7 @@ prospect of radio to reach consumers in their homes, and soon these
 businesses adopted advertising techniques through this medium. Slogans,
 mascots, and jingles became familiar on the radio in the 1920s and
 television in the early 1930s.[^21] Capturing public attention with
-sound became the most prevailing advertising method of the early 20^th^
+sound became the most prevailing advertising method of the early 20th
 century. Advertising revenue in developed countries such as the US has
 increased rapidly since that time. There is recorded information – such
 as in the 1920s, under Secretary of Commerce Herbert Hoover–about the
@@ -256,7 +253,7 @@ purchasing information, advertisers began to use motivational research
 and consumer research. For example, the forcefully branded campaigns for
 Chrysler and Exxon/Esso used insights-drawn research methods from
 psychology and cultural anthropology, which opened some of the most
-enduring campaigns of the 20^th^ century.[^29]
+enduring campaigns of the 20th century.[^29]
 
 In the early 1950s, the Du-Mont Television Network initiated the modern
 practice of selling advertising time to multiple sponsors. In some
@@ -326,7 +323,7 @@ state is partly rooted in external factors, such as the social
 environment, and the functioning of the economy, politics, and
 contemporary culture in which advertising plays a remarkable role.
 
-*The tension caused by visual stress *
+###The tension caused by visual stress
 
 ‘The power of marketing is always the power of getting someone's
 attention’[^37] – Naomi Klein.
@@ -346,7 +343,7 @@ themselves as the name of libraries. For example, Starbucks cafe has
 appeared in the libraries of university around the world.[^38] Their
 logos and signs are ubiquitous, especially in public places that attract
 the most views. According to Naomi Klein, the author of the book *No
-logo**,*** the invasion of the large franchise has created a *no space*
+logo*,the invasion of the large franchise has created a *no space*
 society where people have no right to privacy, even in public
 spaces.[^39] Plenty of areas that used to be public spaces, have become
 just *pseudo-public spaces*. Personal space is also no longer personal
@@ -355,11 +352,10 @@ advertising products attractive images everywhere, in books, magazines,
 on household items or on devices such as radio, TV, computers and
 phones.
 
-![](media/image5.jpg){width="4.342857611548556in"
-height="2.2843350831146108in"}
+![Figure S4. 5: Students wait in line at a Starbucks store inside the
+Suzzallo Library (Photo by Assunta Ng) ©nwasianweekly.com.[^40]](imgs/TRA_Figure S4. 5.jpg)
 
-Figure S4. 5: Students wait in line at a Starbucks store inside the
-Suzzallo Library (Photo by Assunta Ng) ©nwasianweekly.com.[^40]
+<br/>
 
 In parallel with the offline environment, all *visual destinations* in
 cyberspace are also dominated by colours, symbols and moving images of
@@ -383,10 +379,9 @@ between brands to target customers through color. In online space
 especially, digital codes of colors are used to specifically connect
 with the identity of brands.[^41]
 
-![](media/image6.jpg){width="6.294444444444444in"
-height="4.448611111111111in"}
+![Figure 4.6: Image Colour theory @ tranguyen project 2011.](imgs/TRA_Figure S4. 6.jpg)
 
-Figure S4. 6: Image Colour theory @ tranguyen project 2011.
+<br/>
 
 Brand identity plays a significant role in differentiating a business
 from the rest of the competition in the market. Therefore, identity
@@ -407,12 +402,11 @@ surrounded by designed environments, from living habitats to virtual
 habitats, and our visual attention is appropriated continuously and
 professionally.
 
-![](media/image7.jpeg){width="6.471589020122485in"
-height="3.6406255468066493in"}
+![Figure S4. 7: The drinkable TV advertising ©tunedglobal.com.[^42]](imgs/TRA_Figure S4. 7.jpg)
 
-Figure S4. 7: The drinkable TV advertising ©tunedglobal.com.[^42]
+<br/>
 
-*Stress for the meaningless struggles*
+### Stress for the meaningless struggles
 
 In addition to the effects of various visual strategies, the
 metaphorical images, indirect contents and hidden tactics of marketing
@@ -438,11 +432,10 @@ significance’.[^44] For example, to connect with the cultural values,
 numerous classical paintings have been used to advertise products or
 services.
 
-![](media/image8.jpg){width="6.294444444444444in"
-height="3.147222222222222in"}
+![Figure S4. 8: Da Vinci’s Last Supper reimagined as a gambler’s table
+©tiqets.com.[^45]](imgs/TRA_Figure S4. 8.jpg)
 
-Figure S4. 8: Da Vinci’s Last Supper reimagined as a gambler’s table
-©tiqets.com.[^45]
+<br/>
 
 Local cultural symbols have also been connected regularly with the image
 of products and services by global corporations. One of my former work,
@@ -455,10 +448,10 @@ Vietnamese. Integrating, connecting, and blurring the boundaries between
 cultural symbols and product images is presented in the interactive
 work, Cultural Symbol Store, which I exhibited in 2012.
 
-![](media/image9.jpg){width="6.462008967629046in"
-height="5.992187226596675in"}
+![Figure S4. 9: Cultural Symbol Store ©Tra Nguyen.[^47]
+](imgs/TRA_Figure S4. 9.jpg)
 
-Figure S4. 9: Cultural Symbol Store ©Tra Nguyen.[^47]
+<br/>
 
 Movie stars, cultural idols or political personalities are positioned as
 symbols of beauty, wealth, power and satisfaction, and they have been
@@ -467,10 +460,10 @@ to the present. A glamorous super model, an actor in elegant outfit, or
 a wealthy professional sportsman has become a living symbol for many
 customers.
 
-![](media/image10.jpeg){width="5.5in" height="3.528519247594051in"}
+![Figure S4. 10: Tennis champion Roger Federer stars in Mercedes SUV
+advertisement. ©al.com.[^48]](imgs/TRA_Figure S4. 10.jpg)
 
-Figure S4. 10: Tennis champion Roger Federer stars in Mercedes SUV
-advertisement. ©al.com.[^48]
+<br/>
 
 The constructed social symbols have thus become the basis for defining
 one’s ego. Consumer *sense of self* is directly connected to the feeling
@@ -480,14 +473,14 @@ the customer. Customers are taught to crave the perfect bodies, elegant
 looks and luxurious living spaces. All these intend to give customers
 psychic powers about themselves.
 
-However*,* the present struggle to assert the personal self is not much
-different from the race to assert the consumer's self*,* the asserting
+However, the present struggle to assert the personal self is not much
+different from the race to assert the consumer's self, the asserting
 of shopping ability, consumption, and ownership.
 
 Advertising and marketing have created fake relationships between
 customers and products through symbols. Going beyond the stimulation of
 demand for specific products, advertising generates consumption as a
-specific behavior. At the end of the 20^th^ century, people witnessed a
+specific behavior. At the end of the 20th century, people witnessed a
 significant decline in the importance of instrumental, utility-driven
 consumption and a remarkable expansion in *symbolic consumption*.[^50]
 
@@ -506,7 +499,7 @@ define their interests as narrowly as possible. This was once achieved
 by extensive deprivation. Today in developed countries, it is achieved
 by imposing a false standard of what is and is not desirable.’[^52]
 
-*Stressed by irrational desires and fears *
+### Stressed by irrational desires and fears
 
 For the majority of economic and political planners, masterminding and
 manipulating the public psyche is the essential method modeled and used
@@ -640,7 +633,7 @@ numbers of digital accounts has become the determining factor for social
 power in the new era. Advertisements surround the users, targeting them
 with different psychological tactics, and offer users specific
 information, products, and services. Putting people in a state of being
-forced to use and forced to choose gives present users *no choice**.***
+forced to use and forced to choose gives present users *no choice*.
 The permanent fear and desire in the unconscious mind of users, in some
 cases, could develop into a form of mental illness. Today, consumers
 have become subjects of psychological tactics applied in sales and
@@ -677,7 +670,7 @@ environment could push social distance further and further, and
 stimulated by many other factors it might introduce instability to
 future societies.
 
-## **Narcissistic Kingdom**
+## Narcissistic Kingdom
 
 In the present, the modern ideas of love are about *satisfying oneself*,
 whereas the traditional ideas of love in a communal way were that people
@@ -685,7 +678,7 @@ surrender themselves to someone else. Giving oneself up has become a
 thrilling and frightening thought of the majority of contemporary
 individuals.[^57] The love associated with self-sacrifice is slowly
 disappearing from life, while *individualism* that first surfaced in the
-early 19^th^ centurynow influences present-day society.[^58]
+early 19th centurynow influences present-day society.[^58]
 
 Social involvement and compassion are popularly considered significant
 contributing factors to fatigue experienced by people in the face of the
@@ -734,10 +727,10 @@ common slogans in Vietnam.[^61]
 
 From East to West, advertising has encouraged all society members to
 express themselves with these snappy, captivating slogans such as
-‘Because I’m worth it’, empowering consumers to ‘Have it your way’and
-‘It’s everywhere you want to be’.[^62]^,^ [^63]^,^ [^64] The
+‘Because I’m worth it’[^62], empowering consumers to ‘Have it your way’^63]and
+‘It’s everywhere you want to be’.[^64] The
 advertisement also firmly asserts ‘Your passion, our strength’, and we
-will stand ‘On Your Side’.[^65]^,^ [^66] In general, contemporary
+will stand ‘On Your Side’.[^65] [^66] In general, contemporary
 individuals are driven to believe that they hold the care of
 institutions, organizations, parties, information providers, services,
 and products. The strong belief in personal power is nurtured daily by
@@ -853,8 +846,7 @@ Personalized functions have obviously generated the pleasure and comfort
 experience for users, which is the reason why users generally rarely
 hesitate to turn on the personalization features of digital products and
 services. At the same time, personalization is a persuasive reason for
-the activities of recording, exploiting, and manipulating user behavior;
-[[]{#OLE_LINK2 .anchor}]{#OLE_LINK1 .anchor}it is an influential tool in
+the activities of recording, exploiting, and manipulating user behavior; it is an influential tool in
 the age of AI information technology.
 
 Using search engines to understand users and reach targeted audiences is
@@ -1083,7 +1075,7 @@ Personal data is the foundation for categorizing users, merging them
 into target groups, and labeling them with the same identity profiles.
 Our society is a collective of *lonely crowds*; our ‘culture today is
 reflecting everything with the sameness’, our freedom experience at the
-moment is a constructed feeling.[^86]^,^ [^87] Neo-slavery is a current
+moment is a constructed feeling.[^86] [^87] Neo-slavery is a current
 consideration. No choice, no negotiation, and the majority of social
 issues are being managed automatically; contemporary society is
 operating like a market economy in which personal identity business
@@ -1362,16 +1354,11 @@ Capitalism*. Routledge, 2013.
 [^37]: *No Logo: Brands, Globalization, Resistance*, (Naomi Klein, 2003)
     Documentary film. https://www.youtube.com/watch?v=oeTgLKNb5R0.
 
-[^38]: Starbucks at various University.
-
-    Tipton Associates, 'Starbucks – University of Kentucky,' 22 Octorber
-    2020.
-    https://tipton-associates.com/our\_work/starbucks-university-of-kentucky.
-
-    https://www.bizjournals.com/seattle/news/2017/09/13/starbucks-opens-in-uw-suzzallo-library.html.
-
+[^38]: Tipton Associates, 'Starbucks – University of Kentucky,' 22 Octorber
+    2020. https://tipton-associates.com/our\_work/starbucks-university-of-kentucky;
     Coral Garnick, 'Starbucks Opens in UW's Suzzallo Library,' *Puget
-    Sound Business Journal*, 13 September 2017. Wikipedia contributors,
+    Sound Business Journal*, 13 September 2017.     https://www.bizjournals.com/seattle/news/2017/09/13/starbucks-opens-in-uw-suzzallo-library.html;
+Wikipedia contributors,
     ‘Takahashi City Library Starbucks Coffee’, 18 January 2022.
     https://commons.wikimedia.org/wiki/File:Takahashi\_City\_Library\_Starbucks\_Coffee\_ac\_%281%29.jpg.
 
@@ -1413,13 +1400,8 @@ Capitalism*. Routledge, 2013.
     Policy*, 1988.
 
 [^50]: Colin Campbell, *The Romantic Ethic and the Spirit of Modern
-    Consumerism*, Oxford: Basil Blackwell, 1987.
-
-    Jean Baudrillard, ‘Consumer Society.’ In *Selected Writings*, edited
-    by Mark Poster, Cambridge: Polity Press, 1988.
-
-    Zygmunt Bauman, ‘Consuming Life.’ *Journal of Consumer Culture* 1,
-    no. 1 (2001), p.9-29.
+    Consumerism*, Oxford: Basil Blackwell, 1987; Jean Baudrillard, ‘Consumer Society.’ In *Selected Writings*, edited
+    by Mark Poster, Cambridge: Polity Press, 1988;  Zygmunt Bauman, ‘Consuming Life.’ *Journal of Consumer Culture* 1, no. 1 (2001), p.9-29.
 
 [^51]: Robert Goldman and Stephen Papson, *Sign Wars: The Cluttered
     Landscape of Advertising,* New York: Guilford Press, 1996.
@@ -1429,9 +1411,7 @@ Capitalism*. Routledge, 2013.
 [^53]: John Berger, *Ways of Seeing*, Penguin UK, 2008. p.130.
 
 [^54]: Thành Luân, ‘Apple Đã Bán Ra Tổng Cộng 2 Tỉ Chiếc iPhone.’ *Thanh
-    Niên*, 30 March 2021.
-
-    https://thanhnien.vn/apple-da-ban-ra-tong-cong-2-ti-chiec-iphone-post1114574.html.
+    Niên*, 30 March 2021. https://thanhnien.vn/apple-da-ban-ra-tong-cong-2-ti-chiec-iphone-post1114574.html.
 
 [^55]: Katie Kilkenny, ‘How Anti-Aging Cosmetics Took Over the Beauty
     World.’ *Pacific Standard*, 30 August 2017.
@@ -1443,9 +1423,7 @@ Capitalism*. Routledge, 2013.
     https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html.
 
 [^57]: *HyperNormalisation*, (Adam Curtis, 2016), Documentary Series,
-    BBC Two.
-
-    Available at: https://www.youtube.com/watch?v=thLgkQBFTPw.
+    BBC Two. Available at: https://www.youtube.com/watch?v=thLgkQBFTPw.
 
 [^58]: Koenraad W Swart,’Individualism in the Mid-Nineteenth Century
     (1826-1860).’ *Journal of the History of Ideas* 23, no. 1 (1962):
@@ -1469,9 +1447,7 @@ Capitalism*. Routledge, 2013.
     More Ways With Have-sies™,’ 4 October 2023.
     https://news.bk.com/blog-posts/burger-king-r-invites-you-to-have-it-your-way-even-more-ways-with-have-sies-tm.
 
-[^64]: Visa’s slogan.
-
-    Visa Inc., ‘Visa Launches “Everywhere You Want to Be,” a Corporate
+[^64]: Visa Inc., ‘Visa Launches “Everywhere You Want to Be,” a Corporate
     Platform That Reconnects the Company to Its Heritage.’,
     *investor.visa.com*, 13 January 2014.
 
@@ -1480,9 +1456,7 @@ Capitalism*. Routledge, 2013.
     Unilever, 'Our company', *unilever.com*, 22 September 2021,
     https://www.unilever.com/our-company.
 
-[^66]: Michael Dukakis's US presidential campaign slogans.
-
-    Wikipedia contributors, ‘List of U.S. presidential campaign
+[^66]: Michael Dukakis's US presidential campaign slogans. Wikipedia contributors, ‘List of U.S. presidential campaign
     slogans’, 18 November 2022.
     https://en.wikipedia.org/wiki/List\_of\_U.S.\_presidential\_campaign\_slogans.
 
