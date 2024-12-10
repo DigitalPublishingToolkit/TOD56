@@ -788,7 +788,7 @@ channels to be aware of; candidates to vote for in the next election; or
 even the person they should love!
 
 ![Figure 1.27: Advertising is driving the whole spectrum of social
-activities. ©the author collects from various companies’ ads.](imgs/TRA_Figure S1.27.jpg)}
+activities. ©the author collects from various companies’ ads.](imgs/TRA_Figure S1.27.jpg)
 
 <br/>
 
