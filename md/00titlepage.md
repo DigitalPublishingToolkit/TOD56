@@ -19,15 +19,15 @@ Rights: CC BY-NC 4.0
 
 Title
 
-# **Chronicles of the Cyber Village**
+# Chronicles of the Cyber Village
 
 Subtitle
 
-## **Colonialism and Advertising in the Age of AI**
+## Colonialism and Advertising in the Age of AI
 
 Author
 
-## **Nguyen Thi Thanh Tra**
+## Nguyen Thi Thanh Tra
 
 Content consultant
 

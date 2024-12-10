@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-**Biography**
+# Biography
 
 Nguyen Thi Thanh Tra, Dr is a professor of Media Arts and Design at the
 Faculty of Industrial Fine Arts, Ton Duc Thang University, Vietnam. She
@@ -36,7 +36,7 @@ in the age of AI and automation. Her work takes the form of writing,
 design, film, interactive media, installation, and other forms of
 expression.
 
-**Dr. Nguyen Thi Thanh Tra **
+**Dr. Nguyen Thi Thanh Tra**
 
 Email: <nguyenthithanhtra1@tdtu.edu.vn>
 

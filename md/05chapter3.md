@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# 3rd Story - The Ambitious Children of Ai
+# 3rd Story - The Ambitious Children of AI
 
 ### 
 
@@ -50,27 +50,27 @@ thought with efficiency and precision the organic brain could never
 achieve. AI was born to that expectation.
 
 In antiquity, man-made apparatuses with intelligence appeared as
-storytelling devices and have been common in fiction.[^1] In the 2nd
+storytelling devices and have been common in fiction.[^05chapter3_1] In the 2nd
 century BC, the early analogue computers and the study of mechanical
-reasoning began with philosophers and mathematicians.[^2] In the
+reasoning began with philosophers and mathematicians.[^05chapter3_2] In the
 twentieth century, the research of mathematical logic led directly to
 Alan Turing's theory of computation, which suggested that a machine, by
 shuffling symbols as simple as ‘0’ and ‘1’, could describe and simulate
 any act of mathematical reasoning imaginable. The idea that digital
 computers can simulate any process of formal reasoning is known as the
-Church–Turing thesis.[^3] Along with simultaneous discoveries in
+Church–Turing thesis.[^05chapter3_3] Along with simultaneous discoveries in
 neurobiology, information theory and cybernetics, the researchers looked
-at the possibility of building an electronic brain.[^4] McCullouch and
+at the possibility of building an electronic brain.[^05chapter3_4] McCullouch and
 Pitts' formal design for Turing-complete ‘artificial neurons’ is
 considered the first work that is presently recognized as an example of
-AI.[^5]
+AI.[^05chapter3_5]
 
 In the 1950s, there were two visions on how machine intelligence
 emerged. Symbolic AI or GOFAI was the vision of using computers to
 create a symbolic representation of the world and systems that could
 reason about the existing world. The second was known as the
 connectionist approach and sought to achieve intelligence through
-learning.[^6] These two approaches to the mind *Symbolic AI* and the
+learning.[^05chapter3_6] These two approaches to the mind *Symbolic AI* and the
 brain *connectionist* have been compared by Lames Manyika. He argues
 that symbolic approaches dominated the push for artificial intelligence
 in the 1950s, due in part to its connection to the intellectual
@@ -78,12 +78,12 @@ traditions of Descartes, Boole, Gottlob Frege, Bertrand Russell, and
 others. Connectionist approaches based on cybernetics or artificial
 neural networks did not receive much attention in the past, but this
 strategy has become particularly noticeable in research in recent
-decades.[^7]
+decades.[^05chapter3_7]
 
 In the 1960s, 1970s, and 1980s, AI has repeatedly become a focus of
 investment and development in several developed countries because of the
 promise that machines will be capable of doing any work a man can do as
-Herbert Simon predicted.[^8] Nonetheless, unresolved failures and
+Herbert Simon predicted.[^05chapter3_8] Nonetheless, unresolved failures and
 difficulties caused the so called *AI winter* periods to regularly occur
 at the end of each decade of this blooming period of thirty years.
 
@@ -91,19 +91,19 @@ In the late 1990s and early 21st century, by finding specific solutions
 to specific problems, AI gradually restored its reputation. The narrow
 attention allowed AI researchers to produce verifiable results, exploit
 more mathematical methods, and collaborate with other fields such as
-statistics, economics and mathematics.[^9] With faster computers,
+statistics, economics and mathematics.[^05chapter3_9] With faster computers,
 algorithmic improvements, and access to large amounts of data, there was
 a significant advance in machine learning and perception; data-hungry
 deep learning methods started to dominate accuracy benchmarks around
-2012.[^10] The number of AI journal publications increased by 34.5% from
-2019 to 2020.[^11]
+2012.[^05chapter3_10] The number of AI journal publications increased by 34.5% from
+2019 to 2020.[^05chapter3_11]
 
 Meanwhile, researchers became concerned that AI was no longer pursuing
 the original goal of creating versatile, fully intelligent machines.
 Much of existing research involves statistical AI, which has been
 entirely used to solve specific problems, even highly successful
 techniques such as deep learning. This concern applied to to the
-subfield of artificial general intelligence (or AGI).[^12]
+subfield of artificial general intelligence (or AGI).[^05chapter3_12]
 
 A part of artificial intelligence, with its effective applications and
 tangible economic value, machine learning has become the development
@@ -111,7 +111,7 @@ focus of contemporary technology. *Machine learning* is considered the
 *promising successor* to AI. Fundamentally, machine learning algorithms
 generate a model based on sample data, known as training data, in order
 to make predictions or decisions partly without being explicitly
-programmed to do so.[^13] Machine learning algorithms have been
+programmed to do so.[^05chapter3_13] Machine learning algorithms have been
 introduced to the different applications of various fields, such as
 medicine, email filtering, speech recognition, agriculture and computer
 vision. In order to perform the needed tasks machine learning has also
@@ -122,11 +122,11 @@ future processes by using computers; however, not all machine learning
 is statistical learning. The research of mathematical optimization
 delivers methods, theory and application domains to the field of machine
 learning. Data mining is a related field focusing on exploratory data
-analysis through unsupervised learning.[^14] Data mining is of dominant
+analysis through unsupervised learning.[^05chapter3_14] Data mining is of dominant
 usage among the practical applications of machine learning today. In the
 business field, machine learning is also referred to as predictive
 analytics. Some current machine learning uses data and neural networks
-in a way that mimics the working of a biological brain.[^15]
+in a way that mimics the working of a biological brain.[^05chapter3_15]
 
 At the present time, within the development of artificial intelligence,
 we witness the breakthroughs of *deep learning* methods. Deep learning
@@ -134,9 +134,9 @@ is a class of machine learning algorithms that uses multiple layers to
 extract higher-level features from the raw inputs. In image processing,
 for example, lower layers able to identify edges, while higher layers
 can identify concepts relating to people, such as numbers, letters, or
-faces.[^16] Deep learning is also known as deep structured learning.
+faces.[^05chapter3_16] Deep learning is also known as deep structured learning.
 Currently, the method would be implemented at different levels, such as
-supervised, semi-supervised, or unsupervised.[^17] Deep learning
+supervised, semi-supervised, or unsupervised.[^05chapter3_17] Deep learning
 architectures such as deep neural networks, deep trust networks, deep
 reinforcement learning, recurrent neural networks, convolutional neural
 networks, and transformers have been applied to different fields,
@@ -145,14 +145,14 @@ processing, machine translation, bio-informatics, drug design, medical
 image analysis, climate science, material testing, and board game
 programs. In some cases, the recent deep learning systems have been able
 to produce results comparable to the performance of the human
-expery.[^18]
+expery.[^05chapter3_18]
 
 ## Deep Learning Beauty
 
 With the new development of deep learning methods, the world has been
 observed, recorded, and evaluated by computer vision. The tasks of
 aesthetic judgment and aesthetic generation have been researched and are
-currently being applied to various sciences.[^19] AI systems have become
+currently being applied to various sciences.[^05chapter3_19] AI systems have become
 widely influential *automated aesthetic judges* and have created
 *constructed aesthetics* for contemporary society.
 
@@ -181,7 +181,7 @@ Computational strategies for aesthetics arose amid efforts to operate
 computer science methods in order to predict, convey, and evoke an
 emotional response to a piece of art. In this field, aesthetics is not
 assumed to be dependent on taste, but it is rather a matter of
-cognition, and consequently learning.[^20]
+cognition, and consequently learning.[^05chapter3_20]
 
 Experimental aesthetics has been considered the central research
 direction of computer science related to aesthetics. The discipline
@@ -191,15 +191,15 @@ analysis of individual experience and behavior based on experimental
 methods played a key role in experimental aesthetics. The discipline is
 intensely oriented towards the natural sciences, while the modern
 approaches mostly originate from the fields of cognitive psychology
-(aesthetic cognitivism) or neuroscience (neuroaesthetics).[^21]
+(aesthetic cognitivism) or neuroscience (neuroaesthetics).[^05chapter3_21]
 Therefore, the perception of works of art, music, websites or other IT
 products is studied.
 
 In 1928, the mathematician George David Birkhoff developed an aesthetic
 measurement formula for aesthetic judgement, the M=O/C, where M stands
-for the ratio of order to complexity.[^22] Later on, in the 1970s,
+for the ratio of order to complexity.[^05chapter3_22] Later on, in the 1970s,
 Abraham Moles and Frieder Nake were among the first to analyze links
-between aesthetics, information processing, and information theory.[^23]
+between aesthetics, information processing, and information theory.[^05chapter3_23]
 Then in the 1990s, German computer scientist Jürgen Schmidhuber
 described an algorithmic theory of beauty which takes the subjectivity
 of the observer into consideration, and postulates that among several
@@ -209,7 +209,7 @@ options classified as comparable by a given subjective observer, the
 describes an aesthetically attractive human face whose proportions can
 be described by very few bits of information, drawing inspiration from
 less detailed 15th century proportion studies by Leonardo da Vinci and
-Albrecht Dürer.[^24]
+Albrecht Dürer.[^05chapter3_24]
 
 Schmidhuber's thesis explicitly makes a division between the *beautiful*
 and the *attractive*, stating that interesting corresponds to the first
@@ -227,10 +227,10 @@ expected rewards by learning to execute sequences of action, which
 generate additional interesting input data with yet unknown, but
 learnable predictability or regularity. The principles can be realized
 in artificial agents constructing a form of *artificial
-curiosity*.[^25] [^26]
+curiosity*.[^05chapter3_25] [^05chapter3_26]
 
 In 2005, computer scientists attempted to invent automated techniques to
-presume the aesthetic quality of images.[^27] These approaches follow a
+presume the aesthetic quality of images.[^05chapter3_27] These approaches follow a
 machine learning methodology, where large numbers of manually rated
 photos have been used to *teach* a computer about what visual properties
 can be attributed to an aesthetic quality. The study by Y. Li and C.J.
@@ -240,10 +240,10 @@ technique, in which the *order* and *complexity* of an image determined
 information theory and the order was determined through the usage of
 fractal compression Developed at Penn State University, the Acquine
 engine is another example that rates natural photographs uploaded by
-users. [^28] [^29] Computational approaches have also been applied in
+users. [^05chapter3_28] [^05chapter3_29] Computational approaches have also been applied in
 filmmaking by using a software model developed by Chitra Dorai and
 researchers at the IBM T.J. Watson Research Center; this tool estimates
-aesthetics based on the values of *narrative elements*.[^30]
+aesthetics based on the values of *narrative elements*.[^05chapter3_30]
 
 In general, in the relation to computer-based aesthetic approach, the
 value of aesthetics for the most part, depends on the various formulas.
@@ -266,10 +266,10 @@ Currently, the majority of computer aesthetic formulas are rooted in
 classical aesthetic judgments, that is the beauty concepts of the
 European Renaissance. The golden ratio calculation formulas and the
 perspective and proportion formulas became the measure of computer
-aesthetics. [^31] [^32] [^33] Meanwhile, we have witnessed a
+aesthetics. [^05chapter3_31] [^05chapter3_32] [^05chapter3_33] Meanwhile, we have witnessed a
 *coup* in aesthetic perception since the early 20th century, when
 various anti-beauty concepts emerged influencing significantly modern
-art.[^34] The ideas of high and low art, beautiful and ugly generated
+art.[^05chapter3_34] The ideas of high and low art, beautiful and ugly generated
 various questions, such as: is simplicity beautiful, or is complexity
 bad? These queries are no longer clear. From the last century on, we
 have witnessed intense debates and confrontations in formulating what
@@ -294,7 +294,7 @@ Formed in the late 17th century and flourishing with its multiple
 tactics in the 20th century, the consumerism of the 21st century has
 been associated with the psychological manipulation of consumers through
 digital devices in which aesthetic manipulation is the most complex and
-compelling manipulative tool.[^35] Aesthetic appeal serves as a veil
+compelling manipulative tool.[^05chapter3_35] Aesthetic appeal serves as a veil
 camouflaging the psychological manipulation of the user that is being
 carried out by the designers, activated by the marketing strategies of
 media owners and producers.
@@ -329,7 +329,7 @@ depicted by a device and observed the others. ‘The 21st-century image
 became purely technical. Seeing has become mediated by a universal lens:
 the smartphone. We swipe, *like*, and move on, annihilating the gaze and
 any real aesthetic judgment. At the same time, the image resolution is
-sometimes even better than we could perceive with the naked eye.’[^36]
+sometimes even better than we could perceive with the naked eye.’[^05chapter3_36]
 
 With the wide-ranging connectivity between personal accounts, social
 taste on the internet is influenced dramatically by social networking
@@ -385,7 +385,7 @@ Susan Sontag notes: ‘Needing to have reality confirmed and experience
 enhanced by photographs is an aesthetic consumerism to which everyone is
 now addicted. Industrial societies turn their citizens into
 image-junkies; it is the most irresistible form of mental
-pollution.’[^37]
+pollution.’[^05chapter3_37]
 
 Sharing the power of social network, search engines constantly exploit
 technological advantage to dominate the aesthetics of users. The image
@@ -408,9 +408,9 @@ content) when they surf the web, Pinterest contributes significantly to
 shaping aesthetic trends in cyberspace. Pinterest’s aesthetic has even
 become a reference address for many designers and art makers. In many
 design tutorials, Pinterest has been mentioned as a *savior* for ideas
-and layouts.[^38] In order to influence or manipulate aesthetic trends,
+and layouts.[^05chapter3_38] In order to influence or manipulate aesthetic trends,
 various businesses have collaborated with Pinterest to preferentially
-filter their images.[^39]
+filter their images.[^05chapter3_39]
 
 The operating system of Pinterest is a collection of Pins from the
 users, boards, and topics followed, as well as the promoted pins and
@@ -426,16 +426,16 @@ function that allows users to search for elements in images (existing
 pins, existing parts of a photo, or new photos) and navigates users to
 similar content within Pinterest's database. The tools supported by
 artificial intelligence are known as Pinterest Lens, Shop the Look and
-Instant Ideas.[^40] With these new funtions and capabilities, the
+Instant Ideas.[^05chapter3_40] With these new funtions and capabilities, the
 advertising revenue of Pinterest increased dramatically, and the
 products of its advertising partners have gradually flooded and now
 dominate search results. It is claimed that, at a time around 2020,
 Pinterest began to flood search results in Google Images. In 2022,
 Google affirmed that it had performed modifications to increase
-*diversity* in the search results.[^41] Pinterest confirmed that, as a
+*diversity* in the search results.[^05chapter3_41] Pinterest confirmed that, as a
 consequence of Google's changes of November 2021, ‘U.S. monthly active
 users coming to Pinterest from the web, desktop and transferable web
-declined roughly 30% year over year’.[^42] This demonstrates the radical
+declined roughly 30% year over year’.[^05chapter3_42] This demonstrates the radical
 influence of search engines in how they literally navigate social
 aesthetics through what they allow users to see on their screens.
 
@@ -458,7 +458,7 @@ convertible to money and secured as private property; or on other types
 of culturally constituted types of capital: personal cultural capital
 (formal education, knowledge); objective cultural capital (books, art);
 and further on on institutionalized cultural capital (honors and
-titles)’.[^43] Identifying customer class to stimulate consumer demand
+titles)’.[^05chapter3_43] Identifying customer class to stimulate consumer demand
 has always been an important marketing strategy and has contributed to
 the sustainability of consumerism.
 
@@ -494,28 +494,28 @@ most scandalous examples of this issue is the AI version of Barack
 Obama’s photo.
 
 ![Figure 3.1: The AI version of the photo of Barack Obama
-©theverge.com.[^44]](imgs/TRA_Figure S3. 1.jpg)
+©theverge.com.[^05chapter3_44]](imgs/TRA_Figure S3. 1.jpg)
 
 <br/>
 
 When the user uploaded a low-resolution portrait of Barack Obama, the
 first President of color of the United States, the algorithm
 automatically generated a picture of a man with distinctly white
-features.[^45]
+features.[^05chapter3_45]
 
 AI facial recognition systems used for criminal risk assessment have
-been found to be biased against black individuals.[^46] [^47] Several
+been found to be biased against black individuals.[^05chapter3_46] [^05chapter3_47] Several
 criminal risk AI systems have been used in England and have been opposed
 by citizens because the identification results tend to discriminate
-against the poor.[^48] In 2015, Google photos would tag black people as
-gorillas.[^49] By 2018, this issue had not been resolved; however, it
+against the poor.[^05chapter3_48] In 2015, Google photos would tag black people as
+gorillas.[^05chapter3_49] By 2018, this issue had not been resolved; however, it
 was reported that Google had developed a strategy to remove all images
 of gorillas from the training data. Therefore, after that event, the
 Google search tool has not been able to identify real gorillas at
-all.[^50] Similar issues with recognizing non-white people have been
-detected in many other systems.[^51] In 2016, Microsoft ran a chatbot
+all.[^05chapter3_50] Similar issues with recognizing non-white people have been
+detected in many other systems.[^05chapter3_51] In 2016, Microsoft ran a chatbot
 that learned from Twitter, and it quickly picked up racist and sexist
-language on this social media platform.[^52]
+language on this social media platform.[^05chapter3_52]
 
 Social grouping for manipulative effects in advertising is a
 probabilistic, sample-based method. On one hand, the grouping results
@@ -535,11 +535,11 @@ customers of multi-level financial investment services. As a result of
 these effects, most of the poor will be poorer, and the rich will be
 richer. Another example is how white people may be more often targeted
 with racist propaganda messages. Many violent attacks on people of color
-in the U.S. are rooted in automated inciting messages.[^53] Manipulative
+in the U.S. are rooted in automated inciting messages.[^05chapter3_53] Manipulative
 social grouping may likely deepen the societal divide. John Dewey has
 implied that the unity of *aesthetics* and *ethics* has been reflected
 in our knowledge of behavior *being fair*, the term having a double
-meaning of attractive and morally acceptable.[^54]
+meaning of attractive and morally acceptable.[^05chapter3_54]
 
 To limit the misdirection of machine automatic learning systems, the
 ethical issues of artificial intelligence technology and the complement
@@ -575,7 +575,7 @@ evolving* aesthetic assessments. This collective approach is vital in
 nurturing an ecosystem where technology respects and amplifies human
 diversity, rather than constricting it.
 
-**References**
+## References
 
 Berlinski, David. *The Advent of the Algorithm*. Harcourt Books, 2000.
 
@@ -708,194 +708,194 @@ Mathematical Art Form.’ *Leonardo* 21, no. 5 (1988): 103-110.
 Zhou, Victor. ‘Machine Learning for Beginners: An Introduction to Neural
 Networks.’ *Medium*, 2019.
 
-[^1]: Pamela McCorduck, *Machines Who Think*, 2nd ed. Natick, MA: A. K.
+[^05chapter3_1]: Pamela McCorduck, *Machines Who Think*, 2nd ed. Natick, MA: A. K.
     Peters, Ltd., 2004. ISBN 1-56881-205-1.
 
-[^2]: Wikipedia contributors, ‘Antikythera mechanism’, 18 January 2022,
+[^05chapter3_2]: Wikipedia contributors, ‘Antikythera mechanism’, 18 January 2022,
     https://en.wikipedia.org/wiki/Antikythera\_mechanism.
 
-[^3]: David Berlinski, *The Advent of the Algorithm*. Harcourt Books,
+[^05chapter3_3]: David Berlinski, *The Advent of the Algorithm*. Harcourt Books,
     2000.
 
-[^4]: Pamela McCorduck, *Machines Who Think,* 2nd ed. Natick, MA: A. K.
+[^05chapter3_4]: Pamela McCorduck, *Machines Who Think,* 2nd ed. Natick, MA: A. K.
     Peters, Ltd., 2004. ISBN 1-56881-205-1; Daniel Crevier, *AI: The Tumultuous Search for Artificial
     Intelligence*, New York, NY: Basic Books, 1993; Hans Moravec, *Mind Children: The Future of Robot and Human
     Intelligence*, Harvard University Press, 1988.
 
-[^5]: Stuart J Russell and Peter Norvig, *Artificial Intelligence: A
+[^05chapter3_5]: Stuart J Russell and Peter Norvig, *Artificial Intelligence: A
     Modern Approach*, 2nd ed. Upper Saddle River, NJ: Prentice Hall,
     2003.
 
-[^6]: James Manyika, ‘Getting AI Right: Introductory Notes on AI &
+[^05chapter3_6]: James Manyika, ‘Getting AI Right: Introductory Notes on AI &
     Society.’ *Daedalus* 151, no. 2 (2022):
     5-27. doi:10.1162/daed\_e\_01897. 
 
-[^7]: James Manyika, ‘Getting AI Right: Introductory Notes on AI &
+[^05chapter3_7]: James Manyika, ‘Getting AI Right: Introductory Notes on AI &
     Society.’ *Daedalus* 151, no. 2 (2022):
     5-27. doi:10.1162/daed\_e\_01897. 
 
-[^8]: Daniel Crevier, *AI: The Tumultuous Search for Artificial
+[^05chapter3_8]: Daniel Crevier, *AI: The Tumultuous Search for Artificial
     Intelligence*, New York, NY: BasicBooks, 1993.
 
-[^9]: Stanford University, ‘Artificial Intelligence Index Report 2021’*,
+[^05chapter3_9]: Stanford University, ‘Artificial Intelligence Index Report 2021’*,
     aiindex.stanford.edu*, 10 January 2021, https://aiindex.stanford.edu/wp-content/uploads/2021/11/2021-AI-Index-Report\_Master.pdf.
 
-[^10]: McKinsey & Company, ‘Ask the AI experts: What's driving today's
+[^05chapter3_10]: McKinsey & Company, ‘Ask the AI experts: What's driving today's
     progress in AI?’, *mckinsey.com*, 10 January 2021,
     https://www.mckinsey.com/capabilities/quantumblack/our-insights/ask-the-ai-experts-whats-driving-todays-progress-in-ai.
 
-[^11]: McKinsey & Company, ‘Ask the AI experts: What's driving today's
+[^05chapter3_11]: McKinsey & Company, ‘Ask the AI experts: What's driving today's
     progress in AI?’, *mckinsey.com*, 10 January 2021.
 
-[^12]: Cassio Pennachin and Ben Goertzel, ‘Contemporary Approaches to
+[^05chapter3_12]: Cassio Pennachin and Ben Goertzel, ‘Contemporary Approaches to
     Artificial General Intelligence.’ In *Artificial General
     Intelligence*, Cognitive Technologies, Berlin, Heidelberg: Springer,
     2007.
 
-[^13]: Wikipedia contributors, ‘Machine learning’, 20 January 2021,
+[^05chapter3_13]: Wikipedia contributors, ‘Machine learning’, 20 January 2021,
     https://en.wikipedia.org/wiki/Machine\_learning.
 
-[^14]: Christopher M Bishop, *Pattern Recognition and Machine Learning,*
+[^05chapter3_14]: Christopher M Bishop, *Pattern Recognition and Machine Learning,*
     Springer, 2006.
 
-[^15]: Victor Zhou, ‘Machine Learning for Beginners: An Introduction to
+[^05chapter3_15]: Victor Zhou, ‘Machine Learning for Beginners: An Introduction to
     Neural Networks.’ *Medium*, 2019.
 
-[^16]: Wikipedia contributors, ‘Deep learning’, 20 January 2021,
+[^05chapter3_16]: Wikipedia contributors, ‘Deep learning’, 20 January 2021,
     https://en.wikipedia.org/wiki/Deep\_learning.
 
-[^17]: Yann LeCun, Yoshua Bengio and Geoffrey Hinton, ‘Deep Learning.’
+[^05chapter3_17]: Yann LeCun, Yoshua Bengio and Geoffrey Hinton, ‘Deep Learning.’
     *Nature* 521, no. 7553 (2015): 436-444.
 
-[^18]: Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, ‘ImageNet
+[^05chapter3_18]: Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, ‘ImageNet
     Classification with Deep Convolutional Neural Networks.’ In *NIPS
     2012: Neural Information Processing Systems*, Lake Tahoe, Nevada,
     2012.
 
-[^19]: Milan Sonka, Vaclav Hlavac and Roger Boyle, *Image Processing,
+[^05chapter3_19]: Milan Sonka, Vaclav Hlavac and Roger Boyle, *Image Processing,
     Analysis, and Machine Vision*, Thomson, 2008.
 
-[^20]: Ali Jahanian, *Quantifying Aesthetics of Visual Design Applied to
+[^05chapter3_20]: Ali Jahanian, *Quantifying Aesthetics of Visual Design Applied to
     Automatic Design,* Cham: Springer, 2016. ISBN 9783319314853.
 
-[^21]: Colin Martindale, ‘Recent Trends in the Psychological Study of
+[^05chapter3_21]: Colin Martindale, ‘Recent Trends in the Psychological Study of
     Aesthetics, Creativity, and the Arts.’ *Empirical Studies of the
     Arts 25*, no. 2 (2007): 121-141.
 
-[^22]: Abraham A Moles, ‘Théorie de l'information et perception
+[^05chapter3_22]: Abraham A Moles, ‘Théorie de l'information et perception
     esthétique.’ *Revue Philosophique de la France et de l'Étranger* 147
     (1957): 233-242.
 
-[^23]: Abraham A Moles, ‘Théorie de l'information et perception
+[^05chapter3_23]: Abraham A Moles, ‘Théorie de l'information et perception
     esthétique.’ *Revue Philosophique de la France et de l'Étranger* 147
     (1957): 233-242.
 
-[^24]: Juergen Schmidhuber, ‘Low-Complexity Art.’ *Leonardo* 30, no. 2
+[^05chapter3_24]: Juergen Schmidhuber, ‘Low-Complexity Art.’ *Leonardo* 30, no. 2
     (1997): 97-103. doi:10.2307/1576418.
 
-[^25]: Jürgen Schmidhuber, ‘Papers on artificial curiosity since 1990’,
+[^05chapter3_25]: Jürgen Schmidhuber, ‘Papers on artificial curiosity since 1990’,
     *people.idsia.ch*, 18 February 2021.
     https://people.idsia.ch/\~juergen/interest.html.
 
-[^26]: Juergen Schmidhuber, ‘Developmental Robotics, Optimal Artificial
+[^05chapter3_26]: Juergen Schmidhuber, ‘Developmental Robotics, Optimal Artificial
     Curiosity, Creativity, Music, and the Fine Arts.’ *Connection
     Science* 18, no. 2 (2006): 173-187.
 
-[^27]: Ritendra Datta, Dhiraj Joshi, Jia Li and James Z. Wang, ‘Computer
+[^05chapter3_27]: Ritendra Datta, Dhiraj Joshi, Jia Li and James Z. Wang, ‘Computer
     Vision – ECCV 2006.’ In *European Conference on Computer Vision*,
     Lecture Notes in Computer Science, vol. 3953, 288-301. Springer,
     2006.
 
-[^28]: Jörn Grahl, Gary Greenfield, Penousal Machado and Michael
+[^05chapter3_28]: Jörn Grahl, Gary Greenfield, Penousal Machado and Michael
     O'Neill, *Applications of Evolutionary Computation: EvoApplications
     2010: EvoCOMNET, EvoENVIRONMENT, EvoFIN, EvoMUSART, and EvoTRANSLOG,
     Istanbul, Turkey, April 7-9, 2010, Proceedings*. Berlin: Springer
     Science & Business Media, 2010. ISBN 9783642122415.
 
-[^29]: Penn State University, ‘Aesthetic Quality Inference Engine –
+[^05chapter3_29]: Penn State University, ‘Aesthetic Quality Inference Engine –
     Instant Impersonal Assessment of Photos’, *psu.edu*, 20 May 2021.
 
-[^30]: Shlomo Dubnov, ‘Musical Information Dynamics as Models of
+[^05chapter3_30]: Shlomo Dubnov, ‘Musical Information Dynamics as Models of
     Auditory Anticipation.’ in *Machine Audition: Principles, Algorithms
     and Systems*, Ed. W. Weng, IGI Global publication, 2010.
 
-[^31]: Mario Livio, *The Golden Ratio: The Story of Phi, the World's
+[^05chapter3_31]: Mario Livio, *The Golden Ratio: The Story of Phi, the World's
     Most Astonishing Number*, Crown, 2008.
 
-[^32]: Ka Guan, Hong Stephen and Helmer Aslaksen, *Perspective in
+[^05chapter3_32]: Ka Guan, Hong Stephen and Helmer Aslaksen, *Perspective in
     Mathematics and Art*. National University of Singapore, 2005.
     https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a6f9f364430004af4c9eb74c68d3d066f762c5ad.
 
-[^33]: Richard Wright, ‘Some Issues in the Development of Computer Art
+[^05chapter3_33]: Richard Wright, ‘Some Issues in the Development of Computer Art
     as a Mathematical Art Form.’ *Leonardo* 21, no. 5 (1988): 103-110.
 
-[^34]: Hal Foster, ‘Postmodernism: A Preface.’ In *The Anti-Aesthetic:
+[^05chapter3_34]: Hal Foster, ‘Postmodernism: A Preface.’ In *The Anti-Aesthetic:
     Essays on Postmodern Culture*, ix–xvi. Port Townsend, WA: Bay Press,
     1983.
 
-[^35]: Frank Trentmann, *Empire of Things: How We Became a World of
+[^05chapter3_35]: Frank Trentmann, *Empire of Things: How We Became a World of
     Consumers, from* *the Fifteenth Century to the Twenty-First*.
     Penguin UK, 2016.
 
-[^36]: Mieke Gerritzen and Geert Lovink. *Made In China, Designed in
+[^05chapter3_36]: Mieke Gerritzen and Geert Lovink. *Made In China, Designed in
     California, Criticised in Europe*. Institute of Network Cultures,
     2019.
 
-[^37]: Susan Sontag, *On Photography*. Vol. 48. Macmillan, 2001.
+[^05chapter3_37]: Susan Sontag, *On Photography*. Vol. 48. Macmillan, 2001.
 
-[^38]: *Learn Graphic Design By Yourself,* (4 The Creatives, Youtube,
+[^05chapter3_38]: *Learn Graphic Design By Yourself,* (4 The Creatives, Youtube,
     2020) https://www.youtube.com/watch?v=pPTWDeZBPmc.
 
-[^39]: Pinterest Business Webpage, ‘Shopping’, 22 May 2021.
+[^05chapter3_39]: Pinterest Business Webpage, ‘Shopping’, 22 May 2021.
     https://business.pinterest.com/en-us/shopping.
 
-[^40]: Cohen David, ‘Pinterest Brings Its Visual Discovery Technology to
+[^05chapter3_40]: Cohen David, ‘Pinterest Brings Its Visual Discovery Technology to
     the Advertising Side’. *Adweek, 2017.* https://www.adweek.com/performance-marketing/pinterest-visual-discovery-advertising/.
 
-[^41]: Kyle Chayka, ‘What Google Search Isn't Showing You’. *The New
+[^05chapter3_41]: Kyle Chayka, ‘What Google Search Isn't Showing You’. *The New
     Yorker*, 10 March 2022.
 
-[^42]: Motley Fool Transcribing, ‘Pinterest (PINS) Q4 2021 Earnings Call
+[^05chapter3_42]: Motley Fool Transcribing, ‘Pinterest (PINS) Q4 2021 Earnings Call
     Transcript’. *The Motley Fool*, 2022.
 
-[^43]: Pierre Bourdieu and Loïc Wacquant, ‘Symbolic Capital and Social
+[^05chapter3_43]: Pierre Bourdieu and Loïc Wacquant, ‘Symbolic Capital and Social
     Classes.’ *Journal of Classical Sociology* 13, no. 2 (2013):
     292-302.
 
-[^44]: James Vincent, ‘What a Machine Learning Tool That Turns Obama
+[^05chapter3_44]: James Vincent, ‘What a Machine Learning Tool That Turns Obama
     White Can (and Can’t) Tell Us About AI Bias.’ *The Verge,* 2020.
     https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias.
 
-[^45]: Rock Content, ‘6 Ways Artificial Intelligence Will Affect Design
+[^05chapter3_45]: Rock Content, ‘6 Ways Artificial Intelligence Will Affect Design
     in the Years to Come’, *rockcontent.com*, 2022.
     https://rockcontent.com/blog/artificial-intelligence-design.
 
-[^46]: Julia Angwin, Jeff Larson, Lauren Kirchner and Surya
+[^05chapter3_46]: Julia Angwin, Jeff Larson, Lauren Kirchner and Surya
     Mattu, ‘Machine Bias’, *ProPublica,* 2016.
 
-[^47]: Ellora Thadaney Israni, ‘Opinion | When an Algorithm Helps Send
+[^05chapter3_47]: Ellora Thadaney Israni, ‘Opinion | When an Algorithm Helps Send
     You to Prison’. *New York Times*, 2017.
 
-[^48]: Matt Burgess, ‘UK Police Are Using AI to Inform Custodial
+[^05chapter3_48]: Matt Burgess, ‘UK Police Are Using AI to Inform Custodial
     Decisions.’ *Wired*, 1 March, 2018.
     https://www.wired.co.uk/article/police-ai-uk-durham-hart-checkpoint-algorithm-edit.
 
-[^49]: BBC News, “Google Apologises for Racist Blunder,” *BBC News*, 1
+[^05chapter3_49]: BBC News, “Google Apologises for Racist Blunder,” *BBC News*, 1
     July 2015, https://www.bbc.com/news/technology-33347866.
 
-[^50]: Vincent James, ‘Google 'fixed' its racist algorithm by removing
+[^05chapter3_50]: Vincent James, ‘Google 'fixed' its racist algorithm by removing
     gorillas from its image-labeling tech’. *The Verge*, 2018.
 
-[^51]: Kate Crawford, ‘Opinion | Artificial Intelligence's White Guy
+[^05chapter3_51]: Kate Crawford, ‘Opinion | Artificial Intelligence's White Guy
     Problem’. *New York Times*, 2016.
 
-[^52]: Rachel Metz, ‘Why Microsoft's teen chatbot, Tay, said lots of
+[^05chapter3_52]: Rachel Metz, ‘Why Microsoft's teen chatbot, Tay, said lots of
     awful things online.’ *MIT Technology Review*, 2016.
 
-[^53]: Yam Kimmy, ‘Viral images show people of color as anti-Asian
+[^05chapter3_53]: Yam Kimmy, ‘Viral images show people of color as anti-Asian
     perpetrators. That misses the big picture’, *NBC NEWS*, 2021.
     https://www.nbcnews.com/news/asian-america/viral-images-show-people-color-anti-asian-perpetrators-misses-big-n1270821.
 
-[^54]: John Dewey and James Tufts, ‘Ethics’, *The Collected Works of
+[^05chapter3_54]: John Dewey and James Tufts, ‘Ethics’, *The Collected Works of
     John Dewey*, 1882–1953, edited by Jo-Ann Boydston, 275. Carbonsdale:
     Southern Illinois University Press, 1932.

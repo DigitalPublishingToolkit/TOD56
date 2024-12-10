@@ -24,11 +24,11 @@ Stolen Treasure*—begins in the bustling cyber bazaar, a digital
 crossroads of trade and deceit. From the dawn of communal gatherings
 around ancient fires to the sprawling digital forums of today, the art
 of advertising has been a constant, calling out to the collective
-consciousness of societies.[^1] Historically, the resonant call of town
+consciousness of societies.[^06chapter4_1] Historically, the resonant call of town
 criers once harnessed the power of the voice to captivate, their words
 carrying the weight of commerce and the messages of political change.
 Evidence indicates that ancient Egyptians made use of papyrus to create
-sales messages and wall posters.[^2] Artifacts bearing commercial
+sales messages and wall posters.[^06chapter4_2] Artifacts bearing commercial
 messages and political campaign notices have been found in the ruins of
 Pompeii and ancient Arabia. In ancient Greece and Rome, papyrus was
 frequently used for lost and found advertisements. Moreover, wall or
@@ -72,7 +72,7 @@ itself is marketed and consumed.
 As an example, the first printed advertisement was a bronze plate dating
 from the Song Dynasty (10th to 13th AD). It used to print posters on
 a square paper with a rabbit symbol and the words *Jinan Liu's Fine
-Needle Shop*.[^3] Written above and below the copper printing plate were
+Needle Shop*.[^06chapter4_3] Written above and below the copper printing plate were
 the sentences ‘We buy high-quality steel rods and make fine-quality
 needles, To be ready for use at home in no time’. These messages
 identified the clear purpose of drawing customers’ attention and
@@ -87,14 +87,14 @@ In Europe, when the towns and cities of the Middle Ages began to grow
 and the general population was yet unable to read, instead of signs that
 read *cobbler, miller, tailor, or blacksmith,* images related to their
 trades would be used, such as a boot, a suit, a hat, a clock, a diamond,
-a horseshoe, a candle or even a bag of flour.[^4] Most of these
+a horseshoe, a candle or even a bag of flour.[^06chapter4_4] Most of these
 advertisements directly introduce the products and services to to
 attract the attention of customers.
 
 In the 18th century, advertisements began to appear in the English
 weekly newspapers. These early print advertisements were used to
 advertise books and newspapers, which became increasingly affordable
-with the advancement of the press.[^5] Parallel with this efficient
+with the advancement of the press.[^06chapter4_5] Parallel with this efficient
 production and distribution of commercial information, the emergence of
 false or *quack* advertisements was observed in the field of promotions.
 False pharmaceutical advertisements became a serious social problem, and
@@ -108,10 +108,10 @@ techniques developed rapidly. The demand to promote products and
 services lead to the birth of the advertising industry. In this period,
 biscuits and chocolate became products for the masses. The British
 biscuit manufacturers were among the first ones to introduce the idea of
-a brand to distinguish between grocery products.[^6] Huntley & Palmers
+a brand to distinguish between grocery products.[^06chapter4_6] Huntley & Palmers
 cookies, one of the first global brands in the world, were sold in 172
 countries in 1900, and their global reach was reflected in their
-advertisements.[^7]
+advertisements.[^06chapter4_7]
 
 ![Figure S4. 2: Advertising for Huntley & Palmers wafers c. 1890
 ©Wikimedia Commons.](imgs/TRA_Figure S4. 2.jpg)
@@ -122,13 +122,13 @@ La Press, one French newspaper, was the first to set up paid
 advertisments on its pages in June 1836. This advertising service
 resulted in lower pricing for the newspaper, expanding its readership
 and increasing profitability. Soon after, this formula was copied by
-other news publishers.[^8] In the 1840s, Volney B. Palmer founded the
+other news publishers.[^06chapter4_8] In the 1840s, Volney B. Palmer founded the
 base of the modern advertising agency in Philadelphia. In 1842, Palmer
 began to purchase a large amount of space in various newspapers at
 discount prices, and he then resold the space to advertisers at higher
 prices. At that time, the copy, layout, and artwork was still prepared
 by the advertising companies. As a matter of fact, Palmer was the
-earliest space broker.[^9] The spatial element in newspapers had become,
+earliest space broker.[^06chapter4_9] The spatial element in newspapers had become,
 by then, a commodity in the supply chain for the advertising production
 process.
 
@@ -136,17 +136,17 @@ N.W. Ayer & Son's first full-service advertising agency was founded in
 1869 in Philadelphia. Ayer & Son offered to plan, develop and execute
 complete advertising campaigns for its clients. In the 1900s, the
 advertising agency had become the creative planning provider.
-Advertising established itself as a profession.[^10] In the meantime, in
+Advertising established itself as a profession.[^06chapter4_10] In the meantime, in
 France, Charles-Louis Havas expanded the services of his news agency to
 include advertising brokerage, making it the first French group to
-organize advertisement space in the newspapers.[^11]
+organize advertisement space in the newspapers.[^06chapter4_11]
 
 Public spaces were also gradually commercialized into areas for
 advertising. Signs appeared in stores and advertisements in newspapers
 while advertising posters were produced and displayed throughout the
 city. The promoted posters also appeared on public transport vehicles to
 attract the attention of passersby in the early part of 20th
-Century.[^12]
+Century.[^06chapter4_12]
 
 ![Figure S4. 3: George William Joy's depiction of the interior of a late
 19th century omnibus conspicuously shows the advertisements placed
@@ -156,15 +156,15 @@ overhead. ©Wikimedia Commons.](imgs/TRA_Figure S4. 3.jpg)
 
 By the beginning of the 20th century, targeted advertising tactics had
 been introduced through the practice of Thomas J. Barratt of London,
-known as *the father of modern advertising*.[^13] Consulting for the
+known as *the father of modern advertising*.[^06chapter4_13] Consulting for the
 Pears soap company, Barratt formed various influential advertising
 campaigns to promote the products of the company, which involved
 targeted slogans, images, and phrases. One of his slogans, ‘Good
 morning. Have you used Pears' soap?’ was very well known in its day and
-throughout the 20th century.[^14] In 1882, Barratt collaborated with
+throughout the 20th century.[^06chapter4_14] In 1882, Barratt collaborated with
 the English actress, Lillie Langry to create the poster-girl for Pears;
 this role resulted in Langtry becoming the first celebrity to endorse a
-commercial product.[^15] Being the company's brand manager in 1865,
+commercial product.[^06chapter4_15] Being the company's brand manager in 1865,
 listed as the first of its kind by the Guinness Book of Records, Barratt
 introduced many of the crucial ideas that lie behind successful
 advertising, which were circulated widely in his time. Thomas J. Barratt
@@ -176,7 +176,7 @@ the market for changing tastes and mores. In 1907, he asserted that
 them. An idea that was effective a generation ago would fall flat,
 stale, and unprofitable if presented to the public today. Not that the
 idea of today is always better than the older idea, but it is different
-– it hits the present taste.’[^16]
+– it hits the present taste.’[^06chapter4_16]
 
 ![Figure 4.4: Poster for Pears soap created under Thomas J. Barratt's
 leadership, 1900. Victoria and Albert Museum, London ©Wikimedia Commons.](imgs/TRA_Figure S4. 4.jpg)
@@ -195,48 +195,48 @@ consumerism. From that time onward, consumer attention has been captured
 by business interest. Various scholars argued that
 ‘pre-twentieth-century advertising is almost portrayed universally as a
 simple announcement, contrasted with the cunning sophistication and
-subtlety of contemporary versions.’[^17]
+subtlety of contemporary versions.’[^06chapter4_17]
 
 In the 1910s and 1920s, advertisers in the US applied the doctrine that
 human instincts could be targeted and influenced, which *sublimated*
-into the desire to buy goods.[^18] This is the mass manipulation method
+into the desire to buy goods.[^06chapter4_18] This is the mass manipulation method
 initiated by Edward Bernays, nephew of Sigmund Freud and founder of
 modern public relations, who was previously mentioned in Post 2 of this
 writing. The core of Bernays' communication philosophy is *linking*
 mass-produced goods to the *unconscious desires*; it's all about
 directing *consumer attention* to their *inner selfish desires*, and the
 media will suggest ways to satisfy those desires with solutions,
-products, and services.[^19] Influencing human instincts by tactical
+products, and services.[^06chapter4_19] Influencing human instincts by tactical
 scenarios has been the most profound intention of advertising from the
 20th century until the present.
 
 In the early 1920s, radio stations were founded firstly by radio
 equipment manufacturers, and then non-profit associations such as
-schools, clubs, and civic groups also installed their own stations.[^20]
+schools, clubs, and civic groups also installed their own stations.[^06chapter4_20]
 Retailers and consumer goods manufacturers quickly discovered the
 prospect of radio to reach consumers in their homes, and soon these
 businesses adopted advertising techniques through this medium. Slogans,
 mascots, and jingles became familiar on the radio in the 1920s and
-television in the early 1930s.[^21] Capturing public attention with
+television in the early 1930s.[^06chapter4_21] Capturing public attention with
 sound became the most prevailing advertising method of the early 20th
 century. Advertising revenue in developed countries such as the US has
 increased rapidly since that time. There is recorded information – such
 as in the 1920s, under Secretary of Commerce Herbert Hoover–about the
 American government remarkably compelling advertising. Hoover himself
 transmitted an address to the Associated Advertising Clubs of the World
-in 1925 called ‘Advertising is a vital force in our national life.’[^22]
+in 1925 called ‘Advertising is a vital force in our national life.’[^06chapter4_22]
 In October 1929, the head of the U.S. Bureau of Foreign and Domestic
 Commerce, Julius Klein, confirmed that ‘Advertising is the key to world
-prosperity’.[^23] According to a 1933 European economic journal, this
+prosperity’.[^06chapter4_23] According to a 1933 European economic journal, this
 was part of an *unparalleled* collaborative situation between business
-and government in the 1920s.[^24]
+and government in the 1920s.[^06chapter4_24]
 
 The rise of mass media allowed brands to bypass retailers by advertising
 directly to consumers. It was a paradigm shift that forced manufacturers
 to focus on brands and to stimulate the need for understanding
 purchasing habits, usage behaviors, and the needs and aspirations of
-consumers.[^25] The first series of radio drama was financed by soap
-producers. The genre became known as a soap opera.[^26] Before long,
+consumers.[^06chapter4_25] The first series of radio drama was financed by soap
+producers. The genre became known as a soap opera.[^06chapter4_26] Before long,
 radio station owners realized that they could increase advertising
 revenue by selling 'airtime' in small chunks of seconds or minutes that
 could be sold to multiple businesses. By the 1930s, these packets of
@@ -244,21 +244,21 @@ time for advertising became well known and were being sold by the
 station's geographical sales representatives. Starting from the era of
 radio advertising until today, the *golden times* or *prime time* has
 been generally sold at the highest prices which has been associated with
-the intensity of social attention.[^27]
+the intensity of social attention.[^06chapter4_27]
 
 By the 1940s, manufacturers began to notice how buyers developed
 personal relationships with their brands in a
-social/psychological/anthropological sense.[^28] To collect consumer
+social/psychological/anthropological sense.[^06chapter4_28] To collect consumer
 purchasing information, advertisers began to use motivational research
 and consumer research. For example, the forcefully branded campaigns for
 Chrysler and Exxon/Esso used insights-drawn research methods from
 psychology and cultural anthropology, which opened some of the most
-enduring campaigns of the 20th century.[^29]
+enduring campaigns of the 20th century.[^06chapter4_29]
 
 In the early 1950s, the Du-Mont Television Network initiated the modern
 practice of selling advertising time to multiple sponsors. In some
 cases, sponsors exerted intensive control over a show's content,
-allowing advertising agencies even to write TV shows themselves.[^30]
+allowing advertising agencies even to write TV shows themselves.[^06chapter4_30]
 The public interest and attention have been directed to constructed
 program scripts. From then on, advertisements shifted significantly from
 direct to indirect persuasion methods.
@@ -267,22 +267,22 @@ By the 1990s, the emergence of the internet ushered in a new period in
 advertising techniques. The attention of society began to shift from
 offline spaces to online spaces, and desktop advertising was born. The
 appearance of ad servers drove the online advertising development that
-contributed to *the* *dot-com boom* of the 1990s.[^31] Most businesses
+contributed to *the* *dot-com boom* of the 1990s.[^06chapter4_31] Most businesses
 operated solely on advertising revenue. The principal part of desktop
 advertising in the early period of the internet age utilized contextual
 advertising shown on website interfaces, banner advertising,
 pay-per-click text, and e-mail marketing. Through these ad forms, page
 owners could find additional revenue streams to support their content.
 For instance, the online service Prodigy displayed banners at the bottom
-of the interface to advertise Sears products.[^32] In 1993, the first
+of the interface to advertise Sears products.[^06chapter4_32] In 1993, the first
 clickable web ad was sold by Global Network Navigator to a Silicon
-Valley law firm.[^33] Web banner advertising was considered the
+Valley law firm.[^06chapter4_33] Web banner advertising was considered the
 mainstream of online advertising when HotWired, the online component of
 Wired Magazine, and Time Warner's Pathfinder sold banner advertising to
-AT&T and other companies in 1994.[^34] The first AT&T ad on HotWired had
+AT&T and other companies in 1994.[^06chapter4_34] The first AT&T ad on HotWired had
 a 44% click-through rate, and instead of directing clickers to AT&T's
 website, the ad linked to the online tours of the world's most famous
-art museums.[^35]
+art museums.[^06chapter4_35]
 
 With the emergence of innovative technologies in the 1990s, the
 interactivity of advertising methods increased. The ability to measure
@@ -318,7 +318,7 @@ with discontentment with what one possesses, and exhaustion of physical
 and mental resources. The tension level in contemporary societies is
 increasing. Stress is considered a common psychological phenomenon in
 modern humans. According to The US National Library of Medicine, ‘stress
-is a feeling of emotional or physical tension.’[^36] This psychological
+is a feeling of emotional or physical tension.’[^06chapter4_36] This psychological
 state is partly rooted in external factors, such as the social
 environment, and the functioning of the economy, politics, and
 contemporary culture in which advertising plays a remarkable role.
@@ -326,7 +326,7 @@ contemporary culture in which advertising plays a remarkable role.
 ###The tension caused by visual stress
 
 ‘The power of marketing is always the power of getting someone's
-attention’[^37] – Naomi Klein.
+attention’[^06chapter4_37] – Naomi Klein.
 
 Every day people are faced with visual overload in their environment, an
 abundance of attention signals. Both online and offline spaces have been
@@ -340,12 +340,12 @@ are forced to stare during their journeys. Institutions and universities
 also allow private companies or corporations to display products and
 sell goods in their premises. Several coffee chains have even branded
 themselves as the name of libraries. For example, Starbucks cafe has
-appeared in the libraries of university around the world.[^38] Their
+appeared in the libraries of university around the world.[^06chapter4_38] Their
 logos and signs are ubiquitous, especially in public places that attract
 the most views. According to Naomi Klein, the author of the book *No
 logo*,the invasion of the large franchise has created a *no space*
 society where people have no right to privacy, even in public
-spaces.[^39] Plenty of areas that used to be public spaces, have become
+spaces.[^06chapter4_39] Plenty of areas that used to be public spaces, have become
 just *pseudo-public spaces*. Personal space is also no longer personal
 because of the aggression of brands and advertisements. People see
 advertising products attractive images everywhere, in books, magazines,
@@ -353,7 +353,7 @@ on household items or on devices such as radio, TV, computers and
 phones.
 
 ![Figure S4. 5: Students wait in line at a Starbucks store inside the
-Suzzallo Library (Photo by Assunta Ng) ©nwasianweekly.com.[^40]](imgs/TRA_Figure S4. 5.jpg)
+Suzzallo Library (Photo by Assunta Ng) ©nwasianweekly.com.[^06chapter4_40]](imgs/TRA_Figure S4. 5.jpg)
 
 <br/>
 
@@ -377,7 +377,7 @@ perception of customers about their brand. Color has played an important
 role in branding attention tactics; hence, there is a competitive race
 between brands to target customers through color. In online space
 especially, digital codes of colors are used to specifically connect
-with the identity of brands.[^41]
+with the identity of brands.[^06chapter4_41]
 
 ![Figure 4.6: Image Colour theory @ tranguyen project 2011.](imgs/TRA_Figure S4. 6.jpg)
 
@@ -402,7 +402,7 @@ surrounded by designed environments, from living habitats to virtual
 habitats, and our visual attention is appropriated continuously and
 professionally.
 
-![Figure S4. 7: The drinkable TV advertising ©tunedglobal.com.[^42]](imgs/TRA_Figure S4. 7.jpg)
+![Figure S4. 7: The drinkable TV advertising ©tunedglobal.com.[^06chapter4_42]](imgs/TRA_Figure S4. 7.jpg)
 
 <br/>
 
@@ -415,7 +415,7 @@ attention targeted by many things, people face a large amount of
 detrimental information. French sociologist, philosopher and cultural
 theorist Jean Baudrillard in his book *Simulacra and Simulation* wrote:
 ‘We live in a world where there is more and more information and less
-and less meaning.’[^43]
+and less meaning.’[^06chapter4_43]
 
 Contemporary society is confronted with a crisis of *information
 overload*, in which simulacra - images and symbols - begin to take
@@ -428,12 +428,12 @@ needs, thus creating the desire for possession. In other words,
 ‘advertisements manipulate the relation between ‘meaning’ and ‘reality’
 by appropriating pre-existing meanings to add value to unrelated
 products, and posits methods of decoding their true underlying
-significance’.[^44] For example, to connect with the cultural values,
+significance’.[^06chapter4_44] For example, to connect with the cultural values,
 numerous classical paintings have been used to advertise products or
 services.
 
 ![Figure S4. 8: Da Vinci’s Last Supper reimagined as a gambler’s table
-©tiqets.com.[^45]](imgs/TRA_Figure S4. 8.jpg)
+©tiqets.com.[^06chapter4_45]](imgs/TRA_Figure S4. 8.jpg)
 
 <br/>
 
@@ -441,14 +441,14 @@ Local cultural symbols have also been connected regularly with the image
 of products and services by global corporations. One of my former work,
 *Cultural Symbols of ‘Tet’ Holiday in Vietnamese Urban Lifestyles on
 Video Advertising*, introduced the manipulation of corporations on
-cultural symbols through video advertising in Vietnam.[^46] The images
+cultural symbols through video advertising in Vietnam.[^06chapter4_46] The images
 of Coca-Cola, Sony, P&G and Unilever have been associated strongly with
 with the cultural image of the Tet holiday, the New year festival of
 Vietnamese. Integrating, connecting, and blurring the boundaries between
 cultural symbols and product images is presented in the interactive
 work, Cultural Symbol Store, which I exhibited in 2012.
 
-![Figure S4. 9: Cultural Symbol Store ©Tra Nguyen.[^47]
+![Figure S4. 9: Cultural Symbol Store ©Tra Nguyen.[^06chapter4_47]
 ](imgs/TRA_Figure S4. 9.jpg)
 
 <br/>
@@ -461,13 +461,13 @@ a wealthy professional sportsman has become a living symbol for many
 customers.
 
 ![Figure S4. 10: Tennis champion Roger Federer stars in Mercedes SUV
-advertisement. ©al.com.[^48]](imgs/TRA_Figure S4. 10.jpg)
+advertisement. ©al.com.[^06chapter4_48]](imgs/TRA_Figure S4. 10.jpg)
 
 <br/>
 
 The constructed social symbols have thus become the basis for defining
 one’s ego. Consumer *sense of self* is directly connected to the feeling
-of having and possessing items.[^49] The promotional images have
+of having and possessing items.[^06chapter4_49] The promotional images have
 effectively linked products, services and social symbols with the ego of
 the customer. Customers are taught to crave the perfect bodies, elegant
 looks and luxurious living spaces. All these intend to give customers
@@ -482,10 +482,10 @@ customers and products through symbols. Going beyond the stimulation of
 demand for specific products, advertising generates consumption as a
 specific behavior. At the end of the 20th century, people witnessed a
 significant decline in the importance of instrumental, utility-driven
-consumption and a remarkable expansion in *symbolic consumption*.[^50]
+consumption and a remarkable expansion in *symbolic consumption*.[^06chapter4_50]
 
 The advertising industry has driven the *sign economy* to bloom,
-creating a cultural production system based on symbols.[^51] Advertising
+creating a cultural production system based on symbols.[^06chapter4_51] Advertising
 has played a social-oriented role, dominating the worldview and
 lifestyle of the majority of individuals. The *Consumer's Self* has
 navigated the awareness and actions of each individual. Ownership is the
@@ -497,7 +497,7 @@ In the last paragraph of the book *Ways of Seeing*, John Berger wrote:
 ‘Capitalism survives by forcing the majority, whom it exploits, to
 define their interests as narrowly as possible. This was once achieved
 by extensive deprivation. Today in developed countries, it is achieved
-by imposing a false standard of what is and is not desirable.’[^52]
+by imposing a false standard of what is and is not desirable.’[^06chapter4_52]
 
 ### Stressed by irrational desires and fears
 
@@ -534,7 +534,7 @@ associate mostly with the past and worry about the future. In the words
 of John Berger: ‘Publicity images also belong to the moment in the sense
 that they must be continually renewed and made up-to-date. Yet they
 never speak of the present. Often they refer to the past and always they
-speak of the future.’[^53] Advertising frequently projects the
+speak of the future.’[^06chapter4_53] Advertising frequently projects the
 deficiencies of the past and the perfect images of the future to
 consumers. At the same time, online marketing campaigns regularly build
 up different new social standards and provide various personal social
@@ -556,7 +556,7 @@ represent the trendiness, stylishness and high social status of the
 owner. Each year millions of young consumers spend approximately \$1300
 each to update their self-image by owning new devices. The impressive
 numbers for iphone sales are a good example: 5 million iPhone 13 series
-were sold in China on the first day of pre-order in 2021.[^54] With the
+were sold in China on the first day of pre-order in 2021.[^06chapter4_54] With the
 introduction of the new model, the previous one quickly became useless,
 even though it had been used for only one year. In this case, the
 essence of uselessness is identified by the incapacity to *show off*
@@ -569,7 +569,7 @@ generates the fear of consumers. Based on the common unspoken fear of
 getting old, anti-ageing products generate a sense of frustration among
 the elderly. Navigated by the hidden intentions of advertising, a biased
 perception of the elderly has been established in contemporary
-society.[^55] Specifically, advertising have a strong influence on the
+society.[^06chapter4_55] Specifically, advertising have a strong influence on the
 emotions of women, depriving them of their self confidence through
 prejudices about age. In parallel with creating anxiety from the dangers
 of ageing, the advertisements also outline *up-to-date styles* with new
@@ -616,7 +616,7 @@ permission, making it one of the largest data leaks in the history of
 the social network. The breach allowed the company to exploit the
 private social media activity of a large number of American voters,
 developing the techniques that underpinned its work on the success of
-the 2016 U.S. presidential election for Donald Trump.[^56] Based on the
+the 2016 U.S. presidential election for Donald Trump.[^06chapter4_56] Based on the
 insight about user psychographic characteristics, Trump’s supported
 media companies repeatedly sent fake news, smearing the image of Hillary
 Clinton – the opponent in the election, as well as creating the idea of
@@ -676,9 +676,9 @@ In the present, the modern ideas of love are about *satisfying oneself*,
 whereas the traditional ideas of love in a communal way were that people
 surrender themselves to someone else. Giving oneself up has become a
 thrilling and frightening thought of the majority of contemporary
-individuals.[^57] The love associated with self-sacrifice is slowly
+individuals.[^06chapter4_57] The love associated with self-sacrifice is slowly
 disappearing from life, while *individualism* that first surfaced in the
-early 19th centurynow influences present-day society.[^58]
+early 19th centurynow influences present-day society.[^06chapter4_58]
 
 Social involvement and compassion are popularly considered significant
 contributing factors to fatigue experienced by people in the face of the
@@ -708,7 +708,7 @@ systems is a revolutionary idea. However, this detachment from religious
 institutions simultaneously generates another form of attachment.
 In *The Protestant Ethic and the Spirit of Capitalism*, Max Weber cited
 the Protestant idea of a personal relationship with God as one of the
-main motivations that allowed capitalism to emerge.[^59] The detachment
+main motivations that allowed capitalism to emerge.[^06chapter4_59] The detachment
 of oneself from the collective also promotes the desire for private
 property and the hope to become a master.
 
@@ -719,18 +719,18 @@ philosophy, considered the enlightenment pathway, can be practiced
 easily through various ways. Although the *non-self/egolessness* is one
 of the important doctrines of classical Buddhism, the popular Buddhist
 approach that circulates widely on social media seems to be rather
-different. [^60] Brands promote modern populist Buddhist ideas with the
+different. [^06chapter4_60] Brands promote modern populist Buddhist ideas with the
 following tips: leave the turbulent life; protect all sentient beings;
 return to the inner self; be friends with oneself; and practice
 self-love. For example, ‘Touch your heart,’ and ‘Speak your way’ are
-common slogans in Vietnam.[^61]
+common slogans in Vietnam.[^06chapter4_61]
 
 From East to West, advertising has encouraged all society members to
 express themselves with these snappy, captivating slogans such as
-‘Because I’m worth it’[^62], empowering consumers to ‘Have it your way’^63]and
-‘It’s everywhere you want to be’.[^64] The
+‘Because I’m worth it’[^06chapter4_62], empowering consumers to ‘Have it your way’^63]and
+‘It’s everywhere you want to be’.[^06chapter4_64] The
 advertisement also firmly asserts ‘Your passion, our strength’, and we
-will stand ‘On Your Side’.[^65] [^66] In general, contemporary
+will stand ‘On Your Side’.[^06chapter4_65] [^06chapter4_66] In general, contemporary
 individuals are driven to believe that they hold the care of
 institutions, organizations, parties, information providers, services,
 and products. The strong belief in personal power is nurtured daily by
@@ -757,7 +757,7 @@ economic system is a vicious circle of isolation. Its technologies are
 based on isolation, and they contribute to that same isolation. From
 automobiles to television, the goods that the spectacular system chooses
 to produce also serve it as weapons for constantly reinforcing the
-conditions that engender *lonely crowds*.’[^67]
+conditions that engender *lonely crowds*.’[^06chapter4_67]
 
 An unfair society where most interests belong to a small group, and the
 majority of individuals live in tension, discontent, and instability, is
@@ -774,7 +774,7 @@ Achievements of Propaganda*, Noam Chomsky also assumed that ‘The rest of
 the population ought to be deprived of any form of organization, because
 organization just causes trouble. People have to be atomized and
 segregated and alone. They're not supposed to organize, because then
-they might be something beyond spectators of action.’[^68]
+they might be something beyond spectators of action.’[^06chapter4_68]
 
 Individualism has been multiplied as a *psychological strategy* in the
 current living environment. The enormous capacity of server systems and
@@ -800,9 +800,9 @@ user information to coordinate advertisements or propaganda messages,
 influencing user perceptions and emotions, and manipulating user
 behaviors, all are automatically implemented by algorithms. In the words
 of many CEOs in Silicon Valley, ‘This is incredibly
-efficient’.[^69] This smooth, seamless process of manipulation by
+efficient’.[^06chapter4_69] This smooth, seamless process of manipulation by
 platforms targets the user upon entering cyberspace, placing the user in
-the ‘You’re done’ situation, like the slogan of Amazon.[^70] 
+the ‘You’re done’ situation, like the slogan of Amazon.[^06chapter4_70] 
 
 The growing significance of individualism and the enormous support of AI
 technology have fueled the growth of *personalized marketing* and
@@ -825,7 +825,7 @@ Protocol television, Mobile devices, and Smart electronical devices.
 
 *Personalization* is a common notion for online services strategy today.
 Usually, the personalized functions are propagated tendentiously as a
-superior feature for user online experiences.[^71] The personalized
+superior feature for user online experiences.[^06chapter4_71] The personalized
 services, such as personalized search results and personalized
 advertising are being introduced as tools of miraculous convenience for
 users. Whenever the users turn on the personalized features of their
@@ -878,7 +878,7 @@ priority position on the search result list. Sponsored search
 advertisements are sold typically through real-time auctions, where
 advertisers bid for keywords. Moreover, setting a maximum price for each
 keyword or bid can include time, language, geography, and other
-constraints.[^72]
+constraints.[^06chapter4_72]
 
 Applying targeted advertising within social media is the only other
 focused strategy of information technology businesses. By encouraging
@@ -904,12 +904,12 @@ or the *pretended prominent information*. The personalization and
 customization functions of News Feed are no different from *personalized
 newspapers* set up by Facebook for each user. The targeted contents and
 targeted distribution methods have remarkably increased the engagement
-of users with Facebook.[^73] Similar to a tabloid dedicated to
+of users with Facebook.[^06chapter4_73] Similar to a tabloid dedicated to
 advertising, the recent Facebook News Feed is filled with commercial
 advertisements and propaganda information. Currently, this social
 network platform publicly allows their general ad partners to use
 comprehensive lists of various types of targeting options, including
-user interests, demographics and behaviors.[^74]
+user interests, demographics and behaviors.[^06chapter4_74]
 
 Statistics of user behavior data are not only the basis for
 *determining* and *predicting* customer interests and *navigating* how
@@ -940,7 +940,7 @@ delivery method is called programmatic advertising.
 *Programmatic advertising* is the most important sales and delivery
 advertising model in the age of AI and automation. With this method,
 digital ads are circulated, generated and sold automatically across
-websites and platforms through a software.[^75] The process of
+websites and platforms through a software.[^06chapter4_75] The process of
 producing, distributing, buying, and selling online ads between
 publishers, advertisers, ad networks, and ad exchanges are potentially
 implemented only through a complex, powerful and intelligent
@@ -950,7 +950,7 @@ operating digital advertising based on the application of programmatic
 sales and delivery models. In 2021, Google's share of digital
 advertising revenues worldwide was around 28.6 per cent. Following,
 Facebook's digital ad revenue share was 23.7 per cent, while Alibaba
-came in third position with 8.7 per cent.[^76]
+came in third position with 8.7 per cent.[^06chapter4_76]
 
 Owning the most massive, complex, and effective user personal data
 mining system, Google and Facebook now dominate the contemporary digital
@@ -960,7 +960,7 @@ operating system, chrome web browser, Google search engine, Gmail
 service, Google map, Google Drive, Google Translate, Google Meet, Google
 Calendar, Google Play, GooglePay, Google Photo, Youtube, Google Business
 and Google Ads. Notably, more than 80% of Alphabet's revenue comes from
-Google ads, which generated \$147 billion in 2020 revenue.[^77] Most of
+Google ads, which generated \$147 billion in 2020 revenue.[^06chapter4_77] Most of
 the services Google offers are free, in exchange for users *providing
 voluntarily* their information for Google's data system through their
 digital activities on Google services. Google users essentially become
@@ -971,16 +971,16 @@ advertising can appear on the social networking platform YouTube.
 Location ads will soon become another popular ads product of Google on
 Google maps 3D real-time street view.
 
-Gmail had 1.5 billion active users worldwide in 2019.[^78] An estimated
+Gmail had 1.5 billion active users worldwide in 2019.[^06chapter4_78] An estimated
 3.2 billion internet users were using Chrome as their main browser on
-over the world in 2021.[^79] According to Stat Counter, as of December
+over the world in 2021.[^06chapter4_79] According to Stat Counter, as of December
 2022, Google's global search engine market share was at 92.58%,
-absolutely dominating the business field of the search platforms.[^80]
+absolutely dominating the business field of the search platforms.[^06chapter4_80]
 As of 2023, YouTube has become the second biggest social media in the
-world, with over 2.5 billion active users.[^81] Ranked first among
+world, with over 2.5 billion active users.[^06chapter4_81] Ranked first among
 social networking service providers, Facebook owns 2.9 billion active
 users globally at the beginning of 2023. Meta generated 114.93 billion
-U.S. dollars in ad revenues in 202.[^82] The three influential social
+U.S. dollars in ad revenues in 202.[^06chapter4_82] The three influential social
 networking platforms, Facebook, Instagram, and WhatsApp all belong to
 Meta. Both Alphabet and Meta collect a massive amount of first-party
 data (data collected directly from interactions with customers and
@@ -988,7 +988,7 @@ audiences and normally not shared publicly). At the same time, they have
 become the trading center for various second-party data (indirectly
 collected data and generally shared only with trusted partners) and
 brokers for third-party data (indirectly collected data and commonly
-shared with many companies).[^83] Google and Facebook *rule* the global
+shared with many companies).[^06chapter4_83] Google and Facebook *rule* the global
 *programmatic targeted advertising market* by exclusively owning and
 coordinating enormous amounts of data.
 
@@ -1032,7 +1032,7 @@ high volumes of data taken from reality to make forecasts for the near
 future weather patterns. For example, IBM's The Weather Company - the
 World's Most Accurate Forecaster - runs on an IBM POWER9 supercomputer;
 this global weather model updates hourly and at a 3 – 4 km resolution to
-create the most accurate weather picture presently.[^84] Business
+create the most accurate weather picture presently.[^06chapter4_84] Business
 prediction through data analytics is another example of using machine
 learning technologies. Based on previous business data and common impact
 factors, the algorithm is able to find repetition patterns and predict
@@ -1070,18 +1070,18 @@ circumstances and future. Powerful individualism has become the dominant
 idea appropriated by current capitalism. Personalization and
 customization are *mass deceptions* aimed at isolating individuals
 through the idea of self-love and the illusion of freedom, encouraging
-individuals to have an enthusiastic presence in Cyberspace.[^85]
+individuals to have an enthusiastic presence in Cyberspace.[^06chapter4_85]
 Personal data is the foundation for categorizing users, merging them
 into target groups, and labeling them with the same identity profiles.
 Our society is a collective of *lonely crowds*; our ‘culture today is
 reflecting everything with the sameness’, our freedom experience at the
-moment is a constructed feeling.[^86] [^87] Neo-slavery is a current
+moment is a constructed feeling.[^06chapter4_86] [^06chapter4_87] Neo-slavery is a current
 consideration. No choice, no negotiation, and the majority of social
 issues are being managed automatically; contemporary society is
 operating like a market economy in which personal identity business
 dominates the cyber world.
 
-**References**
+## References
 
 Adorno, Theodor W., and Max Horkheimer. *Dialectic of Enlightenment*.
 Vol. 15. London: Verso, 1997. p. 94.
@@ -1233,128 +1233,128 @@ Media Automation.’ *Media International Australia* 166, no. 1 (2018):
 Weber, Max, and Stephen Kalberg. *The Protestant Ethic and the Spirit of
 Capitalism*. Routledge, 2013.
 
-[^1]: Dictionary, ‘Advertising.’ *Dictionary.com*, 1 March 2021.
+[^06chapter4_1]: Dictionary, ‘Advertising.’ *Dictionary.com*, 1 March 2021.
     https://www.dictionary.com/browse/advertising.
 
-[^2]: Vikas Behal and Sania Sareen, ‘Guerilla Marketing: A Low Cost
+[^06chapter4_2]: Vikas Behal and Sania Sareen, ‘Guerilla Marketing: A Low Cost
     Marketing Strategy.’ *International Journal of Management Research
     and Business Strategy* 3 (2014).
 
-[^3]: Washington, ‘Commercial Advertising in China’, *washington.edu*,
+[^06chapter4_3]: Washington, ‘Commercial Advertising in China’, *washington.edu*,
     20 May 2021.
     http://depts.washington.edu/chinaciv/graph/tcommain.htm.
 
-[^4]: Mass Robinson, ‘Communication and Journalism.’ *Delhi: Scientific
+[^06chapter4_4]: Mass Robinson, ‘Communication and Journalism.’ *Delhi: Scientific
     e-Resources*, 2019.
 
-[^5]: Terry R Nevett, *Advertising in Britain: A History*, London:
+[^06chapter4_5]: Terry R Nevett, *Advertising in Britain: A History*, London:
     Heinemann, 1982.
 
-[^6]: Russell Polly, ‘History Cook: the rise of the chocolate
+[^06chapter4_6]: Russell Polly, ‘History Cook: the rise of the chocolate
     biscuit’, *Financial Times,* 2018. 
 
-[^7]: Victoria & Albert Museum, ‘Huntley & Palmers Biscuits’. *Victoria
+[^06chapter4_7]: Victoria & Albert Museum, ‘Huntley & Palmers Biscuits’. *Victoria
     & Albert Museum*, 2019. 
 
-[^8]: Clyde Thogmartin, *The National Daily Press of France*, Summa
+[^06chapter4_8]: Clyde Thogmartin, *The National Daily Press of France*, Summa
     Publications, Inc., 1998.
 
-[^9]: Stephen J Eskilson, *Graphic Design: A New History*, New Haven,
+[^06chapter4_9]: Stephen J Eskilson, *Graphic Design: A New History*, New Haven,
     CT: Yale University Press, 2007. ISBN 978-0-300-12011-0.p. 58.
 
-[^10]: Stephen J Eskilson, *Graphic Design: A New History*, New Haven,
+[^06chapter4_10]: Stephen J Eskilson, *Graphic Design: A New History*, New Haven,
     CT: Yale University Press, 2007.
 
-[^11]: Stephen J Eskilson, *Graphic Design: A New History*, New Haven,
+[^06chapter4_11]: Stephen J Eskilson, *Graphic Design: A New History*, New Haven,
     CT: Yale University Press, 2007. ISBN 978-0-300-12011-0.
 
-[^12]: Re-tours, ‘Train & plane publicity and posters’, *retours.eu*, 23
+[^06chapter4_12]: Re-tours, ‘Train & plane publicity and posters’, *retours.eu*, 23
     May 2021. https://retours.eu/en/49-train-and-airplane/.
 
-[^13]: Nicholas Mirzoeff, ed, *The Visual Culture Reader*, Psychology
+[^06chapter4_13]: Nicholas Mirzoeff, ed, *The Visual Culture Reader*, Psychology
     Press, 2002. p. 510.
 
-[^14]: Matt Haig, *Brand Failures: The Truth About the 100 Biggest
+[^06chapter4_14]: Matt Haig, *Brand Failures: The Truth About the 100 Biggest
     Branding Mistakes of All Time*, Kogan Page Publishers, 2005.
 
-[^15]: Matt Haig, *Brand Failures: The Truth About the 100 Biggest
+[^06chapter4_15]: Matt Haig, *Brand Failures: The Truth About the 100 Biggest
     Branding Mistakes of All Time*, Kogan Page Publishers, 2005, p. 219,
     266.
 
-[^16]: Matt Haig, *Brand Failures: The Truth About the 100 Biggest
+[^06chapter4_16]: Matt Haig, *Brand Failures: The Truth About the 100 Biggest
     Branding Mistakes of All Time*, Kogan Page Publishers, 2005, p. 219,
     266.
 
-[^17]: Liz McFall, *Advertising: A Cultural Economy*, Sage, 2004, p. 1.
+[^06chapter4_17]: Liz McFall, *Advertising: A Cultural Economy*, Sage, 2004, p. 1.
 
-[^18]: Stuart Ewen, *Captains of Consciousness: Advertising and the
+[^06chapter4_18]: Stuart Ewen, *Captains of Consciousness: Advertising and the
     Social Roots of the Consumer Culture*. New York: McGraw-Hill, 1976,
     p. 34.
 
-[^19]: *The Century of The Self Part I: The Happiness Machines*, (dir,
+[^06chapter4_19]: *The Century of The Self Part I: The Happiness Machines*, (dir,
     Adam Curtis, 2002) Documentary Series, BBC Two.
 
-[^20]: Robert W McChesney, ‘Educators and the Battle for Control of US
+[^06chapter4_20]: Robert W McChesney, ‘Educators and the Battle for Control of US
     Broadcasting, 1928-35.’ In *Rich Media, Poor Democracy:
     Communication Politics in Dubious Times*. University of Illinois
     Press, 1999.
 
-[^21]: Robert W McChesney, ‘Educators and the Battle for Control of US
+[^06chapter4_21]: Robert W McChesney, ‘Educators and the Battle for Control of US
     Broadcasting, 1928-35.’ In *Rich Media, Poor Democracy:
     Communication Politics in Dubious Times*. University of Illinois
     Press, 1999.
 
-[^22]: William Leach, *Land of Desire*, New York: Pantheon Books, 1993,
+[^06chapter4_22]: William Leach, *Land of Desire*, New York: Pantheon Books, 1993,
     p. 375.
 
-[^23]: William Leach, *Land of Desire*, New York: Pantheon Books, 1993,
+[^06chapter4_23]: William Leach, *Land of Desire*, New York: Pantheon Books, 1993,
     p. 375.
 
-[^24]: William Leach, *Land of Desire*, New York: Pantheon Books, 1993.
+[^06chapter4_24]: William Leach, *Land of Desire*, New York: Pantheon Books, 1993.
 
-[^25]: Ross D Petty, *A History of Brand Identity Protection and Brand
+[^06chapter4_25]: Ross D Petty, *A History of Brand Identity Protection and Brand
     Marketing*, New York: Routledge, 2016.
 
-[^26]: Mary Ann Copeland, *Soap Opera History*, 1st ed. BDD Books, 1991.
+[^06chapter4_26]: Mary Ann Copeland, *Soap Opera History*, 1st ed. BDD Books, 1991.
     ISBN 0792454510.
 
-[^27]: Donald G Godfrey and Frederic A. Leigh, *Historical Dictionary of
+[^06chapter4_27]: Donald G Godfrey and Frederic A. Leigh, *Historical Dictionary of
     American Radio*. Greenwood Publishing Group, 1998. p. 8.
 
-[^28]: Mildred Pierce, *Newmediagroup.co.uk* Archived 6 December 2006,
+[^06chapter4_28]: Mildred Pierce, *Newmediagroup.co.uk* Archived 6 December 2006,
     at the Wayback Machine.
 
-[^29]: Mildred Pierce, *Newmediagroup.co.uk* Archived 6 December 2006,
+[^06chapter4_29]: Mildred Pierce, *Newmediagroup.co.uk* Archived 6 December 2006,
     at the Wayback Machine.
 
-[^30]: Lawrence R Samuel, *Brought to You By: Postwar Television
+[^06chapter4_30]: Lawrence R Samuel, *Brought to You By: Postwar Television
     Advertising and the American Dream*, University of Texas Press,
     2009. ISBN 978-0-292-77476-6.
 
-[^31]: James A Senn, ‘Electronic Commerce Beyond the 'Dot Com' Boom.’
+[^06chapter4_31]: James A Senn, ‘Electronic Commerce Beyond the 'Dot Com' Boom.’
     *National Tax Journal* 53, no. 3, Part 1 (2000): 373-383.
     doi:10.17310/ntj.2000.3.04.
 
-[^32]: Rex Briggs and Nigel Hollis, ‘Advertising on the Web: Is There
+[^06chapter4_32]: Rex Briggs and Nigel Hollis, ‘Advertising on the Web: Is There
     Response Before Clickthrough?’ *Journal of Advertising Research*
     (1997): p. 33-45.
 
-[^33]: Rex Briggs and Nigel Hollis, ‘Advertising on the Web: Is There
+[^06chapter4_33]: Rex Briggs and Nigel Hollis, ‘Advertising on the Web: Is There
     Response Before Clickthrough?’ *Journal of Advertising Research*
     (1997): p. 33-45.
 
-[^34]: Howard R Gold, ‘Who Killed Time Inc.?’, *The Columbia Journalism
+[^06chapter4_34]: Howard R Gold, ‘Who Killed Time Inc.?’, *The Columbia Journalism
     Review*, 2018.
 
-[^35]: Brian Morrissey, ‘How the Banner Ad Was Born’, *Digiday*, 2013.
+[^06chapter4_35]: Brian Morrissey, ‘How the Banner Ad Was Born’, *Digiday*, 2013.
 
-[^36]: Medline Plus, ‘Stress and your health’, *medlineplus.gov*, 20 May
+[^06chapter4_36]: Medline Plus, ‘Stress and your health’, *medlineplus.gov*, 20 May
     2021. https://medlineplus.gov/ency/article/003211.htm.
 
-[^37]: *No Logo: Brands, Globalization, Resistance*, (Naomi Klein, 2003)
+[^06chapter4_37]: *No Logo: Brands, Globalization, Resistance*, (Naomi Klein, 2003)
     Documentary film. https://www.youtube.com/watch?v=oeTgLKNb5R0.
 
-[^38]: Tipton Associates, 'Starbucks – University of Kentucky,' 22 Octorber
+[^06chapter4_38]: Tipton Associates, 'Starbucks – University of Kentucky,' 22 Octorber
     2020. https://tipton-associates.com/our\_work/starbucks-university-of-kentucky;
     Coral Garnick, 'Starbucks Opens in UW's Suzzallo Library,' *Puget
     Sound Business Journal*, 13 September 2017.     https://www.bizjournals.com/seattle/news/2017/09/13/starbucks-opens-in-uw-suzzallo-library.html;
@@ -1362,112 +1362,112 @@ Wikipedia contributors,
     ‘Takahashi City Library Starbucks Coffee’, 18 January 2022.
     https://commons.wikimedia.org/wiki/File:Takahashi\_City\_Library\_Starbucks\_Coffee\_ac\_%281%29.jpg.
 
-[^39]: Naomi Klein, *No logo: No space, no choice, no jobs*, Picador,
+[^06chapter4_39]: Naomi Klein, *No logo: No space, no choice, no jobs*, Picador,
     2009.
 
-[^40]: Assunta Ng, ‘Advice to College Freshmen, Then and Now.’
+[^06chapter4_40]: Assunta Ng, ‘Advice to College Freshmen, Then and Now.’
     *Northwest Asian Weekly*, 2021.
     https://nwasianweekly.com/2021/09/blog-advice-to-college-freshmen-then-and-now.
 
-[^41]: Digital Synopsis, ‘Colors Used by Famous Brands’,
+[^06chapter4_41]: Digital Synopsis, ‘Colors Used by Famous Brands’,
     *digitalsynopsis.com*, 22 may 2021.
     https://digitalsynopsis.com/design/brand-colors.
 
-[^42]: Tuned Global, ‘Coke's innovative ‘drinkable ad's’ flow from TV to
+[^06chapter4_42]: Tuned Global, ‘Coke's innovative ‘drinkable ad's’ flow from TV to
     Mobile with Shazam’, *tunedglobal.com*, 22 October 2021.
     https://blog.tunedglobal.com/innovative-trial-campaign-shazam-cokes-drinkable-ads.
 
-[^43]: Jean Baudrillard, *Simulacra and Simulation*, Ann Arbor:
+[^06chapter4_43]: Jean Baudrillard, *Simulacra and Simulation*, Ann Arbor:
     University of Michigan Press, 1994. p. 79.
 
-[^44]: Liz McFall, *Advertising: A Cultural Economy*, Sage, 2004.p. 6.
+[^06chapter4_44]: Liz McFall, *Advertising: A Cultural Economy*, Sage, 2004.p. 6.
 
-[^45]: Jeremy, ‘8 Examples of Famous Art in Advertisements*.’ Tiqets*,
+[^06chapter4_45]: Jeremy, ‘8 Examples of Famous Art in Advertisements*.’ Tiqets*,
     2023. https://www.tiqets.com/blog/famous-art-in-advertisements.
 
-[^46]: Tra T T Nguyen, *Cultural symbols of ‘Tet’ holiday in Vietnamese
+[^06chapter4_46]: Tra T T Nguyen, *Cultural symbols of ‘Tet’ holiday in Vietnamese
     urban lifestyles on video advertising*, Master Thesis, Media arts
     and design, Chiangmai University, 2012.
 
-[^47]: Tra T.T. Nguyen, ‘Cultural Symbol Store’, *tranguyen.net*, 2012,
+[^06chapter4_47]: Tra T.T. Nguyen, ‘Cultural Symbol Store’, *tranguyen.net*, 2012,
     https://tranguyen.net/portfolio/cultural-symbol-store.
 
-[^48]: Dawn Kent Azok, ‘Tennis Champ Roger Federer Stars in New TV Spot
+[^06chapter4_48]: Dawn Kent Azok, ‘Tennis Champ Roger Federer Stars in New TV Spot
     for Alabama-Built Mercedes SUV.’ *AL.com*, 2012.
     https://www.al.com/businessnews/2012/08/tennis\_champ\_roger\_federer\_sta.html.
 
-[^49]: Russell Belk, ‘Culture and Consumption.’ *The Journal of Consumer
+[^06chapter4_49]: Russell Belk, ‘Culture and Consumption.’ *The Journal of Consumer
     Policy*, 1988.
 
-[^50]: Colin Campbell, *The Romantic Ethic and the Spirit of Modern
+[^06chapter4_50]: Colin Campbell, *The Romantic Ethic and the Spirit of Modern
     Consumerism*, Oxford: Basil Blackwell, 1987; Jean Baudrillard, ‘Consumer Society.’ In *Selected Writings*, edited
     by Mark Poster, Cambridge: Polity Press, 1988;  Zygmunt Bauman, ‘Consuming Life.’ *Journal of Consumer Culture* 1, no. 1 (2001), p.9-29.
 
-[^51]: Robert Goldman and Stephen Papson, *Sign Wars: The Cluttered
+[^06chapter4_51]: Robert Goldman and Stephen Papson, *Sign Wars: The Cluttered
     Landscape of Advertising,* New York: Guilford Press, 1996.
 
-[^52]: John Berger, *Ways of Seeing*, Penguin UK, 2008. p.154.
+[^06chapter4_52]: John Berger, *Ways of Seeing*, Penguin UK, 2008. p.154.
 
-[^53]: John Berger, *Ways of Seeing*, Penguin UK, 2008. p.130.
+[^06chapter4_53]: John Berger, *Ways of Seeing*, Penguin UK, 2008. p.130.
 
-[^54]: Thành Luân, ‘Apple Đã Bán Ra Tổng Cộng 2 Tỉ Chiếc iPhone.’ *Thanh
+[^06chapter4_54]: Thành Luân, ‘Apple Đã Bán Ra Tổng Cộng 2 Tỉ Chiếc iPhone.’ *Thanh
     Niên*, 30 March 2021. https://thanhnien.vn/apple-da-ban-ra-tong-cong-2-ti-chiec-iphone-post1114574.html.
 
-[^55]: Katie Kilkenny, ‘How Anti-Aging Cosmetics Took Over the Beauty
+[^06chapter4_55]: Katie Kilkenny, ‘How Anti-Aging Cosmetics Took Over the Beauty
     World.’ *Pacific Standard*, 30 August 2017.
     https://psmag.com/social-justice/how-anti-aging-cosmetics-took-over-the-beauty-world.
 
-[^56]: Matthew Rosenberg, Nicholas Confessore and Carole Cadwalladr.
+[^06chapter4_56]: Matthew Rosenberg, Nicholas Confessore and Carole Cadwalladr.
     ‘How Trump Consultants Exploited the Facebook Data of Millions’,
     *The New York Times, 17 March* 2018.
     https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html.
 
-[^57]: *HyperNormalisation*, (Adam Curtis, 2016), Documentary Series,
+[^06chapter4_57]: *HyperNormalisation*, (Adam Curtis, 2016), Documentary Series,
     BBC Two. Available at: https://www.youtube.com/watch?v=thLgkQBFTPw.
 
-[^58]: Koenraad W Swart,’Individualism in the Mid-Nineteenth Century
+[^06chapter4_58]: Koenraad W Swart,’Individualism in the Mid-Nineteenth Century
     (1826-1860).’ *Journal of the History of Ideas* 23, no. 1 (1962):
     77-90.
 
-[^59]: Max Weber and Stephen Kalberg, *The Protestant Ethic and the
+[^06chapter4_59]: Max Weber and Stephen Kalberg, *The Protestant Ethic and the
     Spirit of Capitalism*, Routledge, 2013.
 
-[^60]: Wikipedia contributors, ‘Anattā.’, 18 November 2022.
+[^06chapter4_60]: Wikipedia contributors, ‘Anattā.’, 18 November 2022.
     https://en.wikipedia.org/wiki/Anatt%C4%81.
 
-[^61]: L’Oreal, ‘L’Oreal’s slogan’, *loreal-paris-me.com*, 20 November
+[^06chapter4_61]: L’Oreal, ‘L’Oreal’s slogan’, *loreal-paris-me.com*, 20 November
     2022. https://www.loreal-paris-me.com/en/lesson-of-worth.
 
-[^62]: L’Oreal, ‘L’Oreal’s slogan’, *loreal-paris-me.com*, 20 November
+[^06chapter4_62]: L’Oreal, ‘L’Oreal’s slogan’, *loreal-paris-me.com*, 20 November
     2022. https://www.loreal-paris-me.com/en/lesson-of-worth.
 
-[^63]: Burger King’ s slogan.
+[^06chapter4_63]: Burger King’ s slogan.
 
     Burger King, ‘Burger King Invites You to ‘Have It Your Way’ Even
     More Ways With Have-sies™,’ 4 October 2023.
     https://news.bk.com/blog-posts/burger-king-r-invites-you-to-have-it-your-way-even-more-ways-with-have-sies-tm.
 
-[^64]: Visa Inc., ‘Visa Launches “Everywhere You Want to Be,” a Corporate
+[^06chapter4_64]: Visa Inc., ‘Visa Launches “Everywhere You Want to Be,” a Corporate
     Platform That Reconnects the Company to Its Heritage.’,
     *investor.visa.com*, 13 January 2014.
 
-[^65]: Unilever’s slogan.
+[^06chapter4_65]: Unilever’s slogan.
 
     Unilever, 'Our company', *unilever.com*, 22 September 2021,
     https://www.unilever.com/our-company.
 
-[^66]: Michael Dukakis's US presidential campaign slogans. Wikipedia contributors, ‘List of U.S. presidential campaign
+[^06chapter4_66]: Michael Dukakis's US presidential campaign slogans. Wikipedia contributors, ‘List of U.S. presidential campaign
     slogans’, 18 November 2022.
     https://en.wikipedia.org/wiki/List\_of\_U.S.\_presidential\_campaign\_slogans.
 
-[^67]: Guy Debord, *Society of the Spectacle*, Bread and Circuses
+[^06chapter4_67]: Guy Debord, *Society of the Spectacle*, Bread and Circuses
     Publishing, 2012. Originally published 1967 by Editions
     Buchet-Chastel.
 
-[^68]: Noam Chomsky, *Media Control: The Spectacular Achievements of
+[^06chapter4_68]: Noam Chomsky, *Media Control: The Spectacular Achievements of
     Propaganda*, Seven Stories Press, 2002. p.13.
 
-[^69]: *The keynote of Satya Nadella*, (Microsoft, 2020),
+[^06chapter4_69]: *The keynote of Satya Nadella*, (Microsoft, 2020),
     https://www.youtube.com/watch?v=0v1vyWJQlzs&t=2101s.
 
     *The keynote of Sundar Pichai, (*Google, 2022),
@@ -1476,78 +1476,78 @@ Wikipedia contributors,
     *The keynote of Tim Cook,* (Apple, 2019),
     https://www.youtube.com/watch?v=-rAeqN-Q7x4.
 
-[^70]: Logo Tag Lines, ‘Amazon Logo and Tagline’, *logotaglines.com*, 26
+[^06chapter4_70]: Logo Tag Lines, ‘Amazon Logo and Tagline’, *logotaglines.com*, 26
     May 2022, https://logotaglines.com/amazon-logo-and-tagline.
 
     Wikipedia contributors, ‘Amazon logo’, 26 May 2022,
     https://commons.wikimedia.org/wiki/File:Amazon\_logo.jpg.
 
-[^71]: The Next Scoop, ‘10 Personalized Features Every Website Must Have
+[^06chapter4_71]: The Next Scoop, ‘10 Personalized Features Every Website Must Have
     to Improve User Experience’, *thenextscoop.com*, 22 May 2022.
     https://thenextscoop.com/personalized-features-to-improve-user-experience.
 
-[^72]: Bernard J Jansen and Tracy Mullen, ‘Sponsored Search: An Overview
+[^06chapter4_72]: Bernard J Jansen and Tracy Mullen, ‘Sponsored Search: An Overview
     of the Concept, History, and Technology.’ *International Journal of
     Electronic Business* 6, no. 2 (2008): 114-131.
     [doi](about:blank):[10.1504/ijeb.2008.018068](about:blank).
 
-[^73]: *The Facebook Dilemma*, (Frontline, 2018) Documentary film,
+[^06chapter4_73]: *The Facebook Dilemma*, (Frontline, 2018) Documentary film,
     Available at: https://www.youtube.com/watch?v=T48KFiHwexM&t=55s.
 
-[^74]: Lead Sync*,* ‘The Complete Facebook Ads Interest Targeting List’,
+[^06chapter4_74]: Lead Sync*,* ‘The Complete Facebook Ads Interest Targeting List’,
     *leadsync.me*, 22 May 2022.
     https://leadsync.me/blog/facebook-ads-targeting-guide.
 
-[^75]: Julian Thomas, ‘Programming, Filtering, Adblocking: Advertising
+[^06chapter4_75]: Julian Thomas, ‘Programming, Filtering, Adblocking: Advertising
     and Media Automation.’ *Media International Australia* 166, no. 1
     (2018): 34-43.
     [doi](about:blank):[10.1177/1329878X17738787](about:blank). [ISSN](about:blank) [1329-878X](about:blank). 
 
-[^76]: Statista, ‘Net digital advertising revenue share of major
+[^06chapter4_76]: Statista, ‘Net digital advertising revenue share of major
     ad-selling online companies worldwide from 2016 to 2023’,
     *statista.com*, 28 May 2022.
     https://www.statista.com/statistics/290629/digital-ad-revenue-share-of-major-ad-selling-companies-worldwide/\#:\~:text=In%202021%2C%20Google's%20share%20of,with%20an%20expected%208.7%20percent.
 
-[^77]: Megan Graham and Jennifer Elias, ‘How Google’s \$150 Billion
+[^06chapter4_77]: Megan Graham and Jennifer Elias, ‘How Google’s \$150 Billion
     Advertising Business Works.’ *CNBC*, 2021.
     https://www.cnbc.com/2021/05/18/how-does-google-make-money-advertising-business-breakdown-.html.
 
-[^78]: Jennifer Elias and Magdalena Petrova, ‘Google’s Rocky Path to
+[^06chapter4_78]: Jennifer Elias and Magdalena Petrova, ‘Google’s Rocky Path to
     Email Domination.’ CNBC, October 2019.
     https://www.cnbc.com/2019/10/26/gmail-dominates-consumer-email-with-1point5-billion-users.html.
 
-[^79]: Statista, ‘User population of selected internet browsers
+[^06chapter4_79]: Statista, ‘User population of selected internet browsers
     worldwide from 2014 to 2021’, *statista.com*, 28 May 2022.
     https://www.statista.com/statistics/543218/worldwide-internet-users-by-browser/
 
-[^80]: Statcounter, ‘Search Engine Market Share Worldwide’,
+[^06chapter4_80]: Statcounter, ‘Search Engine Market Share Worldwide’,
     *statcounter.com*, 29 May 2022.
     https://gs.statcounter.com/search-engine-market-share.
 
-[^81]: Statcounter, ‘Search Engine Market Share Worldwide’,
+[^06chapter4_81]: Statcounter, ‘Search Engine Market Share Worldwide’,
     *statcounter.com*, 29 May 2022.
     https://gs.statcounter.com/search-engine-market-share.
 
-[^82]: Demand Sage, ‘YouTube Statistics 2023’, *demandsage.com*, 29 May
+[^06chapter4_82]: Demand Sage, ‘YouTube Statistics 2023’, *demandsage.com*, 29 May
     2022.
     https://www.demandsage.com/youtube-stats/\#:\~:text=As%20of%202023%2C%20YouTube%20is,in%20the%20world%20access%20YouTube.
 
-[^83]: Treasure Data*,* ‘The Difference Between First-party,
+[^06chapter4_83]: Treasure Data*,* ‘The Difference Between First-party,
     Second-party and Third-party Data’, *blog.treasuredata.com*, 29 May
     2022.
     https://blog.treasuredata.com/blog/2021/07/28/the-difference-between-first-party-second-party-and-third-party-data.
 
-[^84]: Newsroom, ‘IBM's The Weather Company Continues to Be the World's
+[^06chapter4_84]: Newsroom, ‘IBM's The Weather Company Continues to Be the World's
     Most Accurate Forecaster Overall’, *newsroom.ibm.com*, 22 September
     2022.
     https://newsroom.ibm.com/2021-07-29-IBMs-The-Weather-Company-Continues-to-Be-the-Worlds-Most-Accurate-Forecaster-Overall.
 
-[^85]: Adorno, Theodor W., and Max Horkheimer. *Dialectic of
+[^06chapter4_85]: Adorno, Theodor W., and Max Horkheimer. *Dialectic of
     Enlightenment*. Vol. 15. London: Verso, 1997. p. 94.
 
-[^86]: Debord, Guy. *Society of the Spectacle*. Bread and Circuses
+[^06chapter4_86]: Debord, Guy. *Society of the Spectacle*. Bread and Circuses
     Publishing, 2012. Originally published 1967 by Editions
     Buchet-Chastel. p.10
 
-[^87]: Adorno, Theodor W., and Max Horkheimer. *Dialectic of
+[^06chapter4_87]: Adorno, Theodor W., and Max Horkheimer. *Dialectic of
     Enlightenment*. Vol. 15. London: Verso, 1997. p. 94.

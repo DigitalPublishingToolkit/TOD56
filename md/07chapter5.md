@@ -20,14 +20,14 @@ Rights: CC BY-NC 4.0
 # 5th Story - Rebellions
 
 In the story titled *Rebellions*, the notion of an inescapable future is
-starkly challenged. The phrase ‘There is no alternative’,[^1] famously
+starkly challenged. The phrase ‘There is no alternative’,[^07chapter5_1] famously
 proclaimed by former British Prime Minister Margaret Thatcher, has
 become a somber anthem of a global neoliberal order, dictating the terms
-of economics, culture, and personal well-being.[^2] This
+of economics, culture, and personal well-being.[^07chapter5_2] This
 slogan, entrenched in the political and economic discourses, implies a
 future devoid of transformative change, impacting not just the British
 political scene but also casting a long shadow over global work,
-education, and mental health.[^3]
+education, and mental health.[^07chapter5_3]
 
 *No alternative* is an assertion of capitalist ideology about the only
 suggested way for social development; the capitalist economy is
@@ -36,7 +36,7 @@ the alternative social systems supposedly ended in the last century with
 the decline and collapse of the Soviet Union. The slogan also conveys an
 optimism about how ‘Globalised capitalism, so-called free markets, and
 free trade were the best ways to build wealth, distribute services and
-grow a society's economy.’[^4] Thatcher’s policies continue to influence
+grow a society's economy.’[^07chapter5_4] Thatcher’s policies continue to influence
 the politics of today, contributing to despair and fear in large parts
 of society, especially among those who are oppressed, exploited and
 living in precarious situations created by unstable jobs and incomes.
@@ -80,11 +80,11 @@ progress of society.
 Techno-optimism often criticizes Hollywood dystopian tragedies and
 argues that those are exaggerated fantasies. The society that will be
 decimated and destroyed by the rise of robots is an exaggeration; it is
-an attractive dramaturgical trick of film productions.[^5] Meanwhile,
+an attractive dramaturgical trick of film productions.[^07chapter5_5] Meanwhile,
 optimists strongly believe in the union of man and machine. They are
 convinced by all the positive aspects of new-tech such as it may give
 ‘longer lives, less absolute poverty, fewer life-threatening illness,
-\[and\] more equality of opportunity’.[^6] Those are the generally
+\[and\] more equality of opportunity’.[^07chapter5_6] Those are the generally
 attributed values to technological developments.
 
 Information technology and the internet are known as great inventions
@@ -95,19 +95,19 @@ convenient. New technology is believed to have simplified all living
 activities, such as payment, scheduling, route finding, translations,
 shopping and entertainment. According to Miklos Sarvary - Professor at
 Columbia Business School, ‘platforms are creating so much value for
-consumers’[^7] globally.
+consumers’[^07chapter5_7] globally.
 
 Particularly, it must be admitted that ‘Technology optimism was so
 deeply ingrained in the value system and in the beliefs of people in
 Silicon Valley’- the birthplace of hundreds of new technological
-discoveries every day.[^8]  Technology corporations have spread strong
+discoveries every day.[^07chapter5_8]  Technology corporations have spread strong
 beliefs about the transcendent world of the future associated with
 technological achievements for popular culture with large-scale
 marketing and communication strategies. The majority of tech leaders are
 constantly propagating the best things that technology will provide,
-like ‘We are doing it for everyone’,[^9] we ‘solve problems at scale’,[^10]
-‘empower people’[^11] and ‘make our services cost less and more
-connected’.[^12]
+like ‘We are doing it for everyone’,[^07chapter5_9] we ‘solve problems at scale’,[^07chapter5_10]
+‘empower people’[^07chapter5_11] and ‘make our services cost less and more
+connected’.[^07chapter5_12]
 
 In fact, technological optimism is purposefully propagated to maximize
 the influence, expand markets, develop manipulation tactics and benefit
@@ -122,7 +122,7 @@ learning technology,
 > is what has allowed us to scale up seven of our most important
 > products and platforms - to over a billion monthly active users each.
 > And it's not just the scale at which these products are working, users
-> engage with them very heavily*.*[^13]
+> engage with them very heavily*.*[^07chapter5_13]
 
 The worlds *engaging heavily* here means deepening the level of
 dependence of the user, a dependency with no way out. For example, let
@@ -133,7 +133,7 @@ than 1.5 billion people around the world.
 The CEO of Microsoft from 2014, Satya Nadella also mentioned: ‘Our
 mission simply put is to empower you to create that tech-intensity in
 your organization, in your institution, so that you can have a broad,
-deep impact on the broader society.’[^14] In addition, Mark Zuckerberg,
+deep impact on the broader society.’[^07chapter5_14] In addition, Mark Zuckerberg,
 co-founder of the social media platform Facebook also made clear his
 expansionist ambitions when, in 2021, he changed Facebook's name to
 Meta. He stated,
@@ -145,14 +145,14 @@ Meta. He stated,
 > love our products, we have hundreds of millions of businesses on our
 > platform, and we have a rapidly growing ecosystem and a thriving
 > business. That’s the approach that we want to take to help build the
-> Metaverse, too.[^15]
+> Metaverse, too.[^07chapter5_15]
 
 Techno-optimism has clearly dominated the perceptions of consumers and
 tied them to the services and products of the platform. Building loyalty
 ties was the strategy of feudalism in the past and performed by
 capitalism in the present. *Customer engagement methods* are the core
 activities to establish customer loyalty to techno-brands. The *loyalty
-business model* is applied widely in digital business management.[^16]
+business model* is applied widely in digital business management.[^07chapter5_16]
 The main goal of this model is to build customer satisfaction that is
 the foundation for user loyalty and the basis for customer manipulation.
 
@@ -168,7 +168,7 @@ fully solved.
 
 The Arab Spring (2010-2012) is a remarkable example of the
 irresponsibility of social media platforms with important political
-issues that are deeply impacted by cyber activities.[^17]
+issues that are deeply impacted by cyber activities.[^07chapter5_17]
 
 With the help of a Facebook page protesting abuses by the regime of
 Hosni Mubarak, in just 28 days, the activities of social media activist
@@ -180,16 +180,16 @@ of President Muhammad Hosni Mubarak. But soon later, Ghonim bitterly
 said: ‘The hardest part for me was seeing the tool that brought us
 together tearing us apart. These tools are just enablers for whomever,
 they don't separate between what's good and bad. They just look at
-engagement metrics.’[^18] Despite being asked to intervene in
+engagement metrics.’[^07chapter5_18] Despite being asked to intervene in
 provocative developments that could lead to violence in Egypt, the
-Facebook platforms were silent and did not take any action.[^19] Instead
+Facebook platforms were silent and did not take any action.[^07chapter5_19] Instead
 of giving hope to a *digital democracy*, many incitements to violence
 from social media have sparked bloody actions in this region. Marc Lynch
 of George Washington University stated in a Foreign Policy article,
 ‘There is something very different about scrolling through pictures and
 videos of unified, chanting Yemeni or Egyptian crowds demanding
 democratic change and waking up to a gory image of a headless 6-year-old
-girl on your Facebook news feed.’[^20]
+girl on your Facebook news feed.’[^07chapter5_20]
 
 Inhuman political forces are able to use *technical tricks* to benefit
 from inciting violence, intervening in the truth and even interrogating
@@ -198,16 +198,16 @@ of algorithms* and the *technological loopholes*. With the ability to
 affect others anonymously, various political forces can attack
 individuals in numerous ways, such as sending spam or email bomb,
 hacking social media accounts or spreading fake news about the targeted
-victim.[^21] In cyberspace, we witness an increment in the use of
+victim.[^07chapter5_21] In cyberspace, we witness an increment in the use of
 *cyber-torture* on a global scale. This problem has been alerted by
-specific UN reports of professor Nils Melzer in 2020.[^22] States,
+specific UN reports of professor Nils Melzer in 2020.[^07chapter5_22] States,
 organizations, and criminal groups are not only capable of conducting
 cyber-operations that cause critical suffering to countless individuals
 but do so for the specific purpose of torture. Cybertechnology may also
 be used to cause or contribute to severe emotional distress, most
 notably through intimidation, bullying, harassment, surveillance, public
 shaming, and defamation, as well as appropriation, deletion, or
-manipulation of information.[^23]
+manipulation of information.[^07chapter5_23]
 
 Revolutionary activists and politicians have complained to Facebook
 about *troll factories* contributing to political instability in
@@ -218,7 +218,7 @@ political situation spread from Russian troll factories. Dmytro Shymkiv
 representatives and asked them to intervene in the proliferation of fake
 news about the Ukraine situation circulating on the Facebook platform.
 Shymkiv recounted the response from Facebook: ‘Sorry, we are an open
-platform in which anybody can do anything’.[^24] In fact, Facebook did
+platform in which anybody can do anything’.[^07chapter5_24] In fact, Facebook did
 not care about fake accounts or troll factories that operated on their
 platform for a long time.
 
@@ -237,12 +237,12 @@ prices. In numerous cases, customers receive counterfeit goods from
 these unknown online sales services. These livestream sellers often pay
 significant amounts to advertise on such as Facebook, allowing their
 live-stream videos to appear on the ‘news feeds’ of target audiences,
-even engaging in excess of 10,000 followers.[^25] With the allurement of
+even engaging in excess of 10,000 followers.[^07chapter5_25] With the allurement of
 liveliness, skillful narration and attractive images, and a series of
 fake maneuvers (such as setting up a fake-buyer account system to
 interact, post and share), several livesteamers in Vietnam have earned
 up to 400,000 euros per month selling *knock-offs* through livestream
-methods on the Facebook. [^26] [^27] Nevertheless, there is a lack of
+methods on the Facebook. [^07chapter5_26] [^07chapter5_27] Nevertheless, there is a lack of
 regulation from both platforms and legal institutions to protect
 customers. In the current Vietnamese situation, no one seemingly
 controls the quality of the selling products and the trustworthiness of
@@ -259,7 +259,7 @@ reached nearly 90 million YouTube subscribers and earned from 18 million
 to 54 million US dollars per year, and nearly half of their earnings
 come from the ad revenue. In addition, these stars have branded
 merchandise lines that have supported them or help them to make
-money.[^28]
+money.[^07chapter5_28]
 
 There are seemingly 1001 mysteries and business tactics in the operation
 of the information technology world. Edward Snowden mentioned:
@@ -273,7 +273,7 @@ of the information technology world. Edward Snowden mentioned:
 > off, it looks like it's just sitting there, but it is constantly
 > chattering. And unfortunately, like pollution, we have not created the
 > tools that are necessary for ordinary people to be able to see this
-> activity.[^29]
+> activity.[^07chapter5_29]
 
 Not many are able to understand the complex operating mechanisms inside
 the current computational system; in addition, various undisclosed
@@ -284,11 +284,11 @@ computing are mentioned quite often in public media, the majority of
 ordinary customers are still far from knowing what exactly they are, how
 they work, and how they affect each user. With self-learning and
 self-making decision abilities, the performance of present AI systems
-even goes beyond human understanding capabilities.[^30] The recent open
+even goes beyond human understanding capabilities.[^07chapter5_30] The recent open
 letter with signatures from hundreds of the biggest names in the
 technology scene, including Elon Musk, has urged the world’s leading
 artificial intelligence labs to take a break in training new
-super-powerful systems for six months.[^31] The letter pointed out that
+super-powerful systems for six months.[^07chapter5_31] The letter pointed out that
 
 > Advanced AI could represent a profound change in the history of life
 > on Earth, and should be planned for and managed with commensurate care
@@ -296,7 +296,7 @@ super-powerful systems for six months.[^31] The letter pointed out that
 > management is not happening, even though recent months have seen AI
 > labs locked in an out-of-control race to develop and deploy ever more
 > powerful digital minds that no one – not even their creators – can
-> understand, predict, or reliably control.[^32]
+> understand, predict, or reliably control.[^07chapter5_32]
 
 Moreover, the invisible strategy plans of tech-owners worsen the
 mysterious situation related to new-techs. According to Frank Pasquale,
@@ -304,7 +304,7 @@ while technology has deeply pushed us into ‘the black box society’,
 where ‘powerful businesses, financial institutions, and government
 agencies hide their actions behind nondisclosure agreements,
 ‘proprietary methods’, and gag rules, our own lives are increasingly
-open books’.[^33] For example, how do data broker companies collect
+open books’.[^07chapter5_33] For example, how do data broker companies collect
 information, where do they store it, how do they use the user's data,
 and for what? Those questions are the ‘obvious mysteries’ in our
 contemporary society. The mystery of the technology world might be one
@@ -313,19 +313,19 @@ new tech of users.
 
 Martin Heidegger noted in the book *The Question Concerning Technology*
 that the modern people create an almost unscientific worship of
-science.[^34] We seem to be overwhelmed by the ideas of efficiency and
+science.[^07chapter5_34] We seem to be overwhelmed by the ideas of efficiency and
 productivity related to technological achievements. Without awareness of
 the actual underground problems of new technology, the achievements of
 science may dangerously slip out of the public's control. Technology is
 not a mere instrument, it is not a mere neutral tool. It is created by
 humans and serves firstly serves human purpose to the benefit of its
-creators.[^35] It is certainly true that the majority of present
+creators.[^07chapter5_35] It is certainly true that the majority of present
 technology research centers, the birthplace of new inventions and
 applications, require a huge amount of capital to maintain research and
 experimental activities. The largest technology research centers in the
 world belong to or are sponsored by private corporations. States aim to
 gradually reduce public expenditures, and public finances are
-withdrawing from investment in research centers.[^36] This drives a high
+withdrawing from investment in research centers.[^07chapter5_36] This drives a high
 concentration of private ownership of technology research centres
 globally. Hence, most current tech creations are from the orders of
 investors and aimed at serving corporations. In several cases, as with
@@ -341,7 +341,7 @@ truths are manmade results which reflect the mentality of a certain
 phase of time. Scientific records or conclusions can change according to
 the consensus of society at certain periods, as the American physicist
 and philosopher Thomas Kuhn demonstrated for a series of *paradigm
-shifts* in the history of human science.[^37] Therefore, scientific
+shifts* in the history of human science.[^07chapter5_37] Therefore, scientific
 optimism is a relative belief and we should perceive tech achievements
 as transitory developments. Moreover, there are various scientific
 conclusions that are manipulated and dominated by investors, the reason
@@ -365,7 +365,7 @@ illness and high mortality, people feared that the science of the day
 was powerless against the forces of nature. However, reality has shown
 that humans are not helpless; pandemics are not uncontrollable. While
 the virus can breed in and spread from the wild, science and technology
-have made global epidemics a manageable challenge.[^38] From first
+have made global epidemics a manageable challenge.[^07chapter5_38] From first
 reports about a potential pandemic at the end of December 2019 to
 January 10, 2020, scientists had not only isolated the responsible virus
 but also sequenced its genome and published the information online.
@@ -397,7 +397,7 @@ personnel instability, many companies invested in automatic machines to
 replace humans. In various fields, automation proved its efficiency; for
 example, with only 1.5% of personnel working directly on farms, the U.S.
 still provided enough domestic food, even becoming a leader in
-agricultural exports.[^39] Another example, China has taken online
+agricultural exports.[^07chapter5_39] Another example, China has taken online
 shopping to a new level of development during the pandemic. With the
 unprecedented blooming of online sales, forecasting the future of
 e-commerce will profoundly affect our lifes. Automation will likely lead
@@ -431,11 +431,11 @@ cameras to identify people in public, and requiring people to declare
 their personal medical status, authorities could efficiently identify
 suspected Covid-19 cases and trace their movements and potential
 contacts whom they may have exposed. A series of mobile apps had also
-been deployed to alert people about the infected cases.[^40] Similar
+been deployed to alert people about the infected cases.[^07chapter5_40] Similar
 surveillance technologies were also applied in East Asian countries,
 Vietnam, and even Israel – when the government used *specialized*
 anti-terrorist technologies to monitor patients infected with
-Covid-19.[^41]
+Covid-19.[^07chapter5_41]
 
 In addition to the demographic, behavioral, and psychological data
 collected in cyberspace before, biometric data has also become an
@@ -471,7 +471,7 @@ monitoring the roll-out of COVID-19 prevention and control services had
 little transparency, leading to serious problems in use of fake testing
 kits. This led to the resignation of the President, an unprecedented
 event, and two Deputy Prime Ministers, and to the dismissal of the
-Minister of Health and three Deputy Ministers.[^42] Additionally, in
+Minister of Health and three Deputy Ministers.[^07chapter5_42] Additionally, in
 2022, various companies in Vietnam were criminally prosecuted. Hence,
 *surveillance* should be balanced by a *counter-surveillance*, and the
 pandemic context was the best testing environment for citizens in many
@@ -497,12 +497,12 @@ electronic devices. One single Google search consumes the same amount of
 energy as a standard LED light bulb in use for three minutes, and if one
 considers the number of Google searches requested in a typical day, week
 and year, multiplied by the number of half the world's population, the
-sum is extraordinary.[^43] Moreover, to run the entire digital industry,
+sum is extraordinary.[^07chapter5_43] Moreover, to run the entire digital industry,
 rare-earth metals such as lanthanum, cerium, neodymium, samarium,
 europium, terbium, and dysprosium have been mined exhaustively for the
 hardware manufacturing industry. Cobalt mining for lithium-ion batteries
 is a special example that raises concerns about environmental
-devastation in Congo.[^44] On the one hand, digital technology created a
+devastation in Congo.[^07chapter5_44] On the one hand, digital technology created a
 simple and easy environment to connect people; on the other hand, it
 also pushed different social communities into various political,
 economic, cultural, and environmental crises.
@@ -550,7 +550,7 @@ problems in life*. As Jean Baudrillard wrote:
 > passion par excellence, it is the passion proper to the mode of
 > disappearance. We are fascinated by all forms of disappearance, of our
 > disappearance. Melancholic and fascinated, that is our general
-> condition in an era of involuntary transparency.[^45]
+> condition in an era of involuntary transparency.[^07chapter5_45]
 
 A universal sense of *helplessness* and *impotency* of ordinary people
 contributed to the capitalist advantages. In developing countries in
@@ -558,7 +558,7 @@ East Asia especially, nihilism and hyper normalization are deepening. As
 a fundamental part of Buddhist philosophy, renunciation is the method to
 end suffering. The culmination of the path that the Buddha taught was
 nirvana, ‘a place of nothingness \[…\] non-possession and \[…\]
-non-attachment \[…\] which is the total end of death and decay.’[^46]
+non-attachment \[…\] which is the total end of death and decay.’[^07chapter5_46]
 Therefore, there is a common attitude of distancing reality and leaving
 the current situation to occur according to the nature of the outside
 world. Each individual is advised to bring an end to suffering by
@@ -573,7 +573,7 @@ is facing the reality of hyper normalization.
 All in all, in communities where everyone is frightened of change, it is
 that fear of change that actually feeds the power. In this day and age,
 in various places, people are forced to believe that ‘There is no
-alternative’.[^47]
+alternative’.[^07chapter5_47]
 
 ## **Finding The Way In The Digital Maze**
 
@@ -586,12 +586,12 @@ confusion, disorientation, and neglectfulness, people should cross over
 the ideological crisis after the postmodern period and, as Luke Turner
 suggested in his *Metamodernist Manifesto,* go beyond ‘irony and
 sincerity, naivety and knowingness, relativism and truth, optimism and
-doubt, \[…\] we must go forth and oscillate!’.[^48] By concrete acts of
+doubt, \[…\] we must go forth and oscillate!’.[^07chapter5_48] By concrete acts of
 resistance and struggle, we can make changes, find new alternatives,
 rebuild more sustainable values, and sustain the existence of humanity.
 Though we know that ‘The revolutions are brutal, and this is the thing
 that one has to go back to if you want change. If you really want to
-change the world, you have to tackle power.’[^49]
+change the world, you have to tackle power.’[^07chapter5_49]
 
 To make real change, we must revolutionize in different ways our methods
 and media; aside from the individual ones, collective actions are
@@ -608,13 +608,13 @@ respond to these social issues.
 
 Writing about the influence of social media, Jaron Lanier, a
 technologist, futurist, computer philosopher and a founder of the field
-of virtual reality, offers arguments for abandoning social media.[^50]
+of virtual reality, offers arguments for abandoning social media.[^07chapter5_50]
 He expresses how reliance on social media platforms reduces the capacity
 for spirituality and that users become automated extensions of the
 platforms. Examples revealed in his narrative show how users of Twitter
-and Facebook have become cruder, more tribal and less empathetic.[^51]
+and Facebook have become cruder, more tribal and less empathetic.[^07chapter5_51]
 
-In an earlier book, *Who Owns the Future*?[^52] Lanier argues that the
+In an earlier book, *Who Owns the Future*?[^07chapter5_52] Lanier argues that the
 middle class is disenfranchised from online economies. By convincing
 users to provide personal information in exchange for free services,
 companies are able to accumulate large amounts of data at no cost. He
@@ -630,10 +630,10 @@ posted to the web.
 
 In addition to Lanier, other leaders in the tech world have stepped out
 of senior positions to focus on social change endeavors. Included among
-them are: Tristan Harris[^53] - director and co-founder of the Center for
-Humane Technology, Timnit Gebru[^54]- a computer scientist who run the
+them are: Tristan Harris[^07chapter5_53] - director and co-founder of the Center for
+Humane Technology, Timnit Gebru[^07chapter5_54]- a computer scientist who run the
 Distributed Artificial Intelligence Research Institute (DAIR), Meredith
-Whittaker[^55] - President of the Signal Foundation, director of the AI Now
+Whittaker[^07chapter5_55] - President of the Signal Foundation, director of the AI Now
 Institute.
 
 They directly or indirectly became social activists. They have a
@@ -646,7 +646,7 @@ for a new development with much more consideration for human and moral
 values.
 
 In 2019, innovative ideas for the 5^th^ Industrial Revolution were
-proposed by Pratik Gauri & Jim Van Eerden.[^56] They provided a
+proposed by Pratik Gauri & Jim Van Eerden.[^07chapter5_56] They provided a
 humanistic vision for the evolution of industrial revolutions and a
 continuation of the 4^th^ industrial revolution.
 
@@ -674,7 +674,7 @@ community in recent years. It is clearly expressed in the *Sustainable
 Development Goals* (The Sustainable Development Goals - SDGs) of the
 United Nations Security General Assembly in in 2015, a set of 17
 interlinked global goals designed to be a ‘blueprint for achieving a
-better and more sustainable future for all’.[^57] The target for
+better and more sustainable future for all’.[^07chapter5_57] The target for
 achieving the 17 SDGs is 2030.
 
 ![Figure 5.2: The Sustainable Development Goals – SDGs ©Wikimedia
@@ -692,7 +692,7 @@ Issues related to the ethics of AI and its decentralization have become
 emerging concerns in international forums where sustainable development
 based on technology is paramount. There are remarkable contemporary
 concerns indicated in the book *The Oxford Handbook of Ethics of AI*
-published by Oxford University Press in 2020.[^58] This book maps
+published by Oxford University Press in 2020.[^07chapter5_58] This book maps
 sharply the current production, application, and use of artificial
 intelligence in diverse spheres of individual, commercial, social, and
 public life by an interdisciplinary and transcontinental academic
@@ -714,7 +714,7 @@ Should we treat it differently from a dishwasher or refrigerator? Should
 we just *unplug* and *kill* the machine when it poses a potential risk?
 According to the philosopher of technology, Mark Coeckelbergh, ‘Some
 argue that *mistreating* an AI is wrong not because any harm is done to
-the AI, but because our moral character is damaged if we do so.’[^59] In
+the AI, but because our moral character is damaged if we do so.’[^07chapter5_59] In
 another way, morality is a human idea and is about our attitudes.
 
 Conventionally, human attitudes in a community are very
@@ -731,7 +731,7 @@ computer scientist in AI and computer vision, reminded technology
 engineers: ‘There's nothing artificial about AI. It's inspired and
 created by people, and most importantly it impacts people. It is a
 powerful tool we are only just beginning to understand, and that is a
-profound responsibility.’[^60]
+profound responsibility.’[^07chapter5_60]
 
 In addition, through explicit policies related to AI ethics, various
 social issues can be adjusted in time. Currently, the rapid growth of
@@ -739,7 +739,7 @@ AI-generated art has left many artists concerned about a technologically
 advanced form of plagiarism. In early 2023, a group of San Francisco
 artists are taking legal action to reclaim copyright and consent by
 filing a class-action lawsuit against DreamUp, Midjourney, and Stable
-Diffusion.[^61] They have discovered that an open-source AI-based
+Diffusion.[^07chapter5_61] They have discovered that an open-source AI-based
 image-generating tool called Disco Diffusion was using the work of many
 artists without their knowledge or consent. Similar issues need to be
 clarified and resolved in the context of legal regulations.
@@ -751,11 +751,11 @@ topics such as *Optimizing for Engagement: Understanding the Use of
 Persuasive Technology on Internet Platforms and The Risk of Manipulation
 and Deception in the Digital Age* have been discussed in the United
 States Senate and House Of Representatives in the years 2019 and
-2020.[^62] In April 2021, the EU Commission presented the *AI Issue
+2020.[^07chapter5_62] In April 2021, the EU Commission presented the *AI Issue
 Package*, including *Communication on Fostering a European Approach to
 AI*; a review of the *Coordinated Plan on Artificial Intelligence* (with
 EU Member States); and the proposal for a regulation laying down
-harmonized rules on AI (AI Act) and relevant Impact assessment.[^63]
+harmonized rules on AI (AI Act) and relevant Impact assessment.[^07chapter5_63]
 These are considered the first actions for policies related to new
 technology issues and AI.
 
@@ -771,7 +771,7 @@ unbiased, and, therefore, should algorithms be blind to race, or is
 justice meant to create an advantage for those who are already
 marginalized, thus leading to bias and discrimination? And should policy
 in a democratic context prioritize protecting the interests of the
-majority or focus on the interests of minorities?[^64] Therefore, in a
+majority or focus on the interests of minorities?[^07chapter5_64] Therefore, in a
 new technologically influenced environment, there must be a continuous
 improvement of the legal framework and a common consensus on the ethical
 views on new technology, especially regarding AI ethics. The concepts of
@@ -783,7 +783,7 @@ democratic dialogue and build equality of rights in cyberspace, society
 needs to promote decentralized AI, decentralized social media, and
 decentralized public media. Regaining control of the internet and
 digital infrastructure is an important task ahead because it is the
-basic infrastructure of 21^st^-century society.[^65] In addition, it is
+basic infrastructure of 21^st^-century society.[^07chapter5_65] In addition, it is
 necessary to activate policies that encourage and create conditions for
 small technology research centers, protect the interests of start-ups,
 limit the manipulative power of corporations, raise awareness against
@@ -791,12 +791,12 @@ the exploitation in cyberspace, fight for the rights of users, and
 introduce and apply alternative trustful products and services. These
 are the initial practical actions aimed at *decolonizing cyberspace*,
 which reduces and eliminates the influence of supranational platforms
-presently holding the overall control over the future of AI.[^66]
+presently holding the overall control over the future of AI.[^07chapter5_66]
 
 CryptoParties are forms of decentralized initiatives that gained
 prominence in the global online community in recent times; by joing this
 movement, users are able to learn how to improve their digital privacy
-and security.[^67] CryptoParties introduce basic cryptography tools–such
+and security.[^07chapter5_67] CryptoParties introduce basic cryptography tools–such
 as the Tor anonymity network, public key encryption (PGP/GPG), and OTR
 (Off The Record messaging) - to the general public. There is a
 CryptoParty handbook–an open source document downloadable for free on
@@ -808,7 +808,7 @@ are introduced.
 
 Taking action on the copyright issues related to AI-generated art tools,
 a team at the University of Chicago introduced a free-to-use *Glaze*
-software in March 2023 to help protect original artworks.[^68] A layer
+software in March 2023 to help protect original artworks.[^07chapter5_68] A layer
 of data invisible to the human eye has been added over images that *acts
 as a decoy* for AI. Theoretically, if generative AI encounters an image
 that has been protected by Glaze, it will be unable to accurately
@@ -817,10 +817,10 @@ analyze and replicate its style.
 In addition to the mentioned micro solutions, researchers and
 policymakers are interested in solutions at the macro level–predicting
 or forming new social paradigm scenarios. In the book *Superminds: How
-Hyperconnectivity is Changing the Way We Solve Problems,*[^69] Thomas W.
+Hyperconnectivity is Changing the Way We Solve Problems,*[^07chapter5_69] Thomas W.
 Malone outlined a vision of a *cyber‐socialism* in which he points to
 the social credit system that China has placed in trial applications in
-recent decades as an example.[^70] By connecting it to the
+recent decades as an example.[^07chapter5_70] By connecting it to the
 false legacies of historical socialism, he highlights that the problems
 of information technology controlled *social credit system* are being
 reproduced in Chinese experimental version. For example, there is a
@@ -837,7 +837,7 @@ IT products of the contemporary capitalist economic system.
 
 Malone’s model is not the only form of cyber socialism that the world
 could follow; the socialistic decision-making models of Nordic countries
-such as Estonia could be mentioned as well.[^71] Another proposal
+such as Estonia could be mentioned as well.[^07chapter5_71] Another proposal
 towards the collectivization of ownership of social capital with
 emphasis on technological capital is introduced in the work *Inhuman
 Power - Artificial Intelligence and the Future of Capitalism.* Authors
@@ -855,16 +855,16 @@ mention as a suggestion:
 > advance the automation of work within capital, but rather those that
 > point to the expropriation of AI-capital, the development of new forms
 > of *collective ownership of AI*, and the application of AI to the
-> collectivization of other sectors.[^72]
+> collectivization of other sectors.[^07chapter5_72]
 
 They also believe that if realized the ‘fully automated luxury
 communism, or postcapitalism, envisages a transition to socialism by
 reducing or eliminating the need to work and supplying a universal basic
-income.’[^73] However, *Inhuman Power* also recognizes the limitations
+income.’[^07chapter5_73] However, *Inhuman Power* also recognizes the limitations
 and difficult realities of achieving a model of technological communism.
 In conclusion, they wrote ‘AI-capital is an abyss, communism a bridge
 across, but a perilous, shaky one, partially in flames, and with an
-obscured arrival point on the other side: nonetheless, advance.’[^74]
+obscured arrival point on the other side: nonetheless, advance.’[^07chapter5_74]
 
 John Perry Barlow, co-founder of the Electronic Frontier Foundation
 (EFF), published *A Declaration of the Independence of Cyberspace*
@@ -873,7 +873,7 @@ measures place us in the same position as those previous lovers of
 freedom and self-determination who had to reject the authorities of
 distant, uninformed powers. We must declare our virtual selves immune to
 your sovereignty, even as we continue to consent to your rule over our
-bodies.’[^75] Technology will continue to be developed and applied
+bodies.’[^07chapter5_75] Technology will continue to be developed and applied
 following human existence, in order to to be a means of support, serving
 the common interests of all people. Technology should not be a tool of
 exploitation, oppression and manipulation by a small group. On a global
@@ -887,14 +887,14 @@ of human ingenuity, emphasizing our innate role as designers of both our
 environments and fates. As a species, we employ structured methodologies
 not just in the creation of tangible objects but in every facet of our
 existence—from shaping social systems to scripting personal
-interactions.[^76] The act of design, deeply embedded in our survival
+interactions.[^07chapter5_76] The act of design, deeply embedded in our survival
 instincts, has evolved from primitive shelter construction to the
 sophisticated orchestration of modern societies. Throughout history,
 every sentence formulated, every shelter erected, and every garment
 crafted is a testament to our relentless experimentation and adaptation.
 Today, our scope has broadened; we design not only the physical but the
 abstract, influencing social constructs and even the design processes
-themselves.[^77] This story reflects on how these multifaceted design
+themselves.[^07chapter5_77] This story reflects on how these multifaceted design
 activities are not just acts of creation but powerful tools for
 reshaping our postcolonial reality, challenging the remnants of imposed
 structures and envisioning a world where design serves as a conduit for
@@ -915,7 +915,7 @@ for reality as well as liberating the artist from social limitations. As
 Guy Debord wrote in *Internationale Situationist (Paris), No. 1, June
 1958*: ‘Art need no longer be an account of past sensations. It can
 become the direct organization of more highly evolved sensations. It is
-a question of producing ourselves, not things that enslave us.’[^78]
+a question of producing ourselves, not things that enslave us.’[^07chapter5_78]
 
 Facing social problems, artists, designers and creative workers make a
 significant contribution together with other field practitioners by
@@ -959,7 +959,7 @@ Reproduction*
 > dialectic is no less noticeable in the superstructure than in the
 > economy. It would therefore be wrong to underestimate the value of
 > such theses as a weapon \[...\] They are useful for the formulation of
-> revolutionary demands in the politics of art.[^79]
+> revolutionary demands in the politics of art.[^07chapter5_79]
 
 By embracing political action and social involvement, Social Design,
 Critical Design, and Design Activism are typical *design activities*
@@ -981,7 +981,7 @@ projects, artworks and art activities.
 <br/>
 
 *Design and the Just City* - Harvard Graduate School of Design, at AIA’s
-Center for Architecture, USA 2018.[^80] The exhibition focused on how
+Center for Architecture, USA 2018.[^07chapter5_80] The exhibition focused on how
 design and planning contribute to equitable and unjust conditions in
 cities, neighbourhoods, and public areas and asks whether design can
 have an impact on correcting urban injustices, inequalities, and
@@ -992,7 +992,7 @@ disparities.
 
 <br/>
 
-*Social Design* at Museum für Gestaltung, Zürich, Germany 2019.[^81] The
+*Social Design* at Museum für Gestaltung, Zürich, Germany 2019.[^07chapter5_81] The
 exhibition aimed to confront the rapidly growing imbalance of resources,
 means of production, and future opportunities. Solutions were considered
 relying on the new, equitable exchange between individuals, civil
@@ -1005,7 +1005,7 @@ various solutions through their works.
 <br/>
 
 *Social Design Exhibition Asia* at Red Dot Design Museum, Xiamen, China
-2020.[^82] The Asia Social Design Expo featured more than a hundred the
+2020.[^07chapter5_82] The Asia Social Design Expo featured more than a hundred the
 global social design units from 20 countries and regions. The exhibition
 theme included circular economy, disaster response, educational
 diversity, minority care, and urban innovation. The exhibition
@@ -1018,7 +1018,7 @@ Nguyen.](imgs/TRA_Figure S5. 6.jpg)
 <br/>
 
 *Common objects. Local stories, global discussions* at Design Museum of
-Barcelona, Spain 2022.[^83] There was a Global Debates section which
+Barcelona, Spain 2022.[^07chapter5_83] There was a Global Debates section which
 focused on the dialogue designs to reflect their social role as
 mediators. The exhibited works were persuasive objects that actively
 demonstrate their role in building a better society.
@@ -1032,7 +1032,7 @@ Jason Evans ©e-flux.com.](imgs/TRA_Figure S5. 7.jpg)
 
 *Evidence Dolls* - Dunne & Raby was one of the artworks shown in the
 ‘No. 15 Designing Critical Design’at Z33 House for Contemporary Art,
-Design and Architecture, Belgium 2007.[^84] This was an early critical
+Design and Architecture, Belgium 2007.[^07chapter5_84] This was an early critical
 design exhibition. The exhibited designers distanced themselves from the
 modern world of commercial design but they still use the mechanisms of
 that very world to question the discipline and technology, social and
@@ -1043,7 +1043,7 @@ ethical questions.
 
 <br/>
 
-*Design and the Elastic Mind* at MoMA, New York, USA, 2008.[^85] The
+*Design and the Elastic Mind* at MoMA, New York, USA, 2008.[^07chapter5_85] The
 exhibition focused on momentous technology changes, science, and social
 mores. These changes were supposed to require major adjustments in human
 behavior and turn them into objects and systems that people understand
@@ -1066,25 +1066,25 @@ an important design form in initial artistic activism projects.
 ![Figure 5.9: Design activism and artistic activism. The Raised Fist, a
 symbol of solidarity, 1917. Black Lives Matter Murals, 2020. The Peace
 Symbol, the official logo for the British Campaign for Nuclear
-Disarmament, 1958. ©shillingtoneducation.com.[^86]](imgs/TRA_Figure S5. 9.jpg)
+Disarmament, 1958. ©shillingtoneducation.com.[^07chapter5_86]](imgs/TRA_Figure S5. 9.jpg)
 
 <br/>
 
 Tactical media is a specific example of using interdisciplinary methods
 in art activist action. In tactical media projects, the role of art is
-emphasized.[^87] Some prominent representatives of tactical media
+emphasized.[^07chapter5_87] Some prominent representatives of tactical media
 practice include The Yes Men, Critical Art Ensemble, and RTMark. The
 majority of tactical media projects include the use of design as a tool
 to denote resistance scenarios.
 
 The Yes Men are a duo of culture-jamming activists and supporters
-network founded by Jacques Servin and Igor Vamos.[^88] One of the most
+network founded by Jacques Servin and Igor Vamos.[^07chapter5_88] One of the most
 famous jokes of The Yes Men was to put a *corrected* World Trade
 Organization (WTO) website at http://www.gatt.org (General Agreement on
-Tariffs and Trade).[^89] The fake website began receiving real emails
+Tariffs and Trade).[^07chapter5_89] The fake website began receiving real emails
 from confused visitors, including invitations to address various elite
 groups on behalf of the WTO, and they responded as if they were the real
-WTO.[^90] At the WTO, in October 2000, the Yes Men gave speeches
+WTO.[^07chapter5_90] At the WTO, in October 2000, the Yes Men gave speeches
 encouraging corporations to buy votes directly from residents. They then
 started a performative action, introducing a gold spandex body suit
 implanted with sensors. They declared that the wearing of this suit
@@ -1095,7 +1095,7 @@ the implanted sensors.
 The Critical Art Ensemble (CAE) is another collective of five tactical
 media practitioners from many disciplines, including computer graphics
 and web design, film/video, photography, text arts, book arts, and
-performance.[^91] The collective has written seven books and their works
+performance.[^07chapter5_91] The collective has written seven books and their works
 have been translated into 18 languages. Their books include: The
 Electronic Disturbance (1994), Electronic Civil Disobedience & Other
 Unpopular Ideas (1996), Flesh Machine: Cyborgs, Designer Babies, & New
@@ -1104,15 +1104,15 @@ Tactical Media (2001), Molecular Invasion (2002), Marching Plague
 (2006), and the project book Disturbances (2012). Regarding the topic of
 their activities, in the 1990s, CAE mainly focused on projects related
 to the interrogation of biotechnology; since 2006, they have changed the
-focus of their work towards a critique of US defence policy.[^92]
+focus of their work towards a critique of US defence policy.[^07chapter5_92]
 
 RTMark is a notable anti-consumerist activist collective whose main
 focus is to break the *Corporate Shield* that is *protecting* American
-corporations.[^93] RTMark is a registered company that brings together
+corporations.[^07chapter5_93] RTMark is a registered company that brings together
 activists who plan projects with sponsors who fund them. As a result, it
 operates outside the laws governing individual human beings and benefits
 from laws governing much looser corporations. RTMark claims their first
-prank was the *Barbie Liberation Organization* in 1993.[^94]
+prank was the *Barbie Liberation Organization* in 1993.[^07chapter5_94]
 
 ### Act of designing in the age of AI and automation
 
@@ -1125,7 +1125,7 @@ interrogate, criticize, and offer solutions.
 
 *Face to Facebook* by Paolo Cirio & Alessandro Ludovico – Duo Italian
 artists - is one of the early projects that reacted to the data
-collecting problem.[^95] *Face to Facebook* is considered a form of art
+collecting problem.[^07chapter5_95] *Face to Facebook* is considered a form of art
 hacking that appeared in The Art Of Hacking of Juli Laczkó. According to
 Laczkó, in 2011, Cirio and Alessandro Ludovico copied one million
 Facebook profiles (profile pictures, names, locations), and then, with
@@ -1139,7 +1139,7 @@ Facebook's business model, the project had turned publicly and
 voluntarily shared user data into their interests. The work has left an
 open question about who has the legal right to exploit user data. The
 artists consistently identify the work as appropriation and
-awareness-raising.[^96]
+awareness-raising.[^07chapter5_96]
 
 ![Figure 5.10: Face to Facebook by Paolo Cirio & Alessandro Ludovico
 ©paolocirio.net.](imgs/TRA_Figure S5. 10.jpg)
@@ -1152,7 +1152,7 @@ labour are being outsourced via internet platforms. It explored various
 topics such as empathy, precarity, and immaterial labour in the body of
 the work. One of its episodes, *Worker 7 - Bot? Virtual
 Boyfriend/Girlfriend* documented the real story of the three-month-long
-affair the artist had with an interactive chatbot.[^97]
+affair the artist had with an interactive chatbot.[^07chapter5_97]
 
 ![Figure 5.11: Technologies of Care ©elisagiardinapapa.org.](imgs/TRA_Figure S5. 11.jpg)
 
@@ -1160,7 +1160,7 @@ affair the artist had with an interactive chatbot.[^97]
 
 *Algorithmic Justice League in the movement towards equitable and
 accountable AI* is a projected initiated in 2016 by Joy Buolamwini, a
-digital artist activist based at MIT Media Lab.[^98] The movement aims
+digital artist activist based at MIT Media Lab.[^07chapter5_98] The movement aims
 to raise awareness of the impact of AI, equip advocates for empirical
 research, build the voices and choices of the most affected communities,
 and encourage researchers, policymakers, and industry practitioners to
@@ -1174,10 +1174,10 @@ equitable and accountable AI ©ajl.org.](imgs/TRA_Figure S5. 12.jpg)
 <br/>
 
 Joy Buolamwini also created several artworks related to AI and exhibited
-at *The Criminal Type*(2019) Exhibition at APEXART, New York, NY, US[^99];
+at *The Criminal Type*(2019) Exhibition at APEXART, New York, NY, US[^07chapter5_99];
 *Understanding AI* (2019) Exhibition at Ars Electronica Center, Linz,
-Austria[^100]; *AI: More than Human* (2019) Exhibition at the Barbican Centre,
-London, UK.[^101] Buolamwini is one of the most
+Austria[^07chapter5_100]; *AI: More than Human* (2019) Exhibition at the Barbican Centre,
+London, UK.[^07chapter5_101] Buolamwini is one of the most
 active contemporary artists in AI-related matters.
 
 ![Figure 5.13: AI Ain't I A Woman, Joy Buolamwini. Courtesy of The
@@ -1187,12 +1187,12 @@ Barbican ©dazeddigital.com.](imgs/TRA_Figure S5. 13.jpg)
 
 Several art projects use algorithms to *hack* existing problems related
 to AI technology. This concept of *hacking* was first introduced by
-Francis Hunger in his article, *How to Hack Artificial Intelligence[^102];* by
-Janelle Shane in *Do Neural Nets Dream of Electric Sheep?*[^103]; and by James
-Bridle in *Autonomous Trap and Perturbation*[^104]; and by a group of artists,
+Francis Hunger in his article, *How to Hack Artificial Intelligence[^07chapter5_102];* by
+Janelle Shane in *Do Neural Nets Dream of Electric Sheep?*[^07chapter5_103]; and by James
+Bridle in *Autonomous Trap and Perturbation*[^07chapter5_104]; and by a group of artists,
 including Weili Han, Zhe Zhou, Di Tang, Xiaofeng Wang, Xiangyu Liu, and
 Kehuan Zhang in *Invisible Mask: Practical Attacks on Face Recognition
-with Infrared.*[^105] All these projects
+with Infrared.*[^07chapter5_105] All these projects
 have demonstrated the diverse approach of artists to the technological
 gaps, limitations of AI applications, and visual and auditory pattern
 recognition problems of current technology.
@@ -1203,7 +1203,7 @@ recognition problems of current technology.
 <br/>
 
 *This is the Future* by the filmmaker and writer Hito Steyerl at the
-Portland Art Museum, Oregon, USA (Feb–Jun 2023).[^106] This exhibition
+Portland Art Museum, Oregon, USA (Feb–Jun 2023).[^07chapter5_106] This exhibition
 introduced an imagined garden through an immersive environment of video
 projection, sculpture, and spatial intervention. Steyerl is one of the
 foremost artists offering critical reflections on the complexities of
@@ -1223,7 +1223,7 @@ and intellectual data, or things she does such as learning, or creating,
 became the potential profit. Jennifer Lyn Morone™ Inc began as a
 graduation project in Design Interactions that created an assumption for
 a society, namely that we reclaim our digital selves when we take more
-responsibility for what we are in the digital space. [^107] [^108]
+responsibility for what we are in the digital space. [^07chapter5_107] [^07chapter5_108]
 
 ![Figure 5.16: Jennifer Lyn Morone™ ©Jennifer Lyn Morone™ Inc.](imgs/TRA_Figure S5. 16.jpg)
 
@@ -1231,12 +1231,12 @@ responsibility for what we are in the digital space. [^107] [^108]
 
 *Collectivize Facebook* is one of the social projects ongoing from 2020,
 proposed by Jonas Staal–a Dutch artist working together with the Belgian
-lawyer, Jan Fermon.[^109] It consists of a class action lawsuit aimed at
+lawyer, Jan Fermon.[^07chapter5_109] It consists of a class action lawsuit aimed at
 forcing Facebook to be recognized by law as a public domain owned and
 controlled by users. The project is composed of an indictment against
 Facebook, which demands that Facebook be recognized as a public domain
 and the ownership model of Facebook be transferred to its 3 billion
-users.[^110] The lawsuit does not aim to reform Facebook or nationalize
+users.[^07chapter5_110] The lawsuit does not aim to reform Facebook or nationalize
 it. Its purpose is to turn Facebook into a transnational cooperative
 under the common ownership and management of the users. Through
 *pre-trials* (preliminary tribunals) in theaters, cultural spaces, and
@@ -1245,7 +1245,7 @@ accusation and invite them to participate as co-complainants before
 filing the indictment at the United Nations Human Rights Court in
 Geneva. These trials also involve *witnesses of the future* testifying
 on how to manage a Facebook of three billion co-owners should the case
-be successful.[^111]
+be successful.[^07chapter5_111]
 
 ![Figure 5.17: Collectivize Facebook ©jonasstaal.nl.
 ](imgs/TRA_Figure S5. 17.jpg)
@@ -1266,16 +1266,16 @@ Within the art world, we now witness a new wave of interest in AI and
 the social phenomena surrounding it. Several art forums and seminars
 with in-depth international discussions on the issue have already been
 held, such as *Speculative Futures online symposium: Artificial
-Intelligence*[^112] Vancouver Art Gallery, University of British Columbia
-(UBC), 2022 or *Futures Of Control: Ai In Criminal Investigation*[^113],
+Intelligence*[^07chapter5_112] Vancouver Art Gallery, University of British Columbia
+(UBC), 2022 or *Futures Of Control: Ai In Criminal Investigation*[^07chapter5_113],
 Mozfest X Impakt - Curated by Rosa Wevers, 2022.
 
 Several important art events related to the theme have also been held in
 the last three years. Among them are *Brave New Virtues - Shaping Our
-Digital World,*[^114] Vienna Biennale, Austria, 2019; *Uncanny Valley: Being
-Human in the Age of AI*[^115], Fine Arts Museums of San Francisco, USA
-2020-2021; *You and AI: Through the Algorithmic Lens*[^116], Onassis Culture,
-Athens, Greek, 2021; *Seeing Stones and Spaces Beyond the Valley*[^117]
+Digital World,*[^07chapter5_114] Vienna Biennale, Austria, 2019; *Uncanny Valley: Being
+Human in the Age of AI*[^07chapter5_115], Fine Arts Museums of San Francisco, USA
+2020-2021; *You and AI: Through the Algorithmic Lens*[^07chapter5_116], Onassis Culture,
+Athens, Greek, 2021; *Seeing Stones and Spaces Beyond the Valley*[^07chapter5_117]
 Biennale Warszawa, Poland, 2022.
 
 Between 2018 and 2022, as a seasoned artist and designer, I also
@@ -1287,27 +1287,19 @@ pervasive digital technologies. Additionally, they propose potential
 solutions for navigating this landscape in the future. Here are some
 highlighted works.
 
-01\. *Brave New Chapter* – Tra Nguyen - Readymades - digital print,
-collage, size: A0 - Première exhibition: Europa Garage, 5un7 Gallery,
-Bordeaux (FR), 2019.
+##### Brave New Chapter 
+*Readymades - digital print, collage, size: A0 - Première exhibition: Europa Garage, 5un7 Gallery, Bordeaux (FR), 2019.*
 
-Focusing on the transformation of colonialism in the digital age, the
-project explores the reconstruction of the colonial relationship in
-cyberspace. By reusing, overlapping and manipulating their posters, the
-work refers on two connected historical events: the Paris Colonial
-Exposition (1931) and its critical counter exhibition, The Truth on the
-Colonies organized by the French Communist Party in the same year.
+Focusing on the transformation of colonialism in the digital age, the project explores the reconstruction of the colonial relationship in cyberspace. By reusing, overlapping and manipulating their posters, the
+work refers on two connected historical events: the Paris Colonial Exposition (1931) and its critical counter exhibition, The Truth on the Colonies organized by the French Communist Party in the same year.
 
 ![Figure 5.18: Brave New Chapter ©Tra Nguyen
 ](imgs/TRA_Figure S5. 18.jpg)
 
 <br/>
 
-02\. *Dialectic of Cyber-Enlightenment* – Tra Nguyen – Readymades, found
-object, intervention
-
-size: 45 × 600 cm – Première exhibition: Colonial Warehouse, Archives
-Bordeaux Metropole, France, 2020.
+#### Dialectic of Cyber-Enlightenment
+*Readymades, found object, intervention, size: 45 × 600 cm – Première exhibition: Colonial Warehouse, Archives, Bordeaux Metropole, France, 2020.*
 
 The work reflects on the transforming and changing structures of
 contemporary culture in which the developments of cyber-culture are
@@ -1331,14 +1323,12 @@ KissPál](imgs/TRA_Figure S5. 19.jpg)
 
 <br/>
 
-03\. *Ring the Bell* – Tra Nguyen - Radio, installation, 2022, with the
-contribution of Rick Fendrick.
+#### Ring the Bell 
+*Radio, installation, 2022, with the
+contribution of Rick Fendrick, Dial phone, audio, duration: 20 minutes,Première: Crack, Artus Studio, Budapest, Hungary, 2022.*
 
-Dial phone, audio, duration: 20 minutes,Première: Crack, Artus Studio,
-Budapest, Hungary, 2022.
-
-The piece reenacts a popular American radio show, *The story behind the
-headlines* (1930s-1940s) in order to analyze some of the controversial
+The piece reenacts a popular American radio show,* *The Story Behind the
+Headlines* (1930s-1940s) in order to analyze some of the controversial
 recent media news related to surveillance capitalism. The work pays
 tribute to the very first telephone newspaper service in the world, the
 Telefon Hírmondó (Telephone Herald) launched in Budapest in 1893 by the
@@ -1354,9 +1344,8 @@ link: https://tranguyen.net/portfolio/ring-the-bell.
 
 <br/>
 
-04\. *Systematic Error* - Tra Nguyen – Installation - Antique ICA photo
-camera, scale, batteries, text, dimensions: 600 × 200 cm, Première:
-Crack, Artus Studio, Budapest, Hungary, 2022.
+#### Systematic Error
+*Installation - Antique ICA photo, camera, scale, batteries, text, dimensions: 600 × 200 cm, Première: Crack, Artus Studio, Budapest, Hungary, 2022.*
 
 The installation refers to the dystopian character of the social credit
 system relying on personal data harvesting and analysis by AI algorithms
@@ -1380,9 +1369,9 @@ wrong consequences.
 
 <br/>
 
-05\. *Data Hot Pot* – Tra Nguyen - Zine contribution, Print, size: 60 ×
-60 cm, pages 44-47, Première: Contemporary Cosmopolitan Cookbook, pages
-44-47, HUFA, Budapest, Hungary, 2021.
+#### Data Hot Pot
+*Zine contribution, Print, size: 60 ×
+60 cm, pages 44-47, Première: Contemporary Cosmopolitan Cookbook, pages 44-47, HUFA, Budapest, Hungary, 2021.*
 
 Published as a zine contribution in the online publication *Contemporary
 Cosmopolitan Cookbook*- a joint project of Fine Art Theory students and
@@ -1399,9 +1388,8 @@ highly unfair.
 
 <br/>
 
-06\. *Parallel Predictions* – Tra Nguyen – Installation, 12 found
-objects, 12 tarot-cards, Première: Parallel Hungary II, Profil Gallery,
-Budapest, Hungary, 2022.
+#### Parallel Predictions
+*Installation, 12 found objects, 12 tarot-cards, Première: Parallel Hungary II, Profil Gallery, Budapest, Hungary, 2022.*
 
 The artwork creates a miniature space - introducing 12 ancient forms of
 fortune telling, creating a connection between the traditional and
@@ -1431,9 +1419,8 @@ enterprises, corporations, or groups.
 
 <br/>
 
-07\. *Horus* Case – Tra Nguyen - Cyber performance, docufiction, Virtual
-exhibition space, webpage, e-book, video, duration: 2 minutes, Première:
-Host and hostility, HUFA-online, Hungary, 2020.
+#### Horus Case
+*Cyber performance, docufiction, Virtual exhibition space, webpage, e-book, video, duration: 2 minutes, Première: Host and hostility, HUFA-online, Hungary, 2020.*
 
 Horus Case is a cyber performance based on a fictional scenario. The
 video is a war declaration to the Union of Corporations and States (UCS)
@@ -1453,9 +1440,9 @@ of feeling subjected to a real cyber-psychological torture.
 
 <br/>
 
-08\. *Edward’s Trash Bin* – Tra Nguyen – Readymades, Found object,
-removed camera and microphone, dimensions: 2 × 3 cm, Première: Crack,
-Artus Studio, Budapest, Hungary, 2022.
+#### Edward’s Trash Bin
+*Readymades, Found object, removed camera and microphone, dimensions: 2 × 3 cm, Première: Crack,
+Artus Studio, Budapest, Hungary, 2022.*
 
 Edward Joseph Snowden (1983) is an American former computer intelligence
 consultant and president of the Freedom of Press Foundation, who as a
@@ -1474,9 +1461,9 @@ to ‘being able to trust our technology’ again.
 
 <br/>
 
-09\. *The Keys* – Tra Nguyen – Installation, info graphics, digital
-print, plexiglass, dimensions: 68 × 68 × 500 cm, Première: Parallel
-Hungary, Aula HUFA Budapest, 2020.
+#### The Keys
+*Installation, info graphics, digital
+print, plexiglass, dimensions: 68 × 68 × 500 cm, Première: Parallel Hungary, Aula HUFA Budapest, 2020.*
 
 The piece – based on personal experiences – depicts how the strangers
 visualize and conceptualize the Hungarian culture, people, politics.
@@ -1492,8 +1479,8 @@ impressions of a Vietnamese person is the central concept of the work.
 
 <br/>
 
-10\. *Cyber-colonialism* – Tra Nguyen - performative lecture, video,
-duration: 13 minutes, Première: Bucharest Biennial (RO), 2021.
+#### Cyber-colonialism
+*Performative lecture, video, duration: 13 minutes, Première: Bucharest Biennial (RO), 2021.*
 
 The performance enacts a traditional Vietnamese storyteller who shared
 her concerns and warnings on data privacy with her villagers while
@@ -1504,7 +1491,7 @@ entertaining fable. The work was inspired by an actual elderly
 storyteller image in Vietnam *(The elderly story teller – Bà… in Ta Oi,
 Hue, Vietnam);* even today, a female village leader still circulates
 traditional stories, telling legends to the people of her village every
-night.[^118] Collective awareness and memory formed through oral
+night.[^07chapter5_118] Collective awareness and memory formed through oral
 retelling is the most primitive form of human communication, and it
 remains a precious and important form of social communication in some
 places.
@@ -1514,9 +1501,8 @@ places.
 
 <br/>
 
-11\. *Protect21* – Decolonizing Cyberspace – Tra Nguyen - 42 posters,
-digital print, various authors, various sizes, & Introductory video -
-duration: 10 minutes, Première: Bucharest Biennial 2021.
+#### Protect21 – Decolonizing Cyberspace
+*42 posters, digital print, various authors, various sizes, & Introductory video - duration: 10 minutes, Première: Bucharest Biennial 2021.*
 
 This campaign entitled *Wiping Digital Footprint* is part of the
 *Protect21*, a wider social design project that aims to contribute to
@@ -1546,7 +1532,7 @@ social benefits, it might generate improved scenarios for the future of
 our society. James Walter Thompson (1847—1928) stated that ‘Advertising
 is a non-moral force like electricity which not only illuminates but
 also electrocutes. In fact, its worth to civilization depends upon how
-it is used’.[^119]
+it is used’.[^07chapter5_119]
 
 In addition to the classic design tools (such as graphic activist
 works), we need new forms of design (such as video, interactive, and
@@ -1567,7 +1553,7 @@ impress, and generate solutions. Changing the function of design to
 minimize harm and increase its positive impact has become an urgent task
 to consider in our contemporary society.
 
-**References**
+## References
 
 Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace.’
 Davos, Switzerland, February 8, 1996. https://www.eff.org.
@@ -1744,422 +1730,422 @@ Zhong, Yuhao. ‘Rethinking the Social Credit System: A Long Road to
 Establishing Trust in Chinese Society.’ In *Symposium on Applications of
 Contextual Integrity*, 28–29, 2019. https://privaci.info.
 
-[^1]: Nick Robinson, ‘Economy: There is no alternative (TINA) is back’.
+[^07chapter5_1]: Nick Robinson, ‘Economy: There is no alternative (TINA) is back’.
     *bbc.com. BBC News*, 2023.
 
-[^2]: Wikipedia contributors, ‘There is no alternative’, 18 November
+[^07chapter5_2]: Wikipedia contributors, ‘There is no alternative’, 18 November
     2020,
     https://en.wikipedia.org/wiki/There\_is\_no\_alternative\#:\~:text=%22There%20is%20no%20alternative%22%20(,British%20prime%20minister%20Margaret%20Thatcher.
 
-[^3]: Simon Reynolds, ‘Mark Fisher's K-punk Blogs Were Required Reading
+[^07chapter5_3]: Simon Reynolds, ‘Mark Fisher's K-punk Blogs Were Required Reading
     for a Generation.’ *The Guardian*, 2017.
 
-[^4]: Laura Flanders, ‘At Thatcher's Funeral, Bury TINA, Too’, *The
+[^07chapter5_4]: Laura Flanders, ‘At Thatcher's Funeral, Bury TINA, Too’, *The
     Nation*, 2013.
 
-[^5]: *A New Philosophy on Artificial Intelligence,* (Kristian Hammond,
+[^07chapter5_5]: *A New Philosophy on Artificial Intelligence,* (Kristian Hammond,
     2018) TEDx North WesternU, Available at:
     https://www.youtube.com/watch?v=tr9oe2TZiJw.
 
-[^6]: *A New Philosophy on Artificial Intelligence,* (Kristian Hammond,
+[^07chapter5_6]: *A New Philosophy on Artificial Intelligence,* (Kristian Hammond,
     2018) TEDx North WesternU, Available at:
     https://www.youtube.com/watch?v=tr9oe2TZiJw.
 
-[^7]: *How Digital Technologies Are Transforming the Media Industry*,
+[^07chapter5_7]: *How Digital Technologies Are Transforming the Media Industry*,
     (Miklos Sarvary, 2017), Columbia Business School Available at:
     https://www.youtube.com/watch?v=QuU8qDVz4gg&t=122s.
 
-[^8]: Kara Anne Swisher - a journalist, who co-founded Vox Media's
+[^07chapter5_8]: Kara Anne Swisher - a journalist, who co-founded Vox Media's
     Recode mentions these ideas in *The Facebook Dilemma*, (Frontline,
     2018), Available at:
     https://www.youtube.com/watch?v=T48KFiHwexM&t=55s.
 
-[^9]: *The keynote of Satya Nadella*, (Microsoft, 2020),https://www.youtube.com/watch?v=0v1vyWJQlzs&t=2101s.
+[^07chapter5_9]: *The keynote of Satya Nadella*, (Microsoft, 2020),https://www.youtube.com/watch?v=0v1vyWJQlzs&t=2101s.
 
-[^10]: *The keynote of Sundar Pichai*, (Google, 2022),
+[^07chapter5_10]: *The keynote of Sundar Pichai*, (Google, 2022),
     https://www.youtube.com/watch?v=nP-nMZpLM1A&t=387s.
 
-[^11]: *The keynote of Tim Cook*, (Apple, 2019),
+[^07chapter5_11]: *The keynote of Tim Cook*, (Apple, 2019),
     https://www.youtube.com/watch?v=-rAeqN-Q7x4.
 
-[^12]: *Metaverse, How We'll Build It Together,* (Mark Zuckerberg, Meta,
+[^07chapter5_12]: *Metaverse, How We'll Build It Together,* (Mark Zuckerberg, Meta,
     2021), https://www.youtube.com/watch?v=Uvufun6xer8&t=80s.
 
-[^13]: *Google IO 2021 keynote - CEO Sundar Pichai*, (Google, 2020),
+[^07chapter5_13]: *Google IO 2021 keynote - CEO Sundar Pichai*, (Google, 2020),
     https://www.youtube.com/watch?v=mMSfUeJ49yk.
 
-[^14]: *Microsoft AI: Empowering Outcomes in the Intelligent Cloud -
+[^07chapter5_14]: *Microsoft AI: Empowering Outcomes in the Intelligent Cloud -
     Satya Nadella,* (Microsoft, 2019), https://www.youtube.com/watch?v=yc0Gi0w3ldM.
 
-[^15]: *Metaverse, How We'll Build It Together,* (Mark Zuckerberg, Meta,
+[^07chapter5_15]: *Metaverse, How We'll Build It Together,* (Mark Zuckerberg, Meta,
     2021). https://www.youtube.com/watch?v=Uvufun6xer8&t=80s.
 
-[^16]: The loyalty business model is a business model used in strategic
+[^07chapter5_16]: The loyalty business model is a business model used in strategic
     management in which company resources are employed so as to increase
     the loyalty of customers and other stakeholders. Wikipedia
     contributors, ‘Loyalty business model’, 8 November 2021.
     https://en.wikipedia.org/wiki/Loyalty\_business\_model.
 
-[^17]: Philip N Howard, Aiden Duffy, Deen Freelon, Muzammil M. Hussain,
+[^07chapter5_17]: Philip N Howard, Aiden Duffy, Deen Freelon, Muzammil M. Hussain,
     Will Mari and Marwa Maziad, ‘Opening Closed Regimes: What Was the
     Role of Social Media during the Arab Spring?’ *SSRN*, 2011.
     https://ssrn.com/abstract=2595096.
 
-[^18]: *The Facebook Dilemma,* (Fronline, 2018), Documentary film.
+[^07chapter5_18]: *The Facebook Dilemma,* (Fronline, 2018), Documentary film.
     https://www.youtube.com/watch?v=T48KFiHwexM&t=55s.
 
-[^19]: *The Facebook Dilemma,* (Fronline, 2018), Documentary film.
+[^07chapter5_19]: *The Facebook Dilemma,* (Fronline, 2018), Documentary film.
     https://www.youtube.com/watch?v=T48KFiHwexM&t=55s.
 
-[^20]: Marc Lynch, ‘Twitter Devolutions.’ *Foreign Policy*, no. 7, 2013.
+[^07chapter5_20]: Marc Lynch, ‘Twitter Devolutions.’ *Foreign Policy*, no. 7, 2013.
 
-[^21]: An email bomb is a form of net abuse that sends large volumes of
+[^07chapter5_21]: An email bomb is a form of net abuse that sends large volumes of
     email to one address to overflow the mailbox and overwhelm the
     server where the email address is hosted or as a smoke screen to
     distract the attention from important email messages. Wikipedia contributors, ‘Email bomb’, 8 November 2021.
     https://en.wikipedia.org/wiki/Email\_bomb.
 
-[^22]: Owen Bowcott, ‘UN Warns of Rise of 'Cybertorture' to Bypass
+[^07chapter5_22]: Owen Bowcott, ‘UN Warns of Rise of 'Cybertorture' to Bypass
     Physical Ban.’ *The Guardian*, 21 February 2020.
     https://www.theguardian.com/law/2020/feb/21/un-rapporteur-warns-of-rise-of-cybertorture-to-bypass-physical-ban.
 
-[^23]: Owen Bowcott, ‘UN Warns of Rise of 'Cybertorture' to Bypass
+[^07chapter5_23]: Owen Bowcott, ‘UN Warns of Rise of 'Cybertorture' to Bypass
     Physical Ban.’ *The Guardian*, 21 February 2020.
 
-[^24]: *The Facebook Dilemma,* (Fronline, 2018), Documentary film.
+[^07chapter5_24]: *The Facebook Dilemma,* (Fronline, 2018), Documentary film.
     https://www.youtube.com/watch?v=T48KFiHwexM&t=55s.
 
-[^25]: Thy An, ‘Livestream trên Thương Mại Điện Tử - Nghề Hot của Giới
+[^07chapter5_25]: Thy An, ‘Livestream trên Thương Mại Điện Tử - Nghề Hot của Giới
     Trẻ’, *VnExpress*, 2 October 2021. https://vnexpress.net/livestream-tren-thuong-mai-dien-tu-nghe-hot-cua-gioi-tre-4359693.html.
 
-[^26]: *knock-off is* a cheaper copy of an expensive and popular
+[^07chapter5_26]: *knock-off is* a cheaper copy of an expensive and popular
     product. Dictionary Cambridge, 'knockoff', 2 September 2021,
     ttps://dictionary.cambridge.org/dictionary/english/knockoff.
 
-[^27]: Thanh Thương, ‘Livestream Bán Hàng Lậu Thu Chục Tỷ Mỗi Tháng.’
+[^07chapter5_27]: Thanh Thương, ‘Livestream Bán Hàng Lậu Thu Chục Tỷ Mỗi Tháng.’
     *Tạp Chí Tri Thức*, 10 July 2020.
     https://zingnews.vn/livestream-ban-hang-lau-thu-chuc-ty-moi-thang-post1104703.html.
 
-[^28]: Abram Brown and Abigail Freeman. ‘The Highest-Paid YouTube Stars:
+[^07chapter5_28]: Abram Brown and Abigail Freeman. ‘The Highest-Paid YouTube Stars:
     MrBeast, Jake Paul and Markiplier Score Massive Paydays.’ *Forbes*,
     11 May 2022. https://www.forbes.com.
 
-[^29]: *I Remove This Mysterious Tiny Chip Before Using The Phone!*
+[^07chapter5_29]: *I Remove This Mysterious Tiny Chip Before Using The Phone!*
     (Edward Snowden, 2021) Available at:
     https://www.youtube.com/watch?v=0dGqR4ue8dg&t=1s.
 
-[^30]: David Weinberger, ‘Our Machines Now Have Knowledge We’ll Never
+[^07chapter5_30]: David Weinberger, ‘Our Machines Now Have Knowledge We’ll Never
     Understand.’ *Wired*, 18 April 2017. https://www.wired.com/story/our-machines-now-have-knowledge-well-never-understand.
 
-[^31]: The founder, CEO and chief engineer of SpaceX; angel investor,
+[^07chapter5_31]: The founder, CEO and chief engineer of SpaceX; angel investor,
     CEO and product architect of Tesla, Inc.; owner and CEO of Twitter,
     Inc.; founder of the Boring Company; co-founder
     of Neuralink and OpenAI; and president of the philanthropic Musk
     Foundation.
 
-[^32]: Billy Perrigo, ‘Elon Musk Signs Open Letter Urging AI Labs to
+[^07chapter5_32]: Billy Perrigo, ‘Elon Musk Signs Open Letter Urging AI Labs to
     Pump the Brakes.’ *Time*, March, 29 March 2023.
     https://time.com/6266679/musk-ai-open-letter/\#lftvdfup8goooe30kuo.
 
-[^33]: Frank Pasquale, *The Black Box Society: The Secret Algorithms
+[^07chapter5_33]: Frank Pasquale, *The Black Box Society: The Secret Algorithms
     That Control Money and Information*. Cambridge, MA: Harvard
     University Press, 2015. p.3.
 
-[^34]: Martin Heidegger, *The Question Concerning Technology*. New York
+[^07chapter5_34]: Martin Heidegger, *The Question Concerning Technology*. New York
     and London: Garland Publishing, Inc., 1977.
 
-[^35]: Martin Heidegger, *The Question Concerning Technology*. New York
+[^07chapter5_35]: Martin Heidegger, *The Question Concerning Technology*. New York
     and London: Garland Publishing, Inc., 1977.
 
-[^36]: OECD Science, *Technology and Industry Scoreboard*. OECD. 2015.
+[^07chapter5_36]: OECD Science, *Technology and Industry Scoreboard*. OECD. 2015.
     p. 156. https://www.oecd-ilibrary.org/science-and-technology/oecd-science-technology-and-industry-scoreboard-2015\_sti\_scoreboard-2015-en.
 
-[^37]: Thomas S Kuhn, ‘Book and Film Reviews: Revolutionary View of the
+[^07chapter5_37]: Thomas S Kuhn, ‘Book and Film Reviews: Revolutionary View of the
     History of Science: The Structure of Scientific Revolutions.’ *The
     Physics Teacher* 8, no. 2 (1970), p. 96-98.
 
-[^38]: Yuval Noah Harari, ‘Lessons from a Year of Covid.’ *Financial
+[^07chapter5_38]: Yuval Noah Harari, ‘Lessons from a Year of Covid.’ *Financial
     Times*, 2021. https://www.ft.com/content/f1b30f2c-84aa-4595-84f2-7816796d6841.
 
-[^39]: Yuval Noah Harari, ‘Lessons from a Year of Covid.’ *Financial
+[^07chapter5_39]: Yuval Noah Harari, ‘Lessons from a Year of Covid.’ *Financial
     Times*, 2021.
 
-[^40]: Yuval Noah Harari, ‘Lessons from a Year of Covid.’ *Financial
+[^07chapter5_40]: Yuval Noah Harari, ‘Lessons from a Year of Covid.’ *Financial
     Times*, 2021.
 
-[^41]: Yuval Noah Harari, ‘The World After Coronavirus.’ *Financial
+[^07chapter5_41]: Yuval Noah Harari, ‘The World After Coronavirus.’ *Financial
     Times*, March 20, 2020.
     https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75.
 
-[^42]: Vương Trần, ‘Cho Thôi Giữ Chức Vụ 2 Phó Thủ Tướng, 3 Thứ Trưởng
+[^07chapter5_42]: Vương Trần, ‘Cho Thôi Giữ Chức Vụ 2 Phó Thủ Tướng, 3 Thứ Trưởng
     và Tương Đương, 1 Chủ Tịch Tập Đoàn Trong Năm 2022*.’ Lao Động*,
     2023.
     https://laodong.vn/thoi-su/cho-thoi-giu-chuc-vu-2-pho-thu-tuong-3-thu-truong-va-tuong-duong-1-chu-tich-tap-doan-trong-nam-2022-1137333.ldo.
 
-[^43]: *Connected: The Hidden Science of Everything*, (Netflix, 2020),
+[^07chapter5_43]: *Connected: The Hidden Science of Everything*, (Netflix, 2020),
     Clouds, Docuseries.
 
-[^44]: Michael Davie, ‘Blood Cobalt.’ *ABC News*, 2022.
+[^07chapter5_44]: Michael Davie, ‘Blood Cobalt.’ *ABC News*, 2022.
     https://abc.net.au.
 
-[^45]: Jean Baudrillard, *Simulacra and Simulation*. Translated by
+[^07chapter5_45]: Jean Baudrillard, *Simulacra and Simulation*. Translated by
     Sheila Faria Glaser. Ann Arbor: University of Michigan Press, 1995.
     ‘On Nihilism,’ 104.
 
-[^46]: Ajahn Pasanno and Ajahn Amaro, ‘Knowing, Emptiness and the
+[^07chapter5_46]: Ajahn Pasanno and Ajahn Amaro, ‘Knowing, Emptiness and the
     Radiant Mind.’ *Forest Sangha Newsletter* 88 (2009): 5.
     https://forestsangha.org.
 
-[^47]: Mark Fisher, *Capitalist Realism: Is There No Alternative?*
+[^07chapter5_47]: Mark Fisher, *Capitalist Realism: Is There No Alternative?*
     Winchester, UK: John Hunt Publishing, 2022.
 
-[^48]: Luke Turner, ‘Metamodernist Manifesto.’ *Metamodernism*, 2011,
+[^07chapter5_48]: Luke Turner, ‘Metamodernist Manifesto.’ *Metamodernism*, 2011,
     http://www.metamodernism.org/.
 
-[^49]: Adam Curtis, ‘Interview about the Documentary Film
+[^07chapter5_49]: Adam Curtis, ‘Interview about the Documentary Film
     HyperNormalisation.’ Interviewed on October 16, 2016, *youtube.com*,
     20 May 2022. https://www.youtube.com/watch?v=tVx3lt8ZKHw&t=13s.
 
-[^50]: Jaron Lanier, *Ten Arguments for Deleting Your Social Media
+[^07chapter5_50]: Jaron Lanier, *Ten Arguments for Deleting Your Social Media
     Accounts Right Now*. New York: Random House, 2018.
 
-[^51]: Franklin Foer, ‘Click ‘Delete’ to Save Your Soul.’ *The New York
+[^07chapter5_51]: Franklin Foer, ‘Click ‘Delete’ to Save Your Soul.’ *The New York
     Times*, 13 June 2018.
     https://www.nytimes.com/2018/06/13/books/review/jaron-lanier-ten-arguments-for-deleting-your-social-media-accounts-right-now.html.
 
-[^52]: Jaron Lanier, *Who Owns the Future?* New York: Simon and
+[^07chapter5_52]: Jaron Lanier, *Who Owns the Future?* New York: Simon and
     Schuster, 2014.
 
-[^53]: Wikipedia contributors, ‘Tristan Harris’, 5 November 2021.
+[^07chapter5_53]: Wikipedia contributors, ‘Tristan Harris’, 5 November 2021.
     https://en.wikipedia.org/wiki/Tristan\_Harris.
 
-[^54]: Wikipedia contributors, ‘Timnit Gebru’, 5 November 2021.
+[^07chapter5_54]: Wikipedia contributors, ‘Timnit Gebru’, 5 November 2021.
     https://en.wikipedia.org/wiki/Timnit\_Gebru.
 
-[^55]: Wikipedia contributors, ‘Meredith Whittaker’, 5 November 2021.
+[^07chapter5_55]: Wikipedia contributors, ‘Meredith Whittaker’, 5 November 2021.
     https://en.wikipedia.org/wiki/Meredith\_Whittaker.
 
-[^56]: Pratik Gauri, ‘What the Fifth Industrial Revolution Is and Why It
+[^07chapter5_56]: Pratik Gauri, ‘What the Fifth Industrial Revolution Is and Why It
     Matters.’ *World Economic Forum*, 2019. https://europeansting.com/2019/05/16/what-the-fifth-industrial-revolution-is-and-why-it-matters.
 
-[^57]: Wikipedia contributors, ‘Sustainable Development Goals’, 10
+[^07chapter5_57]: Wikipedia contributors, ‘Sustainable Development Goals’, 10
     November 2021.
     https://en.wikipedia.org/wiki/Sustainable\_Development\_Goals.
 
-[^58]: Markus D. Dubber, Frank Pasquale and Sunit Das, eds., *The Oxford
+[^07chapter5_58]: Markus D. Dubber, Frank Pasquale and Sunit Das, eds., *The Oxford
     Handbook of Ethics of AI*. Oxford: Oxford University Press, 2020.
 
-[^59]: Mark Coeckelbergh, M. *AI ethics*, Mit Press. 2020.
+[^07chapter5_59]: Mark Coeckelbergh, M. *AI ethics*, Mit Press. 2020.
 
-[^60]: Jessi Hempel, ‘Fei-Fei Li's Quest to Make Machines Better for
+[^07chapter5_60]: Jessi Hempel, ‘Fei-Fei Li's Quest to Make Machines Better for
     Humanity.’ *Wired*, 2018. ISSN 1059-1028. https://www.wired.com.
 
-[^61]: Theo Farrant & AFP, ‘From lawsuits to tech hacks: Here's how
+[^07chapter5_61]: Theo Farrant & AFP, ‘From lawsuits to tech hacks: Here's how
     artists are fighting back against AI image generation’, *Euronews,*
     2023. https://www.euronews.com/culture/2023/03/27/from-lawsuits-to-tech-hacks-heres-how-artists-are-fighting-back-against-ai-image-generatio.
 
-[^62]: *Tristan Harris - US Senate 25 June*, (Vello Masing, 2019),
+[^07chapter5_62]: *Tristan Harris - US Senate 25 June*, (Vello Masing, 2019),
     Available at: https://www.youtube.com/watch?v=WQMuxNiYoz4.
 
-[^63]: Europa, ‘A European approach to artificial intelligence’,
+[^07chapter5_63]: Europa, ‘A European approach to artificial intelligence’,
     *digital-strategy.ec.europa.eu*, 20 May 2021. Available at: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence
 
-[^64]: Mark Coeckelbergh, M. *AI ethics*, Mit Press. 2020.
+[^07chapter5_64]: Mark Coeckelbergh, M. *AI ethics*, Mit Press. 2020.
 
-[^65]: Nick Srnicek, ‘We need to nationalise Google, Facebook and
+[^07chapter5_65]: Nick Srnicek, ‘We need to nationalise Google, Facebook and
     Amazon. Here’s why’, *The Guardian,* 2017.
     https://www.theguardian.com/commentisfree/2017/aug/30/nationalise-google-facebook-amazon-data-monopoly-platform-public-interest.
 
-[^66]: Amy Webb, *The big nine: How the tech titans and their thinking
+[^07chapter5_66]: Amy Webb, *The big nine: How the tech titans and their thinking
     machines could warp humanity*. Hachette UK. 2029.
 
-[^67]: Linda Monsees, ‘Cryptoparties: empowerment in internet
+[^07chapter5_67]: Linda Monsees, ‘Cryptoparties: empowerment in internet
     security?’ *Internet Policy Review*, 2020, *9*(4), 1-19.
 
-[^68]: Theo Farrant and AFP, ‘From Lawsuits to Tech Hacks: Here's How
+[^07chapter5_68]: Theo Farrant and AFP, ‘From Lawsuits to Tech Hacks: Here's How
     Artists Are Fighting Back Against AI Image Generation.’ *Euronews*,
     2023. https://www.euronews.com/culture/2023/03/27/from-lawsuits-to-tech-hacks-heres-how-artists-are-fighting-back-against-ai-image-generatio.
 
-[^69]: Thomas W Malone, *Superminds: How Hyperconnectivity Is Changing
+[^07chapter5_69]: Thomas W Malone, *Superminds: How Hyperconnectivity Is Changing
     the Way We Solve Problems*, New York: Simon and Schuster, 2018.
 
-[^70]: Yuhao Zhong, ‘Rethinking the Social Credit System: A Long Road to
+[^07chapter5_70]: Yuhao Zhong, ‘Rethinking the Social Credit System: A Long Road to
     Establishing Trust in Chinese Society.’ In *Symposium on
     Applications of Contextual Integrity*, 28–29, 2019.
     https://privaci.info.
 
-[^71]: *Connected: The Hidden Science of Everything*. (Netflix, 2020),
+[^07chapter5_71]: *Connected: The Hidden Science of Everything*. (Netflix, 2020),
     Clouds, Docuseries.
 
-[^72]: Nick Dyer-Witheford, Atle Mikkola Kjøsen and James Steinhoff,
+[^07chapter5_72]: Nick Dyer-Witheford, Atle Mikkola Kjøsen and James Steinhoff,
     *Inhuman Power: Artificial Intelligence and the Future of
     Capitalism*, London: Pluto Press, 2019.
 
-[^73]: Nick Dyer-Witheford, Atle Mikkola Kjøsen and James Steinhoff,
+[^07chapter5_73]: Nick Dyer-Witheford, Atle Mikkola Kjøsen and James Steinhoff,
     *Inhuman Power: Artificial Intelligence and the Future of
     Capitalism*, London: Pluto Press, 2019.
 
-[^74]: Nick Dyer-Witheford, Atle Mikkola Kjøsen and James Steinhoff,
+[^07chapter5_74]: Nick Dyer-Witheford, Atle Mikkola Kjøsen and James Steinhoff,
     *Inhuman Power: Artificial Intelligence and the Future of
     Capitalism*, London: Pluto Press, 2019.
 
-[^75]: John Perry Barlow, ‘A Declaration of the Independence of
+[^07chapter5_75]: John Perry Barlow, ‘A Declaration of the Independence of
     Cyberspace.’ *Davos, Switzerland*, February 8, 1996.
     https://www.eff.org.
 
-[^76]: Victor Margolin, ‘Design for a Sustainable World.’ *Design
+[^07chapter5_76]: Victor Margolin, ‘Design for a Sustainable World.’ *Design
     Issues* 14, no. 2 (1998): 83-92.
 
-[^77]: Research Team of the Studio for Designing Interactive Spaces and
+[^07chapter5_77]: Research Team of the Studio for Designing Interactive Spaces and
     Objects. *Signs of Empathy in Contemporary Design*. Wroclaw, Poland:
     The Eugeniusz Geppert Academy of Art and Design, 2023. ISBN
     978-83-66321-78-6.
 
-[^78]: Guy Debord, ‘Internationale Situationist.’ *Internationale
+[^07chapter5_78]: Guy Debord, ‘Internationale Situationist.’ *Internationale
     Situationist*, no. 1 (Paris), June 1958.
 
-[^79]: Walter Benjamin, *The Work of Art in the Age of Mechanical
+[^07chapter5_79]: Walter Benjamin, *The Work of Art in the Age of Mechanical
     Reproduction*, London: Penguin UK, 2008, p. 1.
 
-[^80]: *Design and the Just City*, Exhibition by Harvard Graduate School
+[^07chapter5_80]: *Design and the Just City*, Exhibition by Harvard Graduate School
     of Design, at AIA’s Center for Architecture, USA 2018. Available at:
     https://www.gsd.harvard.edu/2019/01/taking-up-social-and-spatial-equity-in-new-york-design-and-the-just-city-exhibition-lands-at-aias-center-for-architecture/
 
-[^81]: *Social Design*, Exhibition at Museum für Gestaltung, Zürich,
+[^07chapter5_81]: *Social Design*, Exhibition at Museum für Gestaltung, Zürich,
     Germany 2019. Available at:
     https://museum-gestaltung.ch/en/ausstellung/social-design/
 
-[^82]: *Social Design Exhibition Asia*, Red Dot Design Museum, Xiamen,
+[^07chapter5_82]: *Social Design Exhibition Asia*, Red Dot Design Museum, Xiamen,
     China 2020. http://en.red-dot.cn/index.php?a=show&m=Article&id=55.
 
-[^83]: *Common objects. Local stories, global discussions*, Design
+[^07chapter5_83]: *Common objects. Local stories, global discussions*, Design
     Museum of Barcelona, Spain 2022.
     https://ajuntament.barcelona.cat/museudeldisseny/en/exhibition/common-objects-local-stories-global-discussions.
 
-[^84]: *No. 15 Designing Critical Design*, Z33 House for Contemporary
+[^07chapter5_84]: *No. 15 Designing Critical Design*, Z33 House for Contemporary
     Art, Design and Architecture, Belgium 2007.
     https://www.e-flux.com/announcements/40479/no-15-designing-critical-design.
 
-[^85]: *Design and the Elastic Mind* at MoMA, New York, USA, 2008.
+[^07chapter5_85]: *Design and the Elastic Mind* at MoMA, New York, USA, 2008.
     https://www.moma.org/calendar/exhibitions/58.
 
-[^86]: Alastair Fuad-Luke, *Design activism: beautiful strangeness for a
+[^07chapter5_86]: Alastair Fuad-Luke, *Design activism: beautiful strangeness for a
     sustainable world*, Routledge, 2013.
 
-[^87]: Geert Lovink, *Dark Fiber: Tracking Critical Internet Culture*,
+[^07chapter5_87]: Geert Lovink, *Dark Fiber: Tracking Critical Internet Culture*,
     Cambridge, MA: MIT Press, 2003.
 
-[^88]: Douglas Britt, ‘The Yes Men Infiltrate DiverseWorks.’ *Houston
+[^07chapter5_88]: Douglas Britt, ‘The Yes Men Infiltrate DiverseWorks.’ *Houston
     Chronicle*, 2010.
 
-[^89]: *gatt.org,* Available at:
+[^07chapter5_89]: *gatt.org,* Available at:
     https://web.archive.org/web/20001109222100/http://www.gatt.org.
 
-[^90]: Michael Connor, ‘I Am the World Trade Organization ... Or Am I?’
+[^07chapter5_90]: Michael Connor, ‘I Am the World Trade Organization ... Or Am I?’
     *Austin Chronicle*, 5 July 5 2002.
     https://www.austinchronicle.com/screens/2002-07-05/96023.
 
-[^91]: Critical Art, ‘Tactical Media’, *critical-art.net*, Available at:
+[^07chapter5_91]: Critical Art, ‘Tactical Media’, *critical-art.net*, Available at:
     https://web.archive.org/web/20100711073811/http://www.critical-art.net/TacticalMedia.html.
 
-[^92]: Nicola Triscott, ‘Interfaces of Performance’, *Interfaces of
+[^07chapter5_92]: Nicola Triscott, ‘Interfaces of Performance’, *Interfaces of
     Performance*, edited by Maria Chatzichristodoulou, Janis Jefferies,
     and Rachel Zerihan, 209-221. Surrey: Ashgate Publishing Limited,
     2009.
 
-[^93]: *RTMark*, Available at:
+[^07chapter5_93]: *RTMark*, Available at:
     http://archive.rhizome.org/artbase/1693/index.html.
 
-[^94]: Sniggle, ‘Barbie Liberation Organization’, *sniggle.net*, 2 May
+[^07chapter5_94]: Sniggle, ‘Barbie Liberation Organization’, *sniggle.net*, 2 May
     2021. Available at: https://sniggle.net/barbie.php.
 
-[^95]: Paolo Cirio and Alessandro Ludovico, ‘Face to Facebook’,
+[^07chapter5_95]: Paolo Cirio and Alessandro Ludovico, ‘Face to Facebook’,
     *face-to-facebook.net*, 2 May 2021. Available at:
     http://www.face-to-facebook.net/press-coverage.php.
 
-[^96]: Jozsef Laczko, *The Art of Hacking*. Budapest: The Hungarian
+[^07chapter5_96]: Jozsef Laczko, *The Art of Hacking*. Budapest: The Hungarian
     University of Fine Arts Publisher, 2021. ISBN 978-963-9990-95-1.
 
-[^97]: *Elisa Giardina Papa*, Home Page, Available at:
+[^07chapter5_97]: *Elisa Giardina Papa*, Home Page, Available at:
     http://www.elisagiardinapapa.org.
 
-[^98]: *Algorithmic Justice League in the movement towards equitable and
+[^07chapter5_98]: *Algorithmic Justice League in the movement towards equitable and
     accountable AI*, (Joy Buolamwini, 2016), Available at:
     https://www.ajl.org/\#join.
 
-[^99]: *The Criminal Type*, Exhibition at APEXART, New York, NY, US,
+[^07chapter5_99]: *The Criminal Type*, Exhibition at APEXART, New York, NY, US,
     2019, Available at: https://apexart.org/breiner.php.
 
-[^100]: *Understanding AI*, Exhibition at Ars Electronica Center, Linz,
+[^07chapter5_100]: *Understanding AI*, Exhibition at Ars Electronica Center, Linz,
     Austria, 2019, Available at:
     https://ars.electronica.art/center/en/exhibitions/ai.
 
-[^101]: *AI: More than Human*, Exhibition at the Barbican Centre,
+[^07chapter5_101]: *AI: More than Human*, Exhibition at the Barbican Centre,
     London, UK, 2019, Available at:
     https://www.barbican.org.uk/hire/exhibition-hire-barbican-immersive/ai-more-than-human.
 
-[^102]: Francis Hunger, ‘How to Hack Artificial Intelligence.’ In *State
+[^07chapter5_102]: Francis Hunger, ‘How to Hack Artificial Intelligence.’ In *State
     Machines: Reflections and Actions at the Edge of Digital
     Citizenship, Finance, and Art*. Institute of Network Cultures, 2019.
 
-[^103]: Janelle Shane, ‘Do Neural Nets Dream of Electric Sheep?’, *AI
+[^07chapter5_103]: Janelle Shane, ‘Do Neural Nets Dream of Electric Sheep?’, *AI
     Weirdness Blog*, https://www.aiweirdness.com/do-neural-nets-dream-of-electric-18-03-02.
 
-[^104]: James Bridle, ‘Autonomous Trap 001’, *James Bridle*, 2017, http://jamesbridle.com/works/autonomous-trap-001.
+[^07chapter5_104]: James Bridle, ‘Autonomous Trap 001’, *James Bridle*, 2017, http://jamesbridle.com/works/autonomous-trap-001.
 
-[^105]: *Invisible Mask: Practical Attacks on Face Recognition with
+[^07chapter5_105]: *Invisible Mask: Practical Attacks on Face Recognition with
     Infrared, (*Weili Han, Zhe Zhou, Di Tang, Xiaofeng Wang, Xiangyu Liu
     and Kehuan Zhang, 2018) Available at:
     https://arxiv.org/abs/1803.04683.
 
-[^106]: *This is the Future,* Hito Steyerl Exhibition, Portland Art
+[^07chapter5_106]: *This is the Future,* Hito Steyerl Exhibition, Portland Art
     Museum, Oregon, USA (Feb–Jun 2023). Available at:
     https://portlandartmuseum.org/exhibitions/hito-steyerl.
 
-[^107]: *Jennifer Lyn Morone web project*, Available at:
+[^07chapter5_107]: *Jennifer Lyn Morone web project*, Available at:
     http://jenniferlynmorone.com.
 
-[^108]: Marc Garrett, ‘Reclaiming The Corporate-Owned Self’, *State
+[^07chapter5_108]: Marc Garrett, ‘Reclaiming The Corporate-Owned Self’, *State
     Machines: Reflections and Actions at the Edge of Digital
     Citizenship, Finance, and Art*. Institute of Network Cultures, 2019.
 
-[^109]: *Collectivize Facebook*, Jonas Staal, 2020, Available at:
+[^07chapter5_109]: *Collectivize Facebook*, Jonas Staal, 2020, Available at:
     https://collectivize.org.
 
-[^110]: *Collectivize Facebook*, Jonas Staal, 2020.
+[^07chapter5_110]: *Collectivize Facebook*, Jonas Staal, 2020.
     http://www.jonasstaal.nl/site/assets/files/2032/collectivize\_indictment\_eng\_de\_1.pdf.
 
-[^111]: *Collectivize Facebook*, Jonas Staal, 2020.
+[^07chapter5_111]: *Collectivize Facebook*, Jonas Staal, 2020.
     http://www.jonasstaal.nl/projects/collectivize-facebook.
 
-[^112]: *Speculative Futures online symposium: Artificial Intelligence*,
+[^07chapter5_112]: *Speculative Futures online symposium: Artificial Intelligence*,
     Vancouver Art Gallery, University of British Columbia (UBC), 2022,
     Available at:
     https://www.artandeducation.net/announcements/454352/speculative-futures-online-symposium-artificial-intelligence.
 
-[^113]: *Futures Of Control: Ai In Criminal Investigation*, Mozfest X
+[^07chapter5_113]: *Futures Of Control: Ai In Criminal Investigation*, Mozfest X
     Impakt, 2022, Available at:
     https://impakt.nl/events/2022/event/futures-of-control-ai-in-criminal-investigation/?fbclid=IwAR2vU6agxlhqpBJvfZIpHRqYRNOid87UX6ZZkXs1VTDYBnOfHtMHtUIIfqE.
 
-[^114]: *Brave New Virtues - Shaping Our Digital World,* Vienna
+[^07chapter5_114]: *Brave New Virtues - Shaping Our Digital World,* Vienna
     Biennale, Austria, 2019, Available at:
     https://biennialfoundation.org/2019/06/vienna-biennale-for-change-2019-brave-new-virtues-shaping-our-digital-world.
 
-[^115]: *Uncanny Valley: Being Human in the Age of AI*, Fine Arts
+[^07chapter5_115]: *Uncanny Valley: Being Human in the Age of AI*, Fine Arts
     Museums of San Francisco, USA 2020-2021, Available at:
     https://www.e-flux.com/announcements/320378/uncanny-valley-being-human-in-the-age-of-ai.
 
-[^116]: *You and AI: Through the Algorithmic Lens*, Onassis Culture,
+[^07chapter5_116]: *You and AI: Through the Algorithmic Lens*, Onassis Culture,
     Athens, Greek, 2021, Available at:
     https://www.e-flux.com/announcements/405036/you-and-ai-through-the-algorithmic-lens.
 
-[^117]: *Availableing Stones and Spaces Beyond the Valley,* Biennale
+[^07chapter5_117]: *Availableing Stones and Spaces Beyond the Valley,* Biennale
     Warszawa, Poland, 2022, Available at:
     https://www.e-flux.com/announcements/462889/biennale-warszawa-2022-seeing-stones-and-spaces-beyond-the-valley.
 
-[^118]: *Nữ già làng kể chuyện cổ dưới chân núi Târ-Coong*, (TRT, 2016),
+[^07chapter5_118]: *Nữ già làng kể chuyện cổ dưới chân núi Târ-Coong*, (TRT, 2016),
     Available at: https://www.youtube.com/watch?v=eBVl2zk7n4U.
 
-[^119]: Charles Doyle, *A Dictionary of Marketing*. Oxford University
+[^07chapter5_119]: Charles Doyle, *A Dictionary of Marketing*. Oxford University
     Press, 2016.
     https://www.oxfordreference.com/display/10.1093/oi/authority.20110803104249372;jsessionid=A7C086B54AA5509631ACF1C970AD2960\#:\~:text='Advertising%2C'%20he%20stated%2C,upon%20how%20it%20is%20used.

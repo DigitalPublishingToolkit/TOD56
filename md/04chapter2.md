@@ -29,7 +29,7 @@ formation of communities, it is the glue that binds individuals
 together. The communication process is defined as the *transmission of
 information*. Communication activities are the act of developing meaning
 among entities or groups through the use of a sufficient number of
-mutually understood signs, symbols, and semiotic conventions.[^1] The
+mutually understood signs, symbols, and semiotic conventions.[^04chapter2_1] The
 communication act always involves a specific medium to form and forward
 information. Initially, humans use their bodies as mediums to create and
 transmit information. We use limbs to make gestures, carriage, and eyes
@@ -40,7 +40,7 @@ Throughout the history of *Homo Sapiens*, we have witnessed the
 *parallel shift* between remarkable social changes and significant
 transformations in the *communication medium*; in particular, we have
 seen how information content has been created and the means by which
-information is transmitted.[^2] As an example, the introduction of
+information is transmitted.[^04chapter2_2] As an example, the introduction of
 written communication marked a new stage in social knowledge formation,
 historical documentations, and collective memory establishment.
 Knowledge and history have been condensed into recorded characters and
@@ -48,8 +48,8 @@ commonly used by governors. From hand writing to woodblock printing,
 books have been an integral part of religious and administrative
 apparatuses for thousands of years. That is why the oldest known printed
 book is the *Diamond Sutra* - an important *Mahayana Buddhist* text from
-the Chinese.[^3] Or, the first book in the world to adopt mass printing
-techniques with moveable types is the *Christian Bible*.[^4]
+the Chinese.[^04chapter2_3] Or, the first book in the world to adopt mass printing
+techniques with moveable types is the *Christian Bible*.[^04chapter2_4]
 
 ![Figure 2.1: Diamond Sutra ©Wikimedia Commons.
 ](imgs/TRA_Figure S2. 1.jpg)
@@ -125,12 +125,12 @@ the new personnel management of the media industry. In the 1990s, the
 rise of the Internet generated strong, utopian expectations about a new
 freedom paradigm of the online communication that is mainly dominated by
 individual, amateur information producers and independent
-publishers.[^5] Information consumption was expected to shift from
+publishers.[^04chapter2_5] Information consumption was expected to shift from
 professional to amateur production sources. The weblog is an early
 example of independent, individual publishing platforms on the WWW and
 YouTube also witnessed the blooming of independent content producers—the
-Youtubers—in the early stages of development of the platform.[^6],
-[^7] However, soon after that, at the end of the 90s, independent
+Youtubers—in the early stages of development of the platform.[^04chapter2_6],
+[^04chapter2_7] However, soon after that, at the end of the 90s, independent
 digital media was rapidly subsumed by the appropriation mechanism of
 capitalism. A new model of labor was introduced into the system: the
 pseudo-independent producers, who in fact represented the covert
@@ -140,7 +140,7 @@ of professional helpers.
 
 By now, Youtubers, Facebook Live-streamers and Tik-Tokers have become
 actual professions. There is a complex ecosystem of educational,
-managerial and design services to support these new positions.[^8] The
+managerial and design services to support these new positions.[^04chapter2_8] The
 artificially constructed ‘individual publisher’ has generated the fake
 illusions of success in many youngsters of the contemporary digital
 space. Over the past two decades the desire of many individuals to
@@ -167,12 +167,12 @@ threatening, causing more critical consequences and becoming a
 significant problem of our current society. Fake news can lead to
 financial market destruction. For example, in 2013, \$130 billion in
 stock value was wiped out in a matter of minutes by an AP tweet about an
-*explosion* that injured Barack Obama.[^9] Fake news has led to mass
+*explosion* that injured Barack Obama.[^04chapter2_9] Fake news has led to mass
 murders, such as Dylann Roof’s shooting at the Charleston church on June
-17, 2015, in the U.S. state of South Carolina.[^10] Fake news has also
+17, 2015, in the U.S. state of South Carolina.[^04chapter2_10] Fake news has also
 sabotaged many presidential elections around the world; among them, the
 election of Donald Trump in the U.S 2016 and the Facebook - Cambridge
-Analytica scandal is the most notable.[^11] Producing and circulating
+Analytica scandal is the most notable.[^04chapter2_11] Producing and circulating
 fake news can be considered a criminal act. In recent years, penalties
 for fake news publishing on social media have been enshrined in law by
 several countries.
@@ -219,22 +219,22 @@ such as in the service of Google Translate. AI can also generate
 informational content for learning, correspondence, business, blog
 posts, and social media content. Text creation tools appeared very early
 as *Talk with Transformer* which has created great expectations for the
-business of automated news creation.[^12] Up to now, there have been
+business of automated news creation.[^04chapter2_12] Up to now, there have been
 many automatic news creation service providers such as Jasper,
 Copysmith, Writesonic, Kafkai, Article Forge, Articoolo, Rytr, CopyAI,
-and Peppertype.[^13] In the ever-expanding landscape of digital tools,
+and Peppertype.[^04chapter2_13] In the ever-expanding landscape of digital tools,
 ChatGPT by OpenAI stands out as a powerful ally in the realm of content
 generation. Leading media agencies such as Reuters and The Washington
 Post have also embraced AI tools to enhance their content creation
 processes, allowing them to produce high-quality work at scale. The
 Washington Post and Reuters have tested models where *bots* write simple
 stories, sometimes using artificial intelligence, where the goal is to
-help the bots improve their writing over time.[^14] The Washington Post
+help the bots improve their writing over time.[^04chapter2_14] The Washington Post
 employs its Heliograf *tool*, which generates short stories based on
 structured data about topics such as election results and sporting
 events. Forbes is developing an AI assistant for writers called Bertie.
 Bertie learns from writers' styles, topic choices, and platform
-publishing preferences.[^15]
+publishing preferences.[^04chapter2_15]
 
 By far, machine learning can use data and neural networks in a way that
 mimics the working of a biological brain. Self-study and thinking will
@@ -246,11 +246,11 @@ production processes of the media industry in the coming decades.
 
 > ‘The media are not toys; they should not be in the hands of Mother Goose
 and Peter Pan executives. They can be entrusted only to new artists
-because they are art forms.’ *–* Marshall McLuhan.[^16]
+because they are art forms.’ *–* Marshall McLuhan.[^04chapter2_16]
 
 Canadian communications theorist Marshall McLuhan was the first to use
 the term *media* in its modern sense related to communication channels.
-In his book *Counterblast*he considered the media an art form.[^17]
+In his book *Counterblast*he considered the media an art form.[^04chapter2_17]
 Elements of signs, symbols, images, and sounds are the essential
 foundation for constituting media content. Artists, painters, designers,
 photographers, and filmmakers are the key personnel in the classical
@@ -311,7 +311,7 @@ phenomenon:
 > anti-discipline. But what have we lost, now that craft doesn’t count
 > anymore and design has become a lubricant for any social process
 > imaginable? Design suffers from inflation, becoming absorbed into
-> anything and everything.[^18]
+> anything and everything.[^04chapter2_18]
 
 Furthermore, with machine learning algorithms, *fully automatic tools
 for design* could soon become even more popular. Image generation shall
@@ -323,13 +323,13 @@ generate a realistic image. One of the first cases of using image
 generation AI for design purposes are Karen Chen, a digital artist, who
 created a magazine cover for Cosmopolitan using DALL-E 2.
 
-![Figure 2.7: Image Cosmopolitan, ©rockcontent.[^19]
+![Figure 2.7: Image Cosmopolitan, ©rockcontent.[^04chapter2_19]
 ](imgs/TRA_Figure S2. 7.jpg)
 
 <br/>
 
 ![Figure 2.8: Two variations of Girl with a Pearl Earring generated by
-DALL-E 2, ©Wikimedia Commons. [^20]](imgs/TRA_Figure S2. 8.jpg)
+DALL-E 2, ©Wikimedia Commons. [^04chapter2_20]](imgs/TRA_Figure S2. 8.jpg)
 
 <br/>
 
@@ -337,11 +337,11 @@ The other example is the portrait image generator with SofGAN or TL-GAN.
 This software has been used to create billions of virtual characters
 with real human features. These images have been used commonly for
 virtual accounts on social networks. It is also a source of artificial
-characters and *virtual influencers* for the advertising market.[^21]
+characters and *virtual influencers* for the advertising market.[^04chapter2_21]
 For example, luxury fashion brand Prada created virtual influencer
 *Candy* to become the new face of the *Prada Candy* perfume.
 
-![Figure 2.9: Prada Candy perfume ©virtualhumans.org. [^22]](imgs/TRA_Figure S2. 9.jpg)
+![Figure 2.9: Prada Candy perfume ©virtualhumans.org. [^04chapter2_22]](imgs/TRA_Figure S2. 9.jpg)
 
 <br/>
 
@@ -361,7 +361,7 @@ pattern. The algorithm is able to extract colors and patterns of a
 design and then construct other variants within the range of identified
 colors and patterns. Taking the Nutella Unica design for instance, one
 testing algorithm was able to shape millions of new Nutella labels from
-the combinations of its old design.[^23]
+the combinations of its old design.[^04chapter2_23]
 
 ![Figure 2.10: The Nutella Unica design ©jeffbullas.com.](imgs/TRA_Figure S2. 10.jpg)
 
@@ -372,7 +372,7 @@ from Kômô: Raspberry, Watermelon, Grapefruit, Mango, and Lemon. These
 are illustrated with artificial designs originating from the
 Crosshatch-Automata sketch:
 
-![Figure 2.11: Kômô design ©packagingoftheworld.com.[^24]](imgs/TRA_Figure S2. 11.jpg)
+![Figure 2.11: Kômô design ©packagingoftheworld.com.[^04chapter2_24]](imgs/TRA_Figure S2. 11.jpg)
 
 <br/>
 
@@ -398,7 +398,7 @@ proactive in restoring images and improving resolution. AI image
 enhancement tools are able to replace blurred areas, sharpen them, and
 save them. In addition, the tool is able to fix poor lighting, contrast,
 and accuracy in colors in just a few seconds. These tools can also can
-also resize images without stretching or blurring.[^25] AI photo editing
+also resize images without stretching or blurring.[^04chapter2_25] AI photo editing
 applications are now automatically installed on personal mobile devices,
 profoundly affecting user perception of self-image and the world around
 them.
@@ -413,14 +413,14 @@ living conditions* when machines are deeply involved in constructing the
 concepts of life.  According to Gerritzen & Lovink, ‘In today’s visual
 culture, images are more real than real. There is nothing beyond the
 image’, and indeed nothing seems real unless we post it on social
-media.[^26] The individual existence is dominated by the image of
+media.[^04chapter2_26] The individual existence is dominated by the image of
 cyber-representation that is obviously distorted fully by devices,
 machines and software controlled by a small group of people. Therefore,
 every image around us today is just a designed, subjective reflection.
 
 For a long time, design has been acknowledged as a creative career. When
 identifying the focus professions of the creative industry, design has
-always been mentioned first.[^27] [^28] Creativity is a human
+always been mentioned first.[^04chapter2_27] [^04chapter2_28] Creativity is a human
 essential ability that emerged from the early time of humankind.
 According to Collins Dictionary: ‘A creative person has the ability to
 invent and develop original ideas, especially in the arts. Creative
@@ -454,7 +454,7 @@ words of Gerritzen & Lovink, designing products is ‘invariably the
 result of a technical solution. Such a model limits reflection to the
 pragmatic – and paradigmatic – procedural steps: making is reflecting.
 God forbid that our reflection leaves us empty-handed.’ And that is
-definitely not what we want from creative activities.[^29]
+definitely not what we want from creative activities.[^04chapter2_29]
 
 If creativity has been formulated through a reflection process, it
 obviously loses novelty – the creative core. The creative process may
@@ -592,7 +592,7 @@ operating mechanism.
 
 Even though media income from direct sales and subsidies has shrunk, and
 most information is distributed free of charge, digital media owners
-remain the wealthiest businesses in the world.[^30] If most of the
+remain the wealthiest businesses in the world.[^04chapter2_30] If most of the
 information is free, from where do their profits come? In fact, media
 empires still make their fortune from information, but not from the
 media delivered to customers, but from the *customers' information* they
@@ -604,7 +604,7 @@ Capitalism* considered that we had come into this new world thinking
 that we were social media users. She also wondered whether we use the
 social media, or the other way around: ‘We mistakenly believed that we
 were searching Google and had no idea that Google was searching
-us.’[^31]
+us.’[^04chapter2_31]
 
 Media revenues gradually have gradually shifted toward selling user
 data, advertisements, or rights-to-use and recurring subscriptions. User
@@ -631,11 +631,11 @@ of the public relations profession and was the first person to take
 Freud’s ideas and use them to manipulate the masses. Bernays introduced
 American corporations to how they could make people want things they
 *didn’t need* by systematically linking *mass-produced goods* to their
-*unconscious desires*.[^32] Bernays’ tactics of influencing society
+*unconscious desires*.[^04chapter2_32] Bernays’ tactics of influencing society
 through psychological effects still have a dominant value today.
 
 In the documentary series *The Century of the Self*, Adam Curtis pointed
-out that Bernays was one of the coaches for modern media.[^33] He was
+out that Bernays was one of the coaches for modern media.[^04chapter2_33] He was
 famous for his techniques of mass-consumer persuasion, using different
 tactics, from celebrity endorsement and outrageous public relations
 stunts to eroticize the motorcar. One of the most memorable
@@ -679,7 +679,7 @@ Achievements of Propaganda*, Noam Chomsky once wrote ‘You've got to keep
 them pretty scared, because unless they're properly scared and
 frightened of all kinds of devils that are going destroy them from
 outside or inside or somewhere, they may start to think, which is very
-dangerous, because they're not competent to think.’[^34]
+dangerous, because they're not competent to think.’[^04chapter2_34]
 
 As a result of a model scenario played out in many countries today, the
 media are being used by the political class to create constructed images
@@ -704,7 +704,7 @@ presented to the public has only the remotest relation to reality. The
 truth of the matter is buried under edifice after edifice of lies upon
 lies. It's all been a marvelous success from the point of view in
 deterring the threat of democracy, achieved under conditions of freedom,
-which is extremely interesting.’[^35]
+which is extremely interesting.’[^04chapter2_35]
 
 As in the last century, the media have created countless images
 representing all issues in the most beneficial way to sponsors –
@@ -731,7 +731,7 @@ necessary distance to be able to re-evaluate the representative images,
 and how to control emotions in front of spectacular and skillful fake
 performances. Max Weber noted: ‘It is not true that good can follow only
 from good and evil only from evil, but that often the opposite is true.
-Anyone who fails to see this is, indeed, a political infant.’[^36]
+Anyone who fails to see this is, indeed, a political infant.’[^04chapter2_36]
 Comparing and contrasting information and critical thinking are much
 more important in the digital media age.
 
@@ -752,7 +752,7 @@ machines and efficient algorithms. However, the nature of *social
 manipulation* through the media *has not changed* considerably since the
 dawn of the last century.
 
-**References**
+## References
 
 Ahmed, Umar. ‘The Top 6 Ways Artificial Intelligence Will Affect Design
 in the Future.’ *Jeff Bullas*. Last modified 2019.
@@ -806,130 +806,130 @@ Renegadoes*. Autonomedia, 2003.
 Wittmann, Alexander. ‘Chasing Profitability in a Changing Media
 Landscape.’ *Oracle Net Suite*, 2022.
 
-[^1]: Paul Cobley, ‘Communication: Definitions and Concepts.’ In *The
+[^04chapter2_1]: Paul Cobley, ‘Communication: Definitions and Concepts.’ In *The
     International Encyclopedia of Communication*, edited by Wolfgang
     Donsbach, 71. Chichester, UK: John Wiley & Sons, Ltd, 2008.
 
-[^2]: communication medium such as human body, human voice, paper,
+[^04chapter2_2]: communication medium such as human body, human voice, paper,
     pen, engraving, printer, radio, TV, phone, computers, smartphones,
     wearables, VR \[…\]
 
-[^3]: Wikipedia contributors, ‘Diamond Sutra’, 10 October 2022.
+[^04chapter2_3]: Wikipedia contributors, ‘Diamond Sutra’, 10 October 2022.
     https://en.wikipedia.org/wiki/Diamond\_Sutra\#/media/File:Jingangjing.jpg.
 
-[^4]: Wikipedia contributors, ‘Gutenberg Bible’, 10 October 2022.
+[^04chapter2_4]: Wikipedia contributors, ‘Gutenberg Bible’, 10 October 2022.
     https://en.wikipedia.org/wiki/Gutenberg\_Bible.
 
-[^5]: Peter Lamborn Wilson, *Pirate Utopias: Moorish Corsairs & European
+[^04chapter2_5]: Peter Lamborn Wilson, *Pirate Utopias: Moorish Corsairs & European
     Renegadoes*, Autonomedia, 2003.
 
-[^6]: Geert Lovink, *Dynamics of critical internet culture (1994-2001),*
+[^04chapter2_6]: Geert Lovink, *Dynamics of critical internet culture (1994-2001),*
     Vol. 1. Theory on Demand, Institute of Network Cultures, 2009.
 
-[^7]: Rebecca Blood, ‘Weblog History,’ archived May 30, 2015, Web
+[^04chapter2_7]: Rebecca Blood, ‘Weblog History,’ archived May 30, 2015, Web
     Archive, 10 October 2022,
     https://web.archive.org/web/20150530144950/http://www.rebeccablood.net/essays/weblog\_history.html.
 
-[^8]: Azhar Haseeb, ‘How To Become A Successful Youtuber’, *Udemy online
+[^04chapter2_8]: Azhar Haseeb, ‘How To Become A Successful Youtuber’, *Udemy online
     course*, 25 November 2021.
 
-[^9]: Kenneth Rapoza, ‘Can 'Fake News' Impact the Stock Market?’
+[^04chapter2_9]: Kenneth Rapoza, ‘Can 'Fake News' Impact the Stock Market?’
     *Forbes*, 2017, https://www.forbes.com/sites/kenrapoza/2017/02/26/can-fake-news-impact-the-stock-market/?sh=56dbf952fac0.
 
-[^10]: Wikipedia contributors, ‘Dylann Roof’, 10 September 2022,
+[^04chapter2_10]: Wikipedia contributors, ‘Dylann Roof’, 10 September 2022,
     https://en.wikipedia.org/wiki/Dylann\_Roof.
 
-[^11]: Wikipedia contributors, ‘Facebook–Cambridge Analytica data
+[^04chapter2_11]: Wikipedia contributors, ‘Facebook–Cambridge Analytica data
     scandal’, 10 September 2022,
     https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge\_Analytica\_data\_scandal.
 
-[^12]: Michael Hart, ‘This AI Text Generator Is Terrifyingly Human.’
+[^04chapter2_12]: Michael Hart, ‘This AI Text Generator Is Terrifyingly Human.’
     *Nerdist*, 2019. https://nerdist.com/article/ai-text-generator-human.
 
-[^13]: Krista Doyle, ‘9 Best AI Content Generators for Every Kind of
+[^04chapter2_13]: Krista Doyle, ‘9 Best AI Content Generators for Every Kind of
     Content in 2023.’ *Jasper*, 2022.
     https://www.jasper.ai/blog/ai-content-generator.
 
-[^14]: Bot is a computer program that
+[^04chapter2_14]: Bot is a computer program that
     runs [automated](https://www.oxfordlearnersdictionaries.com/definition/english/automate) tasks
     over the internet. Oxford Learners Dictionaries, ‘Bot’, *oxfordlearnersdictionaries.com,* 15 May 2021.
 
-[^15]: Alexander Wittmann, ‘Chasing Profitability in a Changing Media
+[^04chapter2_15]: Alexander Wittmann, ‘Chasing Profitability in a Changing Media
     Landscape.’ *Oracle Net Suite*, 2022.
     https://www.netsuite.com/portal/resource/articles/financial-management/media-revenue-models.shtml.
 
-[^16]: Marshall McLuhan and Harley Parker, *Counterblast*. New York:
+[^04chapter2_16]: Marshall McLuhan and Harley Parker, *Counterblast*. New York:
     Harcourt, Brace & World, 1969.
 
-[^17]: Marshall McLuhan and Harley Parker, *Counterblast*. New York:
+[^04chapter2_17]: Marshall McLuhan and Harley Parker, *Counterblast*. New York:
     Harcourt, Brace & World, 1969.
 
-[^18]: Mieke Gerritzen and Geert Lovink, *Made In China, Designed in
+[^04chapter2_18]: Mieke Gerritzen and Geert Lovink, *Made In China, Designed in
     California, Criticised in Europe*, Institute of Network Cultures,
     2019.
 
-[^19]: Rock Content, ‘6 Ways Artificial Intelligence Will Affect Design
+[^04chapter2_19]: Rock Content, ‘6 Ways Artificial Intelligence Will Affect Design
     in the Years to Come.’ *rockcontent.com*, 30 March 2022.
     https://rockcontent.com/blog/artificial-intelligence-design.
 
-[^20]: Wikipedia contributors, ‘DALL-E’, 10 August 2022,
+[^04chapter2_20]: Wikipedia contributors, ‘DALL-E’, 10 August 2022,
     https://en.wikipedia.org/wiki/DALL-E.
 
-[^21]: Virtual influencers are someone (or something) with the power to
+[^04chapter2_21]: Virtual influencers are someone (or something) with the power to
     affect the buying habits or quantifiable actions of others by
     uploading some form of original—often sponsored—content to social
     media platforms like Instagram, YouTube, Snapchat or other online
     channels. Wikipedia contributors, ‘Influencer marketing’, 10 August 2022.
     https://en.wikipedia.org/wiki/Influencer\_marketing.
 
-[^22]: Astrid Hiort, ‘Prada Creates Virtual Muse Named Candy.’ *Virtual
+[^04chapter2_22]: Astrid Hiort, ‘Prada Creates Virtual Muse Named Candy.’ *Virtual
     Humans*, 2021.
     https://www.virtualhumans.org/article/prada-creates-first-virtual-muse-candy.
 
-[^23]: Umar Ahmed, ‘The Top 6 Ways Artificial Intelligence Will Affect
+[^04chapter2_23]: Umar Ahmed, ‘The Top 6 Ways Artificial Intelligence Will Affect
     Design in the Future.’ *Jeff Bullas*. Last modified 2019.
     https://www.jeffbullas.com/artificial-intelligence-design.
 
-[^24]: Studio Blackthorns, ‘Kômô Probiotic Packaging Made with AI
+[^04chapter2_24]: Studio Blackthorns, ‘Kômô Probiotic Packaging Made with AI
     Design.’ *Packaging of the World*, 2021.
     https://packagingoftheworld.com/2021/01/komo-probiotic-packaging-made-with-ai.html.
 
-[^25]: Rock Content, ‘6 Ways Artificial Intelligence Will Affect Design
+[^04chapter2_25]: Rock Content, ‘6 Ways Artificial Intelligence Will Affect Design
     in the Years to Come.’ *rockcontent.com*, 30 March 2022.
     https://rockcontent.com/blog/artificial-intelligence-design.
 
-[^26]: Mieke Gerritzen and Geert Lovink, *Made In China, Designed in
+[^04chapter2_26]: Mieke Gerritzen and Geert Lovink, *Made In China, Designed in
     California, Criticised in Europe,* Institute of Network Cultures,
     2019.
 
-[^27]: John Howkins, *The Creative Economy: How People Make Money from
+[^04chapter2_27]: John Howkins, *The Creative Economy: How People Make Money from
     Ideas*, Penguin, 2001.
 
-[^28]: David Hesmondhalgh, *The Cultural Industries*, SAGE, 2002.
+[^04chapter2_28]: David Hesmondhalgh, *The Cultural Industries*, SAGE, 2002.
 
-[^29]: Mieke Gerritzen and Geert Lovink, *Made in China, Designed in
+[^04chapter2_29]: Mieke Gerritzen and Geert Lovink, *Made in China, Designed in
     California, Criticised in Europe,* Institute of Network Cultures,
     2019.
 
-[^30]: Wikipedia contributors, ‘List of largest companies by revenue’,
+[^04chapter2_30]: Wikipedia contributors, ‘List of largest companies by revenue’,
     12 January 2022,
     https://en.wikipedia.org/wiki/List\_of\_largest\_companies\_by\_revenue.
 
-[^31]: *In the Age of AI* (dir. Fanning, D. & Docherty, N. 2019),
+[^04chapter2_31]: *In the Age of AI* (dir. Fanning, D. & Docherty, N. 2019),
     Documentary film, Frontline, at: https://www.youtube.com/watch?v=5dZ\_lvDgevk.
 
-[^32]: *The Century Of The Self Part I: The Happiness Machines* (dir.
+[^04chapter2_32]: *The Century Of The Self Part I: The Happiness Machines* (dir.
     Adam Curtis, 2002) Documentary Series, BBC Two, 17 March 2002.
     https://www.youtube.com/watch?v=DnPmg0R1M04.
 
-[^33]: *The Century Of The Self Part I: The Happiness Machines* (dir.
+[^04chapter2_33]: *The Century Of The Self Part I: The Happiness Machines* (dir.
     Adam Curtis, 2002) Documentary Series, BBC Two, 17 March 2002.
 
-[^34]: Noam Chomsky, *Media Control: The Spectacular Achievements of
+[^04chapter2_34]: Noam Chomsky, *Media Control: The Spectacular Achievements of
     Propaganda*, Seven Stories Press, 2002.
 
-[^35]: Noam Chomsky, *Media Control: The Spectacular Achievements of
+[^04chapter2_35]: Noam Chomsky, *Media Control: The Spectacular Achievements of
     Propaganda*. Seven Stories Press, 2002.
 
-[^36]: Weber, Max. *From Max Weber: Essays in Sociology*. Routledge,
+[^04chapter2_36]: Weber, Max. *From Max Weber: Essays in Sociology*. Routledge,
     2013.

@@ -30,7 +30,7 @@ time to close the chronicle, though its stories are far from finished.
 gentle yet unwavering. 'These stories are more than mere words; they are
 the threads that weave the tapestry of our shared existence. From the
 grip of technological echoes that ensnared our faith, to the bustling
-chaos of the Cyber Bazaar, each tale is a mirror reflecting both our
+chaos of the Cyber Bazaar, each tale is a mirror [^09chapter7_09chapter7_lecting both our
 past naiveness and our present struggles.’
 
 She pauses, her eyes scanning the faces of the villagers—some weary,
@@ -56,7 +56,7 @@ soul present.
 > our clicks and likes, more than the data points that define us in the
 > eyes of the unseen architects of our digital world. Our humanity, our
 > stories, our choices—these are the true treasures, and they cannot be
-> stolen so long as we hold them dear. [^1]
+> stolen so long as we hold them dear. [^09chapter7_1]
 
 The Elder Woman stands, the faint creak of her chair echoing like a
 final note in an old song. ‘The Chronicles of the Cyber Village do not
@@ -71,7 +71,7 @@ gives them life, and you are the one who can reclaim it.’ She continues,
 > the promise of technology and the enduring spirit of the human heart.
 > This village, our village, is not just a place on a map or a node in a
 > network—it is a community of souls bound by a shared journey. And
-> that, my dear ones, is a power no algorithm can ever conquer. [^2]
+> that, my dear ones, is a power no algorithm can ever conquer. [^09chapter7_2]
 
 With that, the Elder Woman steps back into the shadows, her presence
 lingering like the last vestiges of a sunset—fleeting yet unforgettable.
@@ -83,6 +83,6 @@ their hands to shape them.
 The screen dims, the servers hum a lullaby, and somewhere in the
 village, a new story begins.
 
-[^1]: Words of the village elder.
+[^09chapter7_1]: Words of the village elder.
 
-[^2]: Words of the village elder.
+[^09chapter7_2]: Words of the village elder.

@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# **1st Story - Technological Echoes**
+# 1st Story - Technological Echoes
 
 In the twilight of a digitized world, where the echoes of ancient
 algorithms reverberate through modern existence, the story of
@@ -38,12 +38,12 @@ that shape our interconnected destinies.
 Like many people of the former colonial countries of the *Global South*,
 the collective memories of oppression, the pain of war, the disadvantage
 of living conditions, and the perceived inferior social position, these
-have become my lingering obsessions.[^1] Moreover, among the
+have become my lingering obsessions.[^03chapter1_1] Moreover, among the
 psychological characteristics of the generation of *millennials***,**
 continuously in my mind, there is, at once, a feeling of optimism and
 pessimism regarding the rapid changes in contemporary society which have
 resulted from technology development and the dominance of
-cyberspace.[^2] For these reasons, I have given special attention to
+cyberspace.[^03chapter1_2] For these reasons, I have given special attention to
 talking about the colonization process and posing a multitude of
 questions about the existence of colonialism in contemporary society and
 the danger of its ongoing development in the era of information
@@ -55,7 +55,7 @@ the 15th century, when nearly one dozen European states established
 colonizing empires. Colonialism is commonly understood as a practice or
 policy of control by one person or power over other people or areas,
 often by establishing coloniesand generally with the aim of economic,
-political and cultural dominance.[^3] [^4] The long history of
+political and cultural dominance.[^03chapter1_3] [^03chapter1_4] The long history of
 colonialism is divided into four periods: Pre-modern, Modern, 19th
 Century, and After World War II.
 
@@ -66,7 +66,7 @@ makes one country more powerful than another? Under what conditions does
 one group gain the privilege of controlling another? With what potential
 can colonialism spread?
 
-## **Legend of Miracles**
+## Legend of Miracles
 
 Based on much evidence and innumerable historical facts, technology has
 long played an important role in the development of colonialism.
@@ -111,7 +111,7 @@ automation machines discovered in many places over the world.
 > most intriguing stories from India tells how robots once guarded
 > Buddha’s relics. As fanciful as it might sound to modern ears, this
 > tale has a strong basis in links between Ancient Greece and ancient
-> India.[^5]
+> India.[^03chapter1_5]
 
 ![Figure 1.2: A sculpture depicting the distribution of the Buddha’s
 relics. ©Los Angeles County Museum of Art.](imgs/TRA_Figure S1. 2.jpg)
@@ -122,7 +122,7 @@ Some of the very first automated machines, for which technical drawing
 evidence has been recorded, are the engines of Heron of Alexandria in
 between the first and third century CE. Heron of Alexandria or Hero of
 Alexandria (c. 10 AD – c. 70 AD) was a Greek mathematician and engineer
-who was active in his native city of Alexandria, Roman Egypt.[^6] He is
+who was active in his native city of Alexandria, Roman Egypt.[^03chapter1_6] He is
 often considered the greatest experimenter in antiquity. Heron’s
 numerous surviving writings suggest that automatic machines were
 designed to be operated by mechanical or pneumatic means. These included
@@ -133,7 +133,7 @@ statue that poured wine.
 ![Figure 1.3: Heron of Alexandria. Diagram of an automaton, a Bacchus
 figure that dispenses wine and milk in a small temple. The figure has
 connected by invisible pipes with hidden tanks containing wine and milk.
-Venice, Biblioteca Marciana, Gr. 516, fol. 202r.[^7] This 13th
+Venice, Biblioteca Marciana, Gr. 516, fol. 202r.[^03chapter1_7] This 13th
 -century codex is the earliest surviving text of Heron's Pneumatica. ©
 historyofinformation.com.](imgs/TRA_Figure S1. 3.jpg)
 
@@ -143,7 +143,7 @@ There is evidence from the Middle Ages, between the 5th and 15th AC,
 of the construction of *robot saints* which could move independently and
 gesture using complex systems of cogs, hinges, and leather straps,
 powered by ‘steam, water, or the latent energy held in a winding
-mechanism like a clock’.[^8] The majority of these *robot saints* were
+mechanism like a clock’.[^03chapter1_8] The majority of these *robot saints* were
 made of wood. The still-extant *Iberian robot* *Virgin de Los Reyes*
 features a painted wooden head, with arms that are covered in white kid
 skin to give it the appearance of human skin, and hair made from gold
@@ -168,7 +168,7 @@ present day. The earliest civilizations in southern Mesopotamia,
 modern-day Iraq, were the Sumerians and Akkadians. The Sumerian warrior
 was equipped with *spears, maces, swords, clubs, and slings*. Sargon of
 Akkad (2333–2279 BCE) was a great military leader; he used both infantry
-and *donkey-drawn chariots* in his powerful army.[^9]
+and *donkey-drawn chariots* in his powerful army.[^03chapter1_9]
 
 The Pharaohs used *horse-drawn war chariots* and various weapons such as
 improved *javelins, spears,* *curve bows* and *arrowheads,* *catapults*,
@@ -179,7 +179,7 @@ empire that ruled the Mediterranean world for nearly 30 Centuries. –
 the Great in 332 B.C.).
 
 ![Figure 1.5: The Pharaoh Tutankhamun destroyed his enemies. ©Wikimedia
-Commons.[^10]](imgs/TRA_Figure S1. 5.jpg)
+Commons.[^03chapter1_10]](imgs/TRA_Figure S1. 5.jpg)
 
 <br/>
 
@@ -192,7 +192,7 @@ Mediterranean Sea in Europe, North Africa, and Western Asia over the
 first three centuries after the common era.
 
 ![Figure 1.6: Alexander's battle - mosaic around 100 BC Roman.
-©Wikimedia Commons.[^11]](imgs/TRA_Figure S1. 6.jpg)
+©Wikimedia Commons.[^03chapter1_11]](imgs/TRA_Figure S1. 6.jpg)
 
 <br/>
 
@@ -206,7 +206,7 @@ Francis Bacon, writing in *Novum Organum*:
 > literature, the second in warfare, the third in navigation; whence
 > have followed innumerable changes, in so much that no empire, no sect,
 > no star seems to have exerted greater power and influence in human
-> affairs than these mechanical discoveries.[^12]
+> affairs than these mechanical discoveries.[^03chapter1_12]
 
 The invention of *paper and printing technology* contributed
 significantly to the new information distribution technologies helping
@@ -220,12 +220,12 @@ also appeared in the mid-seventh century in China.
 
 ![Figure 1.7: The Diamond Sutra of the Chinese Tang Dynasty, the oldest
 dated printed book in the world, was found at Dunhuang, in 868 CE.
-©Wikimedia Commons.[^13]](imgs/TRA_Figure S1. 7.jpg)
+©Wikimedia Commons.[^03chapter1_13]](imgs/TRA_Figure S1. 7.jpg)
 
 <br/>
 
 *Gunpowder* was discovered by the Chinese in the 9th century AD,
-during the Tang dynasty.[^14] They were the first people to
+during the Tang dynasty.[^03chapter1_14] They were the first people to
 systematically use it as weapons on a wide scale. From about 1000 AD,
 gunpowder has been used in the form of *firecrackers* and, during the
 earliest days, was used to improve existing weapons by attaching it to
@@ -233,18 +233,18 @@ spears to create *a shocking burst* on engagement and with arrows to
 increase their speed mid-air or be shot in large salvos without the need
 of bows. In the 12th century, the Chinese used crude hand grenades and
 began to use the earliest form of rockets and cannons in addition to the
-aforementioned firecracker weapons.[^15] There is no doubt that
+aforementioned firecracker weapons.[^03chapter1_15] There is no doubt that
 *gunpowder weapons* were a powerful tool of Chinese emperors during
 their invasions, helping them own most of East Asia for centuries.
 
 ![Figure 1.8: Ming artillerymen from a mural in Yanqing District,
-Beijing. ©Wikimedia Commons.[^16]](imgs/TRA_Figure S1. 8.jpg)
+Beijing. ©Wikimedia Commons.[^03chapter1_16]](imgs/TRA_Figure S1. 8.jpg)
 
 <br/>
 
 In the 3rd century AD, the world's first *compass* *made of lodestone*,
 the naturally magnetized ore of iron, has also invented during the Han
-dynasty in China.[^17] However, not until the 13th century was the
+dynasty in China.[^03chapter1_17] However, not until the 13th century was the
 *dry compass* invented in Europe; and it opened a new era for navigation
 technology, especially helping Europeans to go further. It began to
 unify the general method of the different pre-existing systems of
@@ -256,7 +256,7 @@ advantage for European empires to claim possession of different
 territories and turn many newly found lands into colonies.
 
 ![Figure 1.9: Early modern dry compass suspended by a gimbal (1570)
-©Wikimedia Commons.[^18]](imgs/TRA_Figure S1. 9.jpg)
+©Wikimedia Commons.[^03chapter1_18]](imgs/TRA_Figure S1. 9.jpg)
 
 <br/>
 
@@ -267,7 +267,7 @@ Library.](imgs/TRA_Figure S1. 10.jpg)
 <br/>
 
 ![Figure 1.11: One of the earliest maps to show the New World, the
-Cantino planisphere (1502) ©Wikimedia Commons.[^19]](imgs/TRA_Figure S1. 11.jpg)
+Cantino planisphere (1502) ©Wikimedia Commons.[^03chapter1_19]](imgs/TRA_Figure S1. 11.jpg)
 
 <br/>
 
@@ -275,7 +275,7 @@ In addition to the advances in navigation technology, the rapid
 development of *seagoing ships* in the 13th century ushered in the
 *Modern time of colonialism* - the *Age of Exploration*. For example,
 ships developed by the Portuguese: the caravels (in the 13th century)
-and the carracks (in the 15th century).[^20] Portuguese Prince Henry
+and the carracks (in the 15th century).[^03chapter1_20] Portuguese Prince Henry
 the Navigator (1394–1460) is considered the originator of modern
 colonialism through explorations and maritime trade with other
 continents through the systematic exploration of Western Africa, the
@@ -291,7 +291,7 @@ capabilities opened up *the golden age of colonialism* in the 19th
 century to the European empires.
 
 ![Figure 1.12: Sächsische Maschinenfabrik in Chemnitz, Germany, 1868.
-©Wikimedia Commons.[^21]](imgs/TRA_Figure S1. 12.jpg)
+©Wikimedia Commons.[^03chapter1_21]](imgs/TRA_Figure S1. 12.jpg)
 
 <br/>
 
@@ -300,7 +300,7 @@ enslavement of indigenous populations became a phenomenon that spread
 throughout the globe.
 
 ![Figure 1.13: Map of colonial and land-based empires throughout the
-world in 1914 CE. ©Wikimedia Commons.[^22]](imgs/TRA_Figure S1. 13.jpg)
+world in 1914 CE. ©Wikimedia Commons.[^03chapter1_22]](imgs/TRA_Figure S1. 13.jpg)
 
 <br/>
 
@@ -323,12 +323,12 @@ allowed the new ships to withstand extreme weather on the sea and
 enduring battles with natives.
 
 ![Figure 1.14: Engraving of the elevation plan and section of a
-steam-boat, 1827. ©Wikimedia Commons.[^23]](imgs/TRA_Figure S1.14.jpg)
+steam-boat, 1827. ©Wikimedia Commons.[^03chapter1_23]](imgs/TRA_Figure S1.14.jpg)
 
 <br/>
 
 ![Figure 1.15: Great Britain in the Cumberland Basin, April 1844.
-©Wikimedia Commons.[^24]](imgs/TRA_Figure S1.15.jpg)
+©Wikimedia Commons.[^03chapter1_24]](imgs/TRA_Figure S1.15.jpg)
 
 <br/>
 
@@ -346,27 +346,27 @@ symbol and the fear of the natives. Daniel R. Headrick once wrote:
 > range of up to half a mile. Machine gunners had even more power.
 > Though the generals were not to realize it for many decades, the age
 > of raw courage and cold steel had ended, and the era of arms races and
-> industrial slaughter had begun.[^25]
+> industrial slaughter had begun.[^03chapter1_25]
 
 In addition, advances in *medicine and pharmaceuticals* also created
 unique advantages for European people. In the 18th century, under the
 influence of the Age of Enlightenment, the modern hospital began to
 appear, serving medical needs and being staffed with trained physicians
 and surgeons. Modern medical methods were systematically applied to cure
-patients.[^26] These hospitals were the civilized symbol of imperial
+patients.[^03chapter1_26] These hospitals were the civilized symbol of imperial
 countries, the foundation for *military hospitals*, and the advantage of
 preserving forces for the colonial repressions.
 
 Especially in *pharmaceutical technology*, the successful extraction of
 *Quinine* in the 19th century was the key to opening Africa's colonial
-time delayed by deadly malaria for more than four centuries.[^27] For a
+time delayed by deadly malaria for more than four centuries.[^03chapter1_27] For a
 long time, the barrier of disease, most notably malaria, made Europeans
 hesitant to invade Africa. Many called Africa ‘the white man’s grave,’
-and it was known as a death trap for soldiers.[^28] From 1819-1836, more
-than 48.3% of British troops sent to Sierra Leone died.[^29] A morbid
+and it was known as a death trap for soldiers.[^03chapter1_28] From 1819-1836, more
+than 48.3% of British troops sent to Sierra Leone died.[^03chapter1_29] A morbid
 rhyme sung by British sailors about the Bight, or Bay, of Benin
 exemplifies the European fear of Africa: ‘Beware, oh beware, of the
-Bight of Benin, Where few come out although many go in.’[^30] However,
+Bight of Benin, Where few come out although many go in.’[^03chapter1_30] However,
 quinine had the potential to change the entire situation.
 
 ![Figure 1.16: Crane's Quinine and Tar Compound, 19th Century Medicine
@@ -392,7 +392,7 @@ searchlights had become widely used among European Empires.
 
 ![Figure 1.17: Russian troops use a searchlight against a Japanese night
 attack during the Russo-Japanese War, 1904. American searchlight crew
-and equipment in France during WWI. ©Wikimedia Commons.[^31]](imgs/TRA_Figure S1.17.jpg)
+and equipment in France during WWI. ©Wikimedia Commons.[^03chapter1_31]](imgs/TRA_Figure S1.17.jpg)
 
 <br/>
 
@@ -412,17 +412,17 @@ identity of a country or region.
 ![Figure 1.18: This 1870 image is considered the first actual photograph
 taken of a battle. It shows a line of Prussian troops advancing. The
 photographer stood with the French defenders when he captured this
-image. ©militaryhistorynow.com.[^32]](imgs/TRA_Figure S1.18.jpg)
+image. ©militaryhistorynow.com.[^03chapter1_32]](imgs/TRA_Figure S1.18.jpg)
 
 <br/>
 
 ![Figure 1.19: A man in Iyede, Delta State, Nigeria, 1909.
-©theguardian.com.[^33]](imgs/TRA_Figure S1.19.jpg)
+©theguardian.com.[^03chapter1_33]](imgs/TRA_Figure S1.19.jpg)
 
 <br/>
 
 ![Figure 1.20: Postcard Saigon Cochinchine Vietnam, Camp des Mares, le
-Repas des Tirailleurs punish de prison. ©akpool.co.uk.[^34]](imgs/TRA_Figure S1.20.jpg)
+Repas des Tirailleurs punish de prison. ©akpool.co.uk.[^03chapter1_34]](imgs/TRA_Figure S1.20.jpg)
 
 <br/>
 
@@ -445,10 +445,10 @@ aircraft, stealth submarines, generations of weapons,* and
 *AI-controlled robots* have been developed and put to use widely in the
 technologically developed countries.
 
-![Figure 1.21: Boston Dynamic's robots, ©newatlas.com.[^35] Blackbird
-supersonic aircraft, ©popularmechanics.com.[^36] Israel’s Rafael integrates
+![Figure 1.21: Boston Dynamic's robots, ©newatlas.com.[^03chapter1_35] Blackbird
+supersonic aircraft, ©popularmechanics.com.[^03chapter1_36] Israel’s Rafael integrates
 artificial intelligence into Spice bombs Illustration of Japan's new
-Epsilon AI rocket, ©c4isrnet.com.[^37]](imgs/TRA_Figure S1.21.jpg)
+Epsilon AI rocket, ©c4isrnet.com.[^03chapter1_37]](imgs/TRA_Figure S1.21.jpg)
 
 <br/>
 
@@ -468,19 +468,19 @@ establishing a form of *cyber colonialism* around the world.
 ## **The Usurper**
 
 ‘Technology is a useful servant but a dangerous master.’– Christian Lous
-Lange.[^38]
+Lange.[^03chapter1_38]
 
 Since the onset of the digital revolution and the initial development of
 the computer sciences in the 1960s and 1970s, there have been concerns
 regarding the revival of colonialism. The conceps *electronic*
 *colonialism* or *digital colonialism*, sometimes abbreviated to
 *eColonialism*, were conceived by Herbert Schiller as documented in his
-1976 text Communication and Cultural Domination.[^39] The idea of
+1976 text Communication and Cultural Domination.[^03chapter1_39] The idea of
 cyberspace took on increasing interest in the 1990s with the growing
-popularity of the internet, networking and digital communication.[^40]
+popularity of the internet, networking and digital communication.[^03chapter1_40]
 Not much later, in the article *Cyber-colonialism in Asia: more imagined
 than real?* by Loo & Beng in 1998, the concept of *cyber-colonialism*
-was mentioned.[^41] Despite its *technological optimism* regarding
+was mentioned.[^03chapter1_41] Despite its *technological optimism* regarding
 global connectivity in the internet space, Loo & Beng's writing has
 contributed significantly to the discussion of the issue since the early
 days of the era of global connectivity.
@@ -526,7 +526,7 @@ exploitation and control by service providers. Out of individual
 control, users' level of digital connectivity is increasing at an
 unprecedented rate globally. The extension of the human body to machines
 is no longer a prediction as seen in Donna Haraway’s early remarks in *A Cyborg Manifesto*, but
-has become a reality of contemporary mankind.[^42] In Haraway's opinion,
+has become a reality of contemporary mankind.[^03chapter1_42] In Haraway's opinion,
 the cyborg's integration of technology into its body creates a new form
 of embodiment that challenges the dichotomy between mind and body. By
 merging with machines, the cyborg becomes a new kind of being that is
@@ -572,7 +572,7 @@ such as family biography, education level, occupation, medical
 information, properties, finances and history of social activities have
 been recorded, linked, and evaluated by computer systems. Citizens are
 classified and blacklisted or whitelisted based on data analyzed by the
-mechanized system.[^43]
+mechanized system.[^03chapter1_43]
 
 By participating in the *Google ecosystem*, logging into a Google
 account, users can use a wide range of products and services such as
@@ -586,7 +586,7 @@ to access a shared group file on Google Drive, the user must create a
 Google account if they do not already have one Users who need to make
 notations on Google Maps must have a Google account. These chaining
 constraints developed by Google have allowed them to engage over one
-billion customers in the use of their products through 2022.[^44]
+billion customers in the use of their products through 2022.[^03chapter1_44]
 Moreover, the engagement of these customers has allowed Google to
 capture and store a vast amount of diverse, detailed and valuable
 information for the company’s use.
@@ -608,10 +608,10 @@ operating system of the watch device without using their iPhone, nor can
 they download music to the system without accessing iTunes. This
 strategy has helped Apple become the leader in sales of personal
 electronics products globally over the past decade, with a net revenue
-of 378.7 billion U.S. Dollars in 2022.[^45]
+of 378.7 billion U.S. Dollars in 2022.[^03chapter1_45]
 
 ![Figure 1.22: Sales of leading consumer electronic (CE) companies
-worldwide in 2022. ©statista.com.[^46]
+worldwide in 2022. ©statista.com.[^03chapter1_46]
 ](imgs/TRA_Figure S1.22.jpg)
 
 <br/>
@@ -629,12 +629,10 @@ colonization. Actually, they typified their colonization as a mission of
 sharing the *highest benefit* to users (in theory, digital capital
 business is a process of benefit sharing), what is gained by users
 cannot be compared with the benefits achieved by corporations or
-organizations that own technology.
+organizations that own technology. In *The Wretched of the Earth, Frantz Fanon once stated:
 
-In The Wretched of the Earth, Frantz Fanon once stated:
-
-‘The native must realize that colonialism never gives anything away for
-nothing.’ [^47]
+> ‘The native must realize that colonialism never gives anything away for
+> nothing.’ [^03chapter1_47]
 
 So *what* do tech owners exploit from their tech colonies?
 
@@ -648,7 +646,7 @@ of data sets is a fundamental activity in the digital space. The larger
 the amount of data, the more advanced the analysis ability, the higher
 value of the information obtained after the analysis, and the more
 applicability of that information. The *data mining* has become the
-spearhead industry of the technology empires.[^48]
+spearhead industry of the technology empires.[^03chapter1_48]
 
 Therefore, rather than cyber-colonialism, Nick Couldry and Ulises Mejias
 proposed another concept – *data colonialism*. According to these
@@ -656,31 +654,31 @@ authors, data colonialism is understood as ‘the extension of a global
 extraction process. It started under colonialism and continued through
 industrial capitalism, culminating in the present new form instead of
 natural resources and labor that has appropriated human life through its
-conversion into data.’[^49] It can be said that owning data has become
+conversion into data.’[^03chapter1_49] It can be said that owning data has become
 the foundation for governing today's technological colonies. In the year
 2022, there were approximately 7.2 million data centers and server
 farms, the majority of which are, to this day, concentrated in developed
 countries, led by the US, Germany, the UK, China, and Canada.
 
 ![Figure 1.23: Number of data centers worldwide in 2022, by country.
-©statista.com.[^50]](imgs/TRA_Figure S1.23.jpg)
+©statista.com.[^03chapter1_50]](imgs/TRA_Figure S1.23.jpg)
 
 <br/>
 
 Moreover, since 2015, the number of hyperscale data centers has more
-than doubled.[^51] The number of hyperscale data centers worldwide
+than doubled.[^03chapter1_51] The number of hyperscale data centers worldwide
 reached 700 by the end of 2021. The rapidly increasing number of
 hyperscale data centers worldwide in recent years illustrated the high
-level of power concentration in cyberspace.[^52] Eve Tuck and K. Wayne
+level of power concentration in cyberspace.[^03chapter1_52] Eve Tuck and K. Wayne
 Yang asserted, colonization ‘is not an approximation of other
 experiences of oppression’ but a highly distinctive exercise of
-power.[^53]
+power.[^03chapter1_53]
 
 Beyond the concept of *great power*, in the last 20 years, we have seen
 the world of technology dominated by *a small number* of *large global
 corporations*. This phenomenon of power concentration is evident in the
 characteristics of advanced-capitalistic societies, where industrial
-activity is concentrated in a few large firms.[^54] The phenomenon of
+activity is concentrated in a few large firms.[^03chapter1_54] The phenomenon of
 totalitarianism and domination of economic, political, cultural, and
 social activities of these large corporations, creates a *new form of
 empire* within capitalist society. Until now (2023), these technological
@@ -696,7 +694,7 @@ artificial intelligence, e-commerce, online advertising, consumer
 electronics, cloud computing, computer software, media streaming, smart
 home, self-driving cars, and social networking. They are among the most
 valuable global public companies having a maximum market capitalization
-ranging from around \$1 trillion to above \$3 trillion.[^55]
+ranging from around \$1 trillion to above \$3 trillion.[^03chapter1_55]
 
 Based on their operational capacity, the scale of infrastructure, and
 real financial potential, these big global technology corporations are
@@ -720,7 +718,7 @@ colonial world order* published at *MIT Technology Review* in April
 2022, Karen Hao asserted: ‘It’s not possible to talk about ‘AI for
 everyone’ (Google’s rhetoric), ‘responsible AI’ (Facebook’s rhetoric),
 or ‘broadly distributing’ its benefits (Open AI’s rhetoric) without
-honestly acknowledging and confronting the obstacles in the way.’[^56]
+honestly acknowledging and confronting the obstacles in the way.’[^03chapter1_56]
 
 The threat of using the power of digital technology and AI to control
 and manipulate others has become a global concern in recent years. This
@@ -731,21 +729,21 @@ from direct to indirect form through digital media and devices.
 
 ![Figure 1.24: Photo essay 01. More than 1.5 million Africans were
 shipped across the Atlantic Ocean between the 15th and 19th Centuries,
-©nilepost.co.ug.[^57] More than 62.5 percent of the world's total population
-is internet Users in 2022, ©deviceatlas.com.[^58] Locking and tracking
-colonial slaves, ©t-vine.com.[^59] Personal tracking location, © gpsbob.com.[^60]Slave's stamp recognition, ©Wikimedia Commons.[^61] Facial recognition,
-©Reuters.[^62] Brussels World fair 1958 ©Wikimedia Commons.[^63] Children’s rights in the cyberspace, ©theasianparent.com.[^64]](imgs/TRA_Figure S1.24.jpg)
+©nilepost.co.ug.[^03chapter1_57] More than 62.5 percent of the world's total population
+is internet Users in 2022, ©deviceatlas.com.[^03chapter1_58] Locking and tracking
+colonial slaves, ©t-vine.com.[^03chapter1_59] Personal tracking location, © gpsbob.com.[^03chapter1_60]Slave's stamp recognition, ©Wikimedia Commons.[^03chapter1_61] Facial recognition,
+©Reuters.[^03chapter1_62] Brussels World fair 1958 ©Wikimedia Commons.[^03chapter1_63] Children’s rights in the cyberspace, ©theasianparent.com.[^03chapter1_64]](imgs/TRA_Figure S1.24.jpg)
 
 <br/>
 
 ![Figure 1.25: Photo essay 02. The White Sea-Baltic Canal opened on 2
-August 1933, ©dmitrievaffair.com.[^65] Daily, users are creating content and
-information values without payment, ©abcnews.go.com.[^66] Sale of Estates,
+August 1933, ©dmitrievaffair.com.[^03chapter1_65] Daily, users are creating content and
+information values without payment, ©abcnews.go.com.[^03chapter1_66] Sale of Estates,
 Pictures and Slaves in the Rotunda, New Orleans; by William Henry
 Brooke, engraver; engraving with watercolor from The Slave States of
-America, vol. 1; London: Fisher and Son, 1842 ©wwno.org.[^67] The Big Data
-Privacy Problem. ©innovate-edu.com.[^68] Cape Town slaves to migrant gold
-miners, ©ucd.ie.[^69] Data Mining Techniques, ©justtotaltech.com.[^70]](imgs/TRA_Figure S1.25.jpg)
+America, vol. 1; London: Fisher and Son, 1842 ©wwno.org.[^03chapter1_67] The Big Data
+Privacy Problem. ©innovate-edu.com.[^03chapter1_68] Cape Town slaves to migrant gold
+miners, ©ucd.ie.[^03chapter1_69] Data Mining Techniques, ©justtotaltech.com.[^03chapter1_70]](imgs/TRA_Figure S1.25.jpg)
 
 <br/>
 
@@ -758,7 +756,7 @@ There is no doubt that dominating perceptions is the most effective and
 dangerous way to possess human beings, influence their awareness and
 manipulate their action.
 
-![Figure 1.26 : Mecedes-Benz advertisment 2010. ©adsoftheworld.com.[^71]
+![Figure 1.26 : Mecedes-Benz advertisment 2010. ©adsoftheworld.com.[^03chapter1_71]
 ](imgs/TRA_Figure S1.26.jpg)
 
 <br/>
@@ -806,7 +804,7 @@ appropriation of personal integrity and blinding or deceiving the users.
 ‘We'll serve you better if we know you better’ has become the rhetoric
 of all online products and service providers. The majority of users
 still do not fully understand the tactics of the process of ‘always
-listening, always understanding’from companies.[^72] Behind electronic
+listening, always understanding’from companies.[^03chapter1_72] Behind electronic
 contracts (in the form of mandatory consent to dozens of pages of Terms
 and conditions), users consent to let service providers use their
 information legally when creating any electronic account. This process
@@ -830,12 +828,12 @@ is becoming even more pronounced in some *developing countries* in the
 of Asia, Africa, and Latin America.
 
 Many countries in the Global South have young populations, with a
-significant proportion of people under the age of 25.[^73] This
+significant proportion of people under the age of 25.[^03chapter1_73] This
 demographic shows a rich human resource and an energetic labor force,
 but it can also create challenges in terms of providing education,
 healthcare, and other basic services. These regions are often classified
 as developing economies, where the majority of people are still working
-in low and unstable conditions.[^74] Among these countries, several have
+in low and unstable conditions.[^03chapter1_74] Among these countries, several have
 high levels of poverty, limited infrastructure, and significant income
 inequality.
 
@@ -845,12 +843,12 @@ products. While these resources can be a source of economic growth, they
 can also lead to environmental degradation and social conflict. Many
 countries in the Global South have experienced political instability,
 including colonial periods, civil wars, coups, and other forms of
-unrest.[^75] This instability creates many difficulties in implementing
+unrest.[^03chapter1_75] This instability creates many difficulties in implementing
 legal systems, and hardship in creating social and economic stability.
 
 Nevertheless, the Global South market has been rapidly growing in recent
 years due to several factors, including increased access to digital
-technology and the proliferation of mobile devices.[^76] With the
+technology and the proliferation of mobile devices.[^03chapter1_76] With the
 increasing affordability of mobile devices, many people in the Global
 South are now able to access digital services such as social media,
 e-commerce, and mobile banking.
@@ -865,7 +863,7 @@ is one example of the type of market that is easily exploited.
 Currently, Vietnam is one example of the type of market that is easily
 exploited. ‘IT labor suppliers in Southeast Asia, the main labor market
 tapped by developed countries in the region such as Japan’, Korea and
-Singapore.[^77] Vietnam’s large and young population of consumers has
+Singapore.[^03chapter1_77] Vietnam’s large and young population of consumers has
 also become a target of large technology corporations.
 
 According to statistics provided by *hootsuite.com*, there were 72.10
@@ -881,7 +879,7 @@ start of 2022. 
 On average, Vietnamese users daily spend 6 hours and 38 minutes each in
 cyberspace which is equivalent to the administrative working time of
 office workers and approximately one third of the total time they have
-daily.[^78]
+daily.[^03chapter1_78]
 
 ![Figure 1.29: Daily time spend with media ©hootsuite.com.
 ](imgs/TRA_Figure S1.29.jpg)
@@ -889,15 +887,15 @@ daily.[^78]
 <br/>
 
 Vietnam ranked 13th on the list of countries with the largest digital
-populations in the world in 2022.[^79] However, privacy in the internet
+populations in the world in 2022.[^03chapter1_79] However, privacy in the internet
 space and Vietnam's cybersecurity index have always been among the
-lowest and most alarming in recent years.[^80] [^81] [^82] 
-[^83]
+lowest and most alarming in recent years.[^03chapter1_80] [^03chapter1_81] [^03chapter1_82] 
+[^03chapter1_83]
 
 <br/>
 
 ![Figure 1.30: Countries with the largest digital populations in the world
-as of January 2022.[^84]](imgs/TRA_Figure S1.30.jpg)
+as of January 2022.[^03chapter1_84]](imgs/TRA_Figure S1.30.jpg)
 
 <br/>
 
@@ -914,8 +912,8 @@ Cybersecurity, and the Law on Information Security, these legal
 regulations may not be comprehensive enough to address all the
 challenges and concerns of today’s digital world, especially emerging
 social phenomena related to artificial intelligence and machine
-learning-based automation.[^85] [^86] The implementation of these
-laws is often inadequate, and enforcement is often lax.[^87] Corruption
+learning-based automation.[^03chapter1_85] [^03chapter1_86] The implementation of these
+laws is often inadequate, and enforcement is often lax.[^03chapter1_87] Corruption
 and bureaucracy are the main reasons that make law enforcement even less
 effective.
 
@@ -952,7 +950,7 @@ power-sharing dominates various aspects of life from political economy
 to culture, and these take place in many parts of the world, especially
 in developing countries.
 
-**References**
+## References
 
 Biney, Isaac K. ‘Revitalizing Blended and Self-Directed Learning Among
 Adult Learners Through the Distance Education Mode of Learning in
@@ -1076,332 +1074,332 @@ Change How People Engage with Posts.’ ABC News, September 2019.
 Tilby, A. W. *Britain in the Tropics*, 1527-1910. Vol. 4. Houghton
 Mifflin, 1912.
 
-[^1]: Countries of the **Global South** have been described as newly
+[^03chapter1_1]: Countries of the **Global South** have been described as newly
     industrialized or in the process of industrializing, and are
     frequently current or former subjects of colonialism. Wikipedia
     contributors, ‘Global North and Global South’, 20 October 2021,
     https://en.wikipedia.org/wiki/Global\_North\_and\_Global\_South.
 
-[^2]: **Millennial** is the first global generation and the first
+[^03chapter1_2]: **Millennial** is the first global generation and the first
     generation that grew up in the Internet age.
 
-[^3]: Margaret Kohn and Reddy Kavita, *Colonialism*, The Stanford
+[^03chapter1_3]: Margaret Kohn and Reddy Kavita, *Colonialism*, The Stanford
     Encyclopedia of Philosophy (Summer 2024 Edition), Edward N. Zalta &
     Uri Nodelman (eds.), https://plato.stanford.edu/entries/colonialism.
 
-[^4]: Walter Rodney, *How Europe underdeveloped Africa,* Verso Books,
+[^03chapter1_4]: Walter Rodney, *How Europe underdeveloped Africa,* Verso Books,
     2018.
 
-[^5]: Adrienne Mayor, *Gods and Robots: Myths, Machines, and Ancient
+[^03chapter1_5]: Adrienne Mayor, *Gods and Robots: Myths, Machines, and Ancient
     Dreams of Technology,* Princeton University Press, 2018.
 
-[^6]: Marie Boas, ‘Hero's Pneumatica: A Study of Its Transmission and
+[^03chapter1_6]: Marie Boas, ‘Hero's Pneumatica: A Study of Its Transmission and
     Influence’, *Isis 40*, no. 1 (1949): 38.
 
-[^7]: History of Information, ‘Automata Invented by Heron of
+[^03chapter1_7]: History of Information, ‘Automata Invented by Heron of
     Alexandria’, 25 October 2021, *historyofinformation.com*.
     https://www.historyofinformation.com/detail.php?id=10.
 
-[^8]: Charles Swift, ‘Robot Saints’, *Preternature: Critical and
+[^03chapter1_8]: Charles Swift, ‘Robot Saints’, *Preternature: Critical and
     Historical Studies on the Preternatural 4*, no. 1 (2015): 52-77.
 
-[^9]: Andrew Taylor, *The Rise and Fall of the Great Empires*, London:
+[^03chapter1_9]: Andrew Taylor, *The Rise and Fall of the Great Empires*, London:
     Quercus, 2008.
 
-[^10]: Wikipedia contributors, ‘The Pharaoh Tutankhamun destroying his
+[^03chapter1_10]: Wikipedia contributors, ‘The Pharaoh Tutankhamun destroying his
     enemies’, 20 October 2021,
     https://commons.wikimedia.org/wiki/File:The\_Pharaoh\_Tutankhamun\_destroying\_his\_enemies.jpg.
 
-[^11]: Wikipedia contributors, ‘Alexander Mosaic’, 20 October 2021,
+[^03chapter1_11]: Wikipedia contributors, ‘Alexander Mosaic’, 20 October 2021,
     https://en.wikipedia.org/wiki/Alexander\_Mosaic.
 
-[^12]: Vicifons, ‘Novum Organum/Liber Primus’, Liber I, CXXIX – Adapted
+[^03chapter1_12]: Vicifons, ‘Novum Organum/Liber Primus’, Liber I, CXXIX – Adapted
     from the 1863 translation,
     https://la.wikisource.org/wiki/Novum\_Organum/Liber\_Primus.
 
-[^13]: Wikipedia contributors, ‘The Diamond Sutra of the Chinese Tang
+[^03chapter1_13]: Wikipedia contributors, ‘The Diamond Sutra of the Chinese Tang
     dynasty, the oldest dated printed book in the world’, 20 October
     2021,
     https://en.wikipedia.org/wiki/Papermaking\#/media/File:Jingangjing.png.
 
-[^14]: Peter A Lorge, *The Asian Military Revolution: From Gunpowder to
+[^03chapter1_14]: Peter A Lorge, *The Asian Military Revolution: From Gunpowder to
     the Bomb*. Cambridge University Press, 2008.
 
-[^15]: Andrew Taylor, *The Rise and Fall of the Great Empires*. London:
+[^03chapter1_15]: Andrew Taylor, *The Rise and Fall of the Great Empires*. London:
     Quercus, 2008.
 
-[^16]: Wikipedia contributors, 'History of gunpowder', 20 October 2021,
+[^03chapter1_16]: Wikipedia contributors, 'History of gunpowder', 20 October 2021,
     https://en.wikipedia.org/wiki/History\_of\_gunpowder\#/media/File:Ming\_artillerymen.jpg.
 
-[^17]: William Lowrie, *Fundamentals of Geophysics*. London: Cambridge
+[^03chapter1_17]: William Lowrie, *Fundamentals of Geophysics*. London: Cambridge
     University Press, 2007. p. 281.
 
-[^18]: Wikipedia contributors, 'History of the compass', 20 October
+[^03chapter1_18]: Wikipedia contributors, 'History of the compass', 20 October
     2021,
     https://en.wikipedia.org/wiki/History\_of\_the\_compass\#/media/File:Kardanischer-Kompass.jpg.
 
-[^19]: Wikipedia contributors, 'Cantino planisphere (1502)', 20 October
+[^03chapter1_19]: Wikipedia contributors, 'Cantino planisphere (1502)', 20 October
     2021,
     https://en.wikipedia.org/wiki/File:Cantino\_planisphere\_(1502).jpg.
 
-[^20]: Wikipedia contributors, 'Medieval ships', 20 October 2021,
+[^03chapter1_20]: Wikipedia contributors, 'Medieval ships', 20 October 2021,
     https://en.wikipedia.org/wiki/Medieval\_ships.
 
-[^21]: Wikipedia contributors, 'Industrial Revolution', 25 October 2021,
+[^03chapter1_21]: Wikipedia contributors, 'Industrial Revolution', 25 October 2021,
     https://en.wikipedia.org/wiki/Industrial\_Revolution\#/media/File:Hartmann\_Maschinenhalle\_1868\_(01).jpg.
 
-[^22]: Wikipedia contributors, ‘World 1914 empires colonies territory’,
+[^03chapter1_22]: Wikipedia contributors, ‘World 1914 empires colonies territory’,
     20 October 2021,
     https://commons.wikimedia.org/wiki/File:World\_1914\_empires\_colonies\_territory.PNG.
 
-[^23]: Wikipedia contributors, 'Steam Engine, Elevation plan and section
+[^03chapter1_23]: Wikipedia contributors, 'Steam Engine, Elevation plan and section
     of a steam-boat', 25 October 2021,
     https://commons.wikimedia.org/wiki/File:Steam\_Engine,\_Elevation\_plan\_and\_section\_of\_a\_steam-boat.\_Engraved\_for\_the\_Encyclopedia\_Londinensis\_RMG\_PU6673.jpg.
 
-[^24]: Wikipedia contributors, ‘Great Britain by Talbot’, 20 October
+[^03chapter1_24]: Wikipedia contributors, ‘Great Britain by Talbot’, 20 October
     2021,
     https://en.wikipedia.org/wiki/File:SS\_Great\_Britain\_by\_Talbot.jpg.
 
-[^25]: Daniel R Headrick, ‘The Tools of Imperialism: Technology and the
+[^03chapter1_25]: Daniel R Headrick, ‘The Tools of Imperialism: Technology and the
     Expansion of European Colonial Empires in the Nineteenth Century.’
     *The Journal of Modern History 51*, no. 2 (1979): 231-263. https://en.wikipedia.org/wiki/Machine\_gun.
-[^26]: Wikipedia contributors, ‘History of hospitals’, 20 October 2021,
+[^03chapter1_26]: Wikipedia contributors, ‘History of hospitals’, 20 October 2021,
     https://en.wikipedia.org/wiki/History\_of\_hospitals.
 
-[^27]: Philip D Curtin, ‘The White Man's Grave: Image and Reality,
+[^03chapter1_27]: Philip D Curtin, ‘The White Man's Grave: Image and Reality,
     1780-1850.’ *Journal of British Studies* 1, no. 1 (1961): 94-110.
 
-[^28]: Lom Ning, ‘Quinine and the Cinchona Plant: Gain or Bane for
+[^03chapter1_28]: Lom Ning, ‘Quinine and the Cinchona Plant: Gain or Bane for
     Africa?’ *Hektoen International: A Journal of Medical Humanitie*s,
     2020.
     https://hekint.org/2019/05/22/quinine-and-the-cinchona-plant-gain-or-bane-for-africa/.
 
-[^29]: Philip D Curtin, ‘The End of the 'White Man's Grave'?
+[^03chapter1_29]: Philip D Curtin, ‘The End of the 'White Man's Grave'?
     Nineteenth-Century Mortality in West Africa.’ *The Journal of
     Interdisciplinary Histor*y 21, no. 1 (1990): 63-88.
 
-[^30]: Aubrey Wyatt Tilby, *Britain in the Tropics*, 1527-1910, Vol. 4,
+[^03chapter1_30]: Aubrey Wyatt Tilby, *Britain in the Tropics*, 1527-1910, Vol. 4,
     Houghton Mifflin, 1912.
 
-[^31]: Wikipedia contributors, ‘Searchlight’, *wikiwand.com, 20 October
+[^03chapter1_31]: Wikipedia contributors, ‘Searchlight’, *wikiwand.com, 20 October
     2021,* https://www.wikiwand.com/en/Searchlight.
 
-[^32]: Military History Now, ‘How Early Photographers Captured History’s
+[^03chapter1_32]: Military History Now, ‘How Early Photographers Captured History’s
     First Images of War’, *militaryhistorynow.com,* 25 October 2021,
 
     https://militaryhistorynow.com/2012/06/12/how-early-photographers-captured-historys-first-images-of-war/
 
-[^33]: The Guardian, ‘Confronting the colonial archive – in pictures’,
+[^03chapter1_33]: The Guardian, ‘Confronting the colonial archive – in pictures’,
     *theguardian.com,* 25 October 2021,
 
     https://www.theguardian.com/artanddesign/gallery/2019/nov/19/the-anthropologists-africa-in-pictures-faces-voices.
 
-[^34]: Akpool, ‘Postcard Saigon Cochinchine Vietnam, Camp des Mares, le
+[^03chapter1_34]: Akpool, ‘Postcard Saigon Cochinchine Vietnam, Camp des Mares, le
     Repas des Tirailleurs punis de prison’, *akpool.co.uk,* 25 October
     2021,
     https://www.akpool.co.uk/postcards/27907351-postcard-saigon-cochinchine-vietnam-camp-des-mares-le-repas-des-tirailleurs-punis-de-prison.
 
-[^35]: David Szondy, ‘Boston Dynamics' Latest Atlas Robot Struts Its
+[^03chapter1_35]: David Szondy, ‘Boston Dynamics' Latest Atlas Robot Struts Its
     Stuff,’ *New Atlas*, 24 February 2016,
     https://newatlas.com/boston-dynamics-new-atlas/42007.
 
-[^36]: Kyle Mizokami, ‘SR-71 Blackbird Pilot Reveals What It Was Like to
+[^03chapter1_36]: Kyle Mizokami, ‘SR-71 Blackbird Pilot Reveals What It Was Like to
     Fly the Fastest Plane Ever’, *Popular Mechanics*, 31 December 2020,
     https://www.popularmechanics.com/military/aviation/a35092143/sr-71-blackbird-pilot-interview-flying-fastest-plane-ever/.
 
-[^37]: Seth J Frantzman and Atherton Kelsey, ‘Israel’s Rafael Integrates
+[^03chapter1_37]: Seth J Frantzman and Atherton Kelsey, ‘Israel’s Rafael Integrates
     Artificial Intelligence into Spice Bombs.’ *C4ISRNET*, June 2019.
 
     https://www.c4isrnet.com/artificial-intelligence/2019/06/17/israels-rafael-integrates-artificial-intelligence-into-spice-bombs/.
 
-[^38]: Christian Lous Lange, Norwegian historian, The Nobel Peace Prize
+[^03chapter1_38]: Christian Lous Lange, Norwegian historian, The Nobel Peace Prize
     1921.
 
-[^39]: Thomas L McPhail, *Global Communication: Theories, Stakeholders,
+[^03chapter1_39]: Thomas L McPhail, *Global Communication: Theories, Stakeholders,
     and Trends*. Boston: Allyn and Bacon, 2002.
 
-[^40]: Lance Strate, ‘The Varieties of Cyberspace: Problems in
+[^03chapter1_40]: Lance Strate, ‘The Varieties of Cyberspace: Problems in
     Definition and Delimitation.’ *Western Journal of Communication* 63,
     no. 3 (1999): 382-383. doi:10.1080/10570319909374648.
 
-[^41]: Eric Loo and Yuen Shu Beng, ‘Cyber-Colonialism in Asia: More
+[^03chapter1_41]: Eric Loo and Yuen Shu Beng, ‘Cyber-Colonialism in Asia: More
     Imagined than Real?’ *Media Asia* 25, no. 3 (1998): 130-137. p. 1.
 
-[^42]: Donna Haraway, ‘A Cyborg Manifesto: Science, Technology, and
+[^03chapter1_42]: Donna Haraway, ‘A Cyborg Manifesto: Science, Technology, and
     Socialist-Feminism in the Late Twentieth Century.’ In *The
     Transgender Studies Reader*, 103-118. Routledge, 2013.
 
-[^43]: Wikipedia contributors, ‘Social Credit System’, 20 October 2021,
+[^03chapter1_43]: Wikipedia contributors, ‘Social Credit System’, 20 October 2021,
     https://en.wikipedia.org/wiki/Social\_Credit\_System
 
-[^44]: First Site Guide, ‘Google Search Statistics and Facts 2022,’
+[^03chapter1_44]: First Site Guide, ‘Google Search Statistics and Facts 2022,’
     *First Site Guide*, 2 March 2023, https://firstsiteguide.com/google-search-stats/
 
-[^45]: Statista, ‘Global revenue of Apple from 2004 to 2022’,
+[^03chapter1_45]: Statista, ‘Global revenue of Apple from 2004 to 2022’,
     *statista.com,* 2 March 2023, https://www.statista.com/statistics/265125/total-net-sales-of-apple-since-2004/
 
-[^46]: Statista, ‘Sales of leading consumer electronic (CE) companies
+[^03chapter1_46]: Statista, ‘Sales of leading consumer electronic (CE) companies
     worldwide in 2022’, *statista.com,* 2 March 2023,
     https://www.statista.com/statistics/431431/sales-of-the-leading-ce-companies-worldwide.
 
-[^47]: Frantz Fanon, *The Wretched of the Earth*. Translated by Richard
+[^03chapter1_47]: Frantz Fanon, *The Wretched of the Earth*. Translated by Richard
     Philcox, New York: Grove Press, 1963.
 
-[^48]: Data mining is the process of extracting and discovering patterns
+[^03chapter1_48]: Data mining is the process of extracting and discovering patterns
     in large data sets involving methods at the intersection of machine
     learning, statistics, and database systems. Wikipedia contributors, ‘Data Mining’, 10 October 2022, https://en.wikipedia.org/wiki/Data\_mining.
 
-[^49]: Nick Couldry and Mejias Ulises A, *The Costs of Connection: How
+[^03chapter1_49]: Nick Couldry and Mejias Ulises A, *The Costs of Connection: How
     Data Is Colonizing Human Life and Appropriating It for Capitalism*,
     Stanford University Press, 2020.
 
-[^50]: Statista, ‘Number of data centers worldwide in 2022, by country’,
+[^03chapter1_50]: Statista, ‘Number of data centers worldwide in 2022, by country’,
     *statista.com*, 2 March 2023,
 
     https://www.statista.com/statistics/1228433/data-centers-worldwide-by-country/.
 
-[^51]: Hyperscale in computer science refers to a computing architecture
+[^03chapter1_51]: Hyperscale in computer science refers to a computing architecture
     that allows for the provision of highly scalable, high-performance
     computing resources for large-scale data centers, cloud computing,
     and other IT environments.
 
-[^52]: Statista, ‘Number of hyper scale data centers worldwide from 2015
+[^03chapter1_52]: Statista, ‘Number of hyper scale data centers worldwide from 2015
     to 2021’, *statista.com*, 12 March 2021,
     https://www.statista.com/statistics/633826/worldwide-hyperscale-data-center-numbers/.
 
-[^53]: Nick Couldry and Mejias Ulises A, *The Costs of Connection: How
+[^03chapter1_53]: Nick Couldry and Mejias Ulises A, *The Costs of Connection: How
     Data Is Colonizing Human Life and Appropriating It for Capitalism*,
     Stanford University Press, 2020.
 
-[^54]: Jürgen Habermas, *Legitimation Crisis*, Vol. 519, Beacon Press,
+[^03chapter1_54]: Jürgen Habermas, *Legitimation Crisis*, Vol. 519, Beacon Press,
     1975.
 
-[^55]: Ari Levy, ‘Tech's Top Seven Companies Added \$3.4 Trillion in
+[^03chapter1_55]: Ari Levy, ‘Tech's Top Seven Companies Added \$3.4 Trillion in
     Value in 2020.’ *CNBC*, 2020.
 
-[^56]: Karen Hao, ‘Artificial Intelligence Is Creating a New Colonial
+[^03chapter1_56]: Karen Hao, ‘Artificial Intelligence Is Creating a New Colonial
     World Order.’ *MIT Technology Review*, July 2022.
 
-[^57]: Sam Mayanja, ‘Opinion: Impact of Colonialism and Neo-Colonialism
+[^03chapter1_57]: Sam Mayanja, ‘Opinion: Impact of Colonialism and Neo-Colonialism
     on African Economies.’ *Nile Post*, September 2022.
     https://www.nilepost.co.ug.
     https://nilepost.co.ug/2022/09/30/opinion-impact-of-colonialism-and-neo-colonialism-on-african-economies/.
 
-[^58]: James Kielty, ‘The Mobile Landscape in South Korea.’ *Device
+[^03chapter1_58]: James Kielty, ‘The Mobile Landscape in South Korea.’ *Device
     Atlas*, February 2019.
     https://deviceatlas.com/blog/mobile-landscape-south-korea.
 
-[^59]: Fevzi Hussein, ‘Slavery Has Been Abolished for Over 200 Years –
+[^03chapter1_59]: Fevzi Hussein, ‘Slavery Has Been Abolished for Over 200 Years –
     or Has It?’, *T-Vine*, August 2021.
     https://www.t-vine.com/slavery-has-been-abolished-for-over-200-years-or-has-it/.
 
-[^60]: Gpsbob, ‘Home Plan GPS Tracking App & Software Free With Every
+[^03chapter1_60]: Gpsbob, ‘Home Plan GPS Tracking App & Software Free With Every
     Tracker Device’, *gpsbob.com*, February 2020,
     https://gpsbob.com/gps-tracking-app-software/.
 
-[^61]: Wikipedia contributors, ‘The Negro in American history’, 25
+[^03chapter1_61]: Wikipedia contributors, ‘The Negro in American history’, 25
     October 2021,
     https://vi.wikipedia.org/wiki/T%E1%BA%ADp\_tin:The\_Negro\_in\_American\_history\_%28microform%29\_-\_men\_and\_women\_eminent\_in\_the\_evolution\_of\_the\_American\_of\_African\_descent\_%281914%29\_%2814597416438%29.jpg.
 
-[^62]: Madhumita Murgia, ‘Microsoft Quietly Deletes Largest Public Face
+[^03chapter1_62]: Madhumita Murgia, ‘Microsoft Quietly Deletes Largest Public Face
     Recognition Data Set.’ *Financial Times*, June 2019.
     https://www.ft.com/content/7d3e0d6a-87a0-11e9-a028-86cea8523dc2.
 
-[^63]: Wikipedia contributors, ‘Human Zoo’, 10 October 2022,
+[^03chapter1_63]: Wikipedia contributors, ‘Human Zoo’, 10 October 2022,
     https://en.wikipedia.org/wiki/Human\_zoo\#/media/File:African\_Girl,\_1958\_Expo.jpeg.
 
-[^64]: The Asian Parent, ‘Children’s Rights in the Cyberspace’, *The
+[^03chapter1_64]: The Asian Parent, ‘Children’s Rights in the Cyberspace’, *The
     Asian Parent*, 2016,
     https://sg.theasianparent.com/parents-posting-naked-picture-children-online-sparks-debate.
 
-[^65]: Dmitriev Affair, ‘Deaths on the White Sea Canal, 1931-1933’, 19
+[^03chapter1_65]: Dmitriev Affair, ‘Deaths on the White Sea Canal, 1931-1933’, 19
     September 2019.
     https://dmitrievaffair.com/deaths-on-the-white-sea-canal/.
 
-[^66]: Catherine Thorbecke, ‘Facebook Tests Hiding Likes to See if It
+[^03chapter1_66]: Catherine Thorbecke, ‘Facebook Tests Hiding Likes to See if It
     Will Change How People Engage with Posts.’ *ABC News*, September
     2019.
     https://abcnews.go.com/Business/facebook-tests-hiding-likes-change-people-engage-posts/story?id=65901080.
 
-[^67]: WWNO, ‘Sighting the Sites of the New Orleans Slave Trade.’
+[^03chapter1_67]: WWNO, ‘Sighting the Sites of the New Orleans Slave Trade.’
     *WWNO*, November 2015.
     https://www.wwno.org/podcast/tripod-new-orleans-at-300/2015-11-05/sighting-the-sites-of-the-new-orleans-slave-trade.
 
-[^68]: Innovate Edu, ‘The Big Data Privacy Problem.’ *Innovate Edu*,
+[^03chapter1_68]: Innovate Edu, ‘The Big Data Privacy Problem.’ *Innovate Edu*,
     September 2014. https://innovate-edu.com/2014/09/.
 
-[^69]: WWNO, ‘Sighting the Sites of the New Orleans Slave Trade.’
+[^03chapter1_69]: WWNO, ‘Sighting the Sites of the New Orleans Slave Trade.’
     *WWNO*, November 2015.
 
-[^70]: University College Dublin, ‘Cape Town Slaves to Migrant Gold
+[^03chapter1_70]: University College Dublin, ‘Cape Town Slaves to Migrant Gold
     Miners: A Colonial Continuum in South Africa,’ *Stories of
     Discovery*, 15 September 2021.
     https://www.ucd.ie/discovery/storiesofdiscovery/capetownslavestomigrantgoldminers-acolonialcontinuuminsouthafrica.html.
 
-[^71]: Y&R, ‘Mercedes Right Brain - Left Brain.’ *Ads of the World,* 15
+[^03chapter1_71]: Y&R, ‘Mercedes Right Brain - Left Brain.’ *Ads of the World,* 15
     September 2021*.*
     https://www.adsoftheworld.com/campaigns/right-brain-left-brain.
 
-[^72]: The slogan of Prudential - a British multinational insurance
+[^03chapter1_72]: The slogan of Prudential - a British multinational insurance
     company. Prudential, ‘Always Listening, Always Understanding,’ *Our History*, 21 November 2022, https://www.prudential.com.sg/about/our-history.
 
-[^73]: Tariq Khokhar, ‘Chart: How Is the World's Youth Population
+[^03chapter1_73]: Tariq Khokhar, ‘Chart: How Is the World's Youth Population
     Changing?’ *World Bank*, 2017.
     https://blogs.worldbank.org/opendata/chart-how-worlds-youth-population-changing.
 
-[^74]: Eric Farny, ‘Dependency Theory: A Useful Tool for Analyzing
+[^03chapter1_74]: Eric Farny, ‘Dependency Theory: A Useful Tool for Analyzing
     Global Inequalities Today*?’ E-International Relations*, 19 June
     2016. https://www.e-ir.info/2016/11/23/dependency-theory-a-useful-tool-for-analyzing-global-inequalities-today.
 
-[^75]: Isaac K. Biney, ‘Revitalizing Blended and Self-Directed Learning
+[^03chapter1_75]: Isaac K. Biney, ‘Revitalizing Blended and Self-Directed Learning
     Among Adult Learners Through the Distance Education Mode of Learning
     in Ghana.’ In *Re-Envisioning and Restructuring Blended Learning for
     Underprivileged Communities*, edited by IGI Global, 185-203, 2021.
 
-[^76]: Tiago Peixoto and Micah L. Sifry, *Civic Tech in the Global
+[^03chapter1_76]: Tiago Peixoto and Micah L. Sifry, *Civic Tech in the Global
     South: Assessing Technology for the Public Good*, Washington, DC:
     World Bank and Personal Democracy Press, 2017.
 
-[^77]: Akira Muranaka, ‘Beyond Blue Ocean? The Roles of Intermediaries
+[^03chapter1_77]: Akira Muranaka, ‘Beyond Blue Ocean? The Roles of Intermediaries
     in the Cross‐Border Labour Market Between Japan and Vietnam.’
     *Global Networks* 22, no. 3 (2022): 514-529.
 
-[^78]: Simon Kemp, ‘Digital 2022: Vietnam.’ *DataReportal*, 1 March
+[^03chapter1_78]: Simon Kemp, ‘Digital 2022: Vietnam.’ *DataReportal*, 1 March
     2022. https://datareportal.com/reports/digital-2022-vietnam?rq=vietnam.
 
-[^79]: Statista, ‘Countries with the largest digital populations in the
+[^03chapter1_79]: Statista, ‘Countries with the largest digital populations in the
     world’, *statista.com*, 12 March 2022,
     https://www.statista.com/statistics/262966/number-of-internet-users-in-selected-countries/.
 
-[^80]: Hiền Minh, ‘Dự Báo An Ninh Mạng Năm 2022.’ *Báo Chính Phủ*, 2022,
+[^03chapter1_80]: Hiền Minh, ‘Dự Báo An Ninh Mạng Năm 2022.’ *Báo Chính Phủ*, 2022,
     https://baochinhphu.vn/du-bao-an-ninh-mang-nam-2022-102220119142521952.htm.
 
-[^81]: Ivan Sarafanov and Bai Shuqiang, ‘A Study on the Cooperation
+[^03chapter1_81]: Ivan Sarafanov and Bai Shuqiang, ‘A Study on the Cooperation
     Mechanism on Digital Trade within the WTO Framework: Based on an
     Analysis on the Status and Barriers to Digital Trade.’ *J. WTO &
     China* 7 (2017): 17.
     https://www.researchgate.net/figure/Legislations-on-Data-Protection-and-Privacy-Across-the-World-Source-UNCTAD-2015-Data-at\_fig4\_330411763.
 
-[^82]: Paul Bischoff, ‘Cybersecurity Rankings by Country: Which
+[^03chapter1_82]: Paul Bischoff, ‘Cybersecurity Rankings by Country: Which
     Countries Have the Worst (and Best) Cybersecurity?’ *Comparitech*,
     2022.
     https://www.comparitech.com/blog/vpn-privacy/cybersecurity-by-country/.
 
-[^83]: e-Governance Academy Foundation, ‘National Cyber Security Index’,
+[^03chapter1_83]: e-Governance Academy Foundation, ‘National Cyber Security Index’,
     12 March 2023, https://ncsi.ega.ee/ncsi-index/.
 
-[^84]: Statista, ‘Countries with the largest digital populations in the
+[^03chapter1_84]: Statista, ‘Countries with the largest digital populations in the
     world’, *statista.com*, 12 March 2022,
     https://www.statista.com/statistics/262966/number-of-internet-users-in-selected-countries/.
 
-[^85]: NACIS, ‘Pháp Luật Hiện Hành Của Việt Nam Về Bảo Vệ Dữ Liệu Thông
+[^03chapter1_85]: NACIS, ‘Pháp Luật Hiện Hành Của Việt Nam Về Bảo Vệ Dữ Liệu Thông
     Tin Cá Nhân và Quyền Riêng Tư.’ *NACIS*, 15 March 2022.
     https://nacis.gov.vn.
 
-[^86]: Thư viện pháp luật, ‘Luật an ninh mạng’, *Thư viện pháp luật*, 15
+[^03chapter1_86]: Thư viện pháp luật, ‘Luật an ninh mạng’, *Thư viện pháp luật*, 15
     March 2022.
     https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Luat-an-ninh-mang-2018-351416.aspx.
 
-[^87]: Lưu Minh Sang and Trần Đức Thành, ‘Trí Tuệ Nhân Tạo và Những
+[^03chapter1_87]: Lưu Minh Sang and Trần Đức Thành, ‘Trí Tuệ Nhân Tạo và Những
     Thách Thức Pháp Lý.’ *Tạp Chí Khoa Học Công Nghệ Việt Nam*, 2020.
     https://vjst.vn/vn/tin-tuc/3303/tri-tue-nhan-tao-va-nhung-thach-thuc-phap-ly.aspx.

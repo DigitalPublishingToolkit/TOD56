@@ -24,7 +24,7 @@ Within the fractured web of human and artificial cognition, the tale
 *total* history collapses under its own ambition. As Claude Lévi-Strauss
 postulated, history, when strained through the sieve of totality,
 delivers nothing but a skewed portrait, incomplete and selective, marked
-by discontinuities that belie the façade of continuity.[^1] This story
+by discontinuities that belie the façade of continuity.[^08chapter6_1] This story
 dives into the pulsing heart of advertising in the algorithmic age,
 scrutinizing the interplay of politics, economics, geography, and
 culture on a canvas that is both vast and intricately detailed. We will
@@ -49,7 +49,7 @@ citizens of developing countries, especially in Southeast Asia. While
 the Internet connects people to information, in itself the Internet is a
 promise that opens the user to new employment, new opportunities and new
 experiences. The global village - cyberspace - is expected to be the
-driving force for *flattening the world*.[^2] Google, YouTube, Facebook,
+driving force for *flattening the world*.[^08chapter6_2] Google, YouTube, Facebook,
 Instagram, What's App, TikTok, Amazon, Alibaba, Apple, and Samsung have
 given hope that new living conditions and international spaces will
 allow the populations of developing countries access to a living
@@ -60,22 +60,22 @@ located to the south and east of the Asian region, including Brunei,
 Cambodia, Timor-Leste, Indonesia, Laos, Malaysia, Myanmar (also known as
 Burma), the Philippines, Singapore, Thailand, and Vietnam. The region is
 known for its diverse cultures, tropical climates, beautiful nature,
-rich history, and vibrant economies.[^3] Southeast Asia is considered
+rich history, and vibrant economies.[^08chapter6_3] Southeast Asia is considered
 the most accessible tropical region in the world since it is
 strategically located on the sea route between East Asia and the Middle
-East-Mediterranean world.[^4] More than a thousand years ago, Southeast
-Asia was considered a Suvarnabhūmi (Sanskrit: Land of Gold).[^5] Hence,
+East-Mediterranean world.[^08chapter6_4] More than a thousand years ago, Southeast
+Asia was considered a Suvarnabhūmi (Sanskrit: Land of Gold).[^08chapter6_5] Hence,
 this has been the most frequently invaded area by people outside the
 region. Chinese, European, Japanese, and American colonization have had
 profound impacts on the cultural, economic, and political
 characteristics of the area.
 
 From 111 BC to 938 AD, for more than a thousand years, Northern Vietnam
-was under Chinese rule.[^6] China has had a long history of cultural,
+was under Chinese rule.[^08chapter6_6] China has had a long history of cultural,
 economic, and political influence in the whole region. In the 19th and
 early 20th centuries, the Chinese influence in Southeast Asia became
 more intense; large numbers of Chinese immigrants arrived in the region,
-particularly in present-day Thailand, Malaysia, and Indonesia.[^7]
+particularly in present-day Thailand, Malaysia, and Indonesia.[^08chapter6_7]
 
 Various European powers also exerted their influence and control over
 Southeast Asia for hundreds of years, including the Portuguese, Spanish,
@@ -86,26 +86,26 @@ the region soon after and established their own colonies, including
 present-day Indonesia and parts of Malaysia. In the 19th century, the
 British established colonies in present-day Malaysia, Singapore, and
 Myanmar (Burma), while the French established colonies in present-day
-Vietnam, Cambodia, and Laos.[^8] These colonial powers brought Western
+Vietnam, Cambodia, and Laos.[^08chapter6_8] These colonial powers brought Western
 ideologies and practices to the region which have had a profound impact
 on the economies, cultures, and politics of this area.
 
 During World War II, Japanese Fascism invaded most of the former Western
 colonies under the concept of *Greater East Asia Co-Prosperity
-Sphere*.[^9] The Japanese occupation had significant consequences on the
+Sphere*.[^08chapter6_9] The Japanese occupation had significant consequences on the
 region, causing widespread suffering, displacement, and economic
 disruption. After Japan's defeat in the war, many of the former Western
 colonies in Southeast Asia became independent nations.
 
 The United States took the Philippines from Spain in 1898. Internal
 autonomy was granted in 1934, and Filipinos celebrated their
-independence in 1946.[^10] The US has had a remarkable political,
+independence in 1946.[^08chapter6_10] The US has had a remarkable political,
 economic, and military influence in the region throughout the 20th
 century and into the 21st century. During the Cold War, the US was
 involved in supporting anti-communist governments and military forces in
 Southeast Asia, most notably in the conflict in Vietnam that lasted from
 1955 to 1975 and had a long-lasting impact on Vietnamese and the
-region.[^11]
+region.[^08chapter6_11]
 
 The consequences of colonialism, independence struggles and wars left
 various enduring socio-cultural issues in each country in Southeast
@@ -118,9 +118,9 @@ are often more modest, with limited access to basic services such as
 clean water, electricity, and healthcare. Based on economic situations,
 countries like Brunei, Singapore and Malaysia have a high standard of
 living, while countries like Myanmar, Cambodia and Laos have a lower
-standard of living.[^12]
+standard of living.[^08chapter6_12]
 
-![Figure 6.1: Per Capital GDP in Southeast Asia ©Wikimedia Commons.[^13]](imgs/TRA_Figure S6. 1.jpg)
+![Figure 6.1: Per Capital GDP in Southeast Asia ©Wikimedia Commons.[^08chapter6_13]](imgs/TRA_Figure S6. 1.jpg)
 
 <br/>
 
@@ -144,29 +144,29 @@ internet fell into a range as low as 37% in Timor-Leste to a high of
 93.8% in Malaysia. In general, internet penetration is highest in more
 developed countries like Singapore, Malaysia, and Thailand, and lower in
 less developed countries like Cambodia, Laos, Myanmar and Timor-
-Leste.[^14]
+Leste.[^08chapter6_14]
 
 Southeast Asia is considered to be a rapidly growing market for
 e-commerce, with countries like Indonesia, Thailand, Vietnam, and the
 Philippines witnessing a significant increase in online shopping. The
 region is home to over 650 million consumers, making it an attractive
-destination for both local and international businesses.[^15] The
+destination for both local and international businesses.[^08chapter6_15] The
 factors driving the growth of e-commerce in the region include the
 increasing availability of the Internet and mobile devices, the growing
 middle class, and a younger demographic that is mainly a digital native
-generation, who are familiar and comfortable with online purchases.[^16]
+generation, who are familiar and comfortable with online purchases.[^08chapter6_16]
 In addition, improvements in logistics and delivery infrastructure make
 it more efficient for businesses to reach customers across the region.
 As a result, the e-commerce market in Southeast Asia is expected to
 continue growing with projections that it could reach over 200 billion
-dollars by 2025.[^17] This is considered an emerging digital colonial
+dollars by 2025.[^08chapter6_17] This is considered an emerging digital colonial
 market that is the targeted market of not only global digital empires
 but also local digital imperials. Former colonized peoples have become
 the new colonizers in their own region.
 
 There is a mix of local and international e-commerce platforms operating
 in the region, most notably including Lazada, Shopee, Grab, Zalora,
-Tokopedia.[^18] All the e-commerce platforms originate from Singapore
+Tokopedia.[^08chapter6_18] All the e-commerce platforms originate from Singapore
 and operate extensively throughout Southeast Asia, except for the
 Indonesian Tokopedia. The e-commerce platform Lazada was acquired by
 China's Alibaba Group in 2016. Alibaba's acquisition of Lazada
@@ -186,7 +186,7 @@ growing industry. Key players in the region include Google, Facebook,
 Lazada and TikTok, and regional platforms such as Shopee and Tokopedia.
 There is not enough yet consideration of privacy issues and a lack of
 common regulations on how to handle personal data in the region, the
-basis for targeted advertising to develop rapidly at the moment.[^19]
+basis for targeted advertising to develop rapidly at the moment.[^08chapter6_19]
 Various local businesses make efforts to do business and advertise on
 social networking platforms such as YouTube, Facebook, Instagram, and
 TikTok. Purchasing ads on social networks is vital to the success of
@@ -195,7 +195,7 @@ networks and the purchase of social network ads have currently become
 common business practices in Southeast Asia, especially in Vietnam.
 
 E-commerce in Vietnam has also experienced remarkable growth in recent
-years.[^20] Major e-commerce players in the Vietnamese market include
+years.[^08chapter6_20] Major e-commerce players in the Vietnamese market include
 Lazada, Shoppe, and Tiki (a local e-commerce platform), while social
 media platforms like Facebook and Instagram are also popular channels
 for online shopping. The key platforms in digital advertising in Vietnam
@@ -220,18 +220,18 @@ and multi-stakeholder economy since the late 1980s. The State currently
 plays the role of coordinating private sector and international trade
 through policies and laws. The State-owned companies that were
 established during the economic reforms period known as *Đổi mới* (the
-1980s) have largely been privatized or sold to the private sector.[^21]
+1980s) have largely been privatized or sold to the private sector.[^08chapter6_21]
 The Vietnamese government, however, implemented different policies
 supporting the development of information technology and e-commerce
-enterprises.[^22] Tiki and Zalo are two typical representations deriving
+enterprises.[^08chapter6_22] Tiki and Zalo are two typical representations deriving
 significant benefits from the incentives provided by this policy
-shift.[^23]
+shift.[^08chapter6_23]
 
 The rapid development of the e-commerce and digital media market in
 Vietnam has also created pressure and confusion in dealing with arising
 social issues related to this new phenomenon. As a general issue, the
 growing power of multinational corporations generates numerous
-difficulties in the enactment of law and policy.[^24] The situation has
+difficulties in the enactment of law and policy.[^08chapter6_24] The situation has
 become more complicated and urgent with the profound impacts of
 multinational platforms. In the era of transnational digital
 connectivity, international political conditions play a crucial role.
@@ -244,7 +244,7 @@ especially in Southeast Asia–a region of cultural diversity, language,
 and political institutions. Furthermore, remnants of patriotism from the
 period of liberation revolutions have made the unifying process more
 complex. Various currents of conservative nationalist thought continue
-to play a decisive role in numerous parts of this region.[^25] Facing
+to play a decisive role in numerous parts of this region.[^08chapter6_25] Facing
 the social technological challenge, instead of trying to coordinate
 regulations, many countries choose to solve their problems locally. In
 an effort to control this situation, several governments have employed
@@ -254,7 +254,7 @@ algorithms to impose cyber fences and walls within their countries.
 
 For the former colonial countries on the road to development, their
 optimistic dreams about *the flat world* are, in fact, simply colorful
-and fragile soap bubbles.[^26] The ideas of non-boundary connectivity
+and fragile soap bubbles.[^08chapter6_26] The ideas of non-boundary connectivity
 exist together with the algorithmic barriers; the dreams of an ideal
 cyber life go along with the possibility of being exploited again in
 another way; the promised equality cannot bridge social distances
@@ -273,7 +273,7 @@ to create digital censorship. Imposed by governments, private companies,
 or other entities, digital censorship is normally claimed with various
 reasons, such as protecting national security, preventing the spread of
 harmful or offensive content, or suppressing dissenting opinions.
-[^27] [^28] Common examples of digital censorship include the
+[^08chapter6_27] [^08chapter6_28] Common examples of digital censorship include the
 blocking of social media platforms like Facebook or Twitter, the removal
 of specific websites or content from search engines, and the use of
 filters or firewalls to prevent access to certain types of information
@@ -319,7 +319,7 @@ significantly obstructed by a biased legal system. As Pasquale wrote in
 > agreements, ‘proprietary methods’, and gag rules, our own lives are
 > becoming increasingly open books. Everything we do online is recorded;
 > the only questions left are to whom the data will be available, and
-> for how long.[^29]
+> for how long.[^08chapter6_29]
 
 As a matter of fact, human rights in cyberspace are an important issue,
 which has not received enough attention in various parts of the world
@@ -331,9 +331,9 @@ Globally, multinational technology corporations are gradually
 establishing various powerful digital states. At the present, Alphabet,
 Meta, Amazon, and Alibaba own billions of active accounts, a number much
 larger than the population of many countries around the world. In the
-Southeast Asia region, there are over 400 million internet users[^30] and,
+Southeast Asia region, there are over 400 million internet users[^08chapter6_30] and,
 among them, young people between the ages of 16 and 24 are spending an
-average of 10 hours a day in cyberspace.[^31]
+average of 10 hours a day in cyberspace.[^08chapter6_31]
 
 ![Figure 6.2: Daily Time Spent With Media: S.E. Asia Young Adults.
 ©datareportal.com.](imgs/TRA_Figure S6. 2.jpg)
@@ -362,19 +362,19 @@ however, they are common sense.
 
 Furthermore, platform corporations also emphasize their state characters
 in their imperialist act of annexation. At the present, Google,
-Facebook, and Amazon are the dominant empires in the West.[^32] Baidu,
+Facebook, and Amazon are the dominant empires in the West.[^08chapter6_32] Baidu,
 Alibaba, Tencent, and Xiaomi of China are trying to expand their
-dominance in the Eastern Region.[^33] These companies are constantly
+dominance in the Eastern Region.[^08chapter6_33] These companies are constantly
 expanding their power by acquiring smaller companies, especially as it
 becomes public and a potential threat. Google itself is among the most
 prolific acquirers of start-up companies; at some stages, it has
-purchased a new venture weekly.[^34] Facebook has also swallowed
+purchased a new venture weekly.[^08chapter6_34] Facebook has also swallowed
 Instagram (\$1bn), WhatsApp (\$19bn), and Oculus (\$2bn) and invested in
-drone-based internet, e-commerce, and payment services.[^35] In 2016,
+drone-based internet, e-commerce, and payment services.[^08chapter6_35] In 2016,
 Alibaba acquired a controlling stake in Lazada–a leading e-commerce
-platform in Southeast Asia, for \$1 billion[^36]; in 2018, it also acquired
+platform in Southeast Asia, for \$1 billion[^08chapter6_36]; in 2018, it also acquired
 Daraz–an e-commerce platform in South Asia that operates in Pakistan,
-Bangladesh, Myanmar, Sri Lanka, and Nepal.[^37]
+Bangladesh, Myanmar, Sri Lanka, and Nepal.[^08chapter6_37]
 
 The takeover of other companies has become a common strategy of
 technology corporations. These acquisitions mostly aim to achieve
@@ -398,11 +398,11 @@ AI and exploit Big data on the Internet through algorithms. Meanwhile,
 most server farms–the brains of AI, and technologies related to machine
 learning applications are the property of platform corporations. Even
 the US government must spend public money to rent cloud computing
-services from the clouds of Amazon or Microsoft.[^38] Clearly, owning
+services from the clouds of Amazon or Microsoft.[^08chapter6_38] Clearly, owning
 such a progressive infrastructure is much more difficult for developing
 countries. AI has become a target of the race among tech giants. As Amy
 Webb mentioned that ‘The supranational flatforms are the most control
-over the future of AI’.[^39] The potential for big tech empires to
+over the future of AI’.[^08chapter6_39] The potential for big tech empires to
 monopolize cyberspace into the future is strong, limiting the
 opportunity for developing countries to own of AI technology.
 
@@ -421,7 +421,7 @@ infrastructure. They normally require or even oblige citizens to use
 this infrastructure. For example, China banned the operation of global
 platforms operating on their territory, and the Chinese government now
 restricts their population to the use of only national
-applications.[^40]
+applications.[^08chapter6_40]
 
 Digital inequality in cyberspace has also been reflected in labour
 peculiarities in the information technology industry. There is a
@@ -437,7 +437,7 @@ technology industry. In the humorous words of Lovink, ‘The tech
 elite—the group of (usually young, white and male) developers as a
 *pure* medium; an abstract mathematical environment, untouched by
 society, neutral of class, gender or race, capable of *routing around*
-the problems caused by the dirty old world outside’.[^41] The social
+the problems caused by the dirty old world outside’.[^08chapter6_41] The social
 impacts of the tech-elite are enormous in the digital era. Many machine
 decisions are influenced by their creators of various algorithms. For
 example, at present, the right of decision-making on blocked
@@ -445,30 +445,30 @@ information, target audience, and government loans is mostly based on
 programming formulas. As Tristan Harris stated during the Congressional
 Hearing in the US on January 8, 2020: ‘Never before in history have 50
 designers made decisions that would have an impact on two billion
-people.’[^42]
+people.’[^08chapter6_42]
 
 Meanwhile, many workers serving in the technological industry are based
 in low-wage regions such as nations in the southern hemisphere and
 developing countries. These worker positions are often ‘shaped by
 implicit ideas that such populations don’t need—or are less deserving
-of—livable wages and economic stability.’[^43] The lives of low-wage
+of—livable wages and economic stability.’[^08chapter6_43] The lives of low-wage
 workers are impacted by the precarious living standards of the
 localities where they reside. To some extent, low-income tech workers
 suffer from a new form of slave exploitation. At present, we do not see
 large-scale labor exploitation through slavery, which often requires
 spreading racist beliefs that dehumanized entire populations in the last
-centuries.[^44] Neo-slavery developed on the background of cheap and
-precarious exploitative labor practices.[^45] Regularly, low-income tech
+centuries.[^08chapter6_44] Neo-slavery developed on the background of cheap and
+precarious exploitative labor practices.[^08chapter6_45] Regularly, low-income tech
 workers are assigned to simple jobs that serve the system processes and
 are paid according to the practice of piece work.
 
 For example, to learn about this job market, Elisa Giardina Papa, an
 Italian artist, worked remotely for several North American
 *human-in-the-loop* companies that provide *clean* datasets to train AI
-algorithms to detect emotions.[^46] Among the tasks that the artist
+algorithms to detect emotions.[^08chapter6_46] Among the tasks that the artist
 performed were categorizing emotions, annotation of facial expressions
 and recording her own image to animate three-dimensional
-characters.[^47] The purposes of this work are used either to identify
+characters.[^08chapter6_47] The purposes of this work are used either to identify
 the moods of consumers or to detect potentially dangerous citizens who
 pose a threat to the state. Numerous tech workers in developing
 countries received similarly small tasks, working 15 to 18 hours a day
@@ -476,7 +476,7 @@ to earn a small amount of income. Various tech companies are pushing
 these people into slave working conditions. Naomi Klein claimed that
 ‘Job cannot call a real job when it does not provide the workers with
 the proper working conditions, working benefits for a sustainable
-living.’[^48]
+living.’[^08chapter6_48]
 
 The situation of this labour inequality tends to increase with the
 development of technology. The automation era will first affect
@@ -493,14 +493,14 @@ In addition, technology corporations also pay attention to geographical
 aspects when considering the possible technologically experimental or
 trial markets. In 2017, Facebook launched its online shopping platform,
 Marketplace, in several Asian countries, including India, Indonesia, and
-Thailand.[^49] In 2019, Amazon began to test its cashier-less
-convenience store concept, Amazon Go, in Mexico City.[^50] In the
+Thailand.[^08chapter6_49] In 2019, Amazon began to test its cashier-less
+convenience store concept, Amazon Go, in Mexico City.[^08chapter6_50] In the
 article *South Africa’s Private Surveillance Machine is Fueling a
 Digital Dpartheid* Karen Hao and Heidi Swartz specifically described how
 tech corporations in South Africa have been using AI surveillance tools
-to monetize their private security surveillance business.[^51] Tracking
+to monetize their private security surveillance business.[^08chapter6_51] Tracking
 population movement and facial recognition systems to trace individuals
-is being done through thousands of private cameras in Johannesburg.[^52]
+is being done through thousands of private cameras in Johannesburg.[^08chapter6_52]
 Public data has been stored by private companies and commercialized
 freely on the market. This surveillance application is considered to be
 the initial trial for the further surveillance systems of the other
@@ -550,10 +550,10 @@ ranging from simple devices to more advanced AI technology, from global
 to local forces, from both physical and mental influences. For economic
 benefits, digital owners apply various tactics and strategies.
 Ironically, even Google recognized its own influence when it began to
-use the slogan ‘Don't Be Evil’ in 2000s.[^53] As Coeckelbergh warned,
+use the slogan ‘Don't Be Evil’ in 2000s.[^08chapter6_53] As Coeckelbergh warned,
 ‘AI may lead to new forms of manipulation, surveillance, and
 totalitarianism, not necessarily in the form of authoritarian politics
-but in a more hidden and highly effective way’.[^54]
+but in a more hidden and highly effective way’.[^08chapter6_54]
 
 Southeast Asians have been eager to find a new horizon and to undertake
 an emotional, mental, and physical migration to the digital world.
@@ -570,18 +570,18 @@ exploitation.
 
 In Southeast Asia, a limited number of community actions focused on
 these issues have been launched, the forthcoming Asia-Pacific Digital
-Rights Festival being one of them.[^55] The week-long festival in May
+Rights Festival being one of them.[^08chapter6_55] The week-long festival in May
 2023 in Chiang Mai, Thailand aims to promote and protect digital rights
 in the Asia-Pacific and is expected to be the largest-ever gathering
 focused on this region. The 3rd ASEAN Digital Ministers’ meeting, which
 took place on February 2023, was also organized to conduct general
 discussions on new policies related to artificial Intelligence
 technologies, leading towards an innovative, responsible and secure
-ecosystem in the region.[^56]
+ecosystem in the region.[^08chapter6_56]
 
 Southeast Asia is an experimental, data, consumer, advertising and
 labour market for AI capitalist corporations. AI is considered to be the
-foundational infrastructure of 21st-century society.[^57] Are developing
+foundational infrastructure of 21st-century society.[^08chapter6_57] Are developing
 countries in Southeast Asia able to own AI capital without the
 revolution that would turn it into public ownership? This question might
 not be answered with a conservative-nationalist approach. Moving towards
@@ -589,7 +589,7 @@ regional and global integration is essential for securing an equal
 future for the global population in general, and for the people of
 Southeast Asia region in particular.
 
-**References**
+## References
 
 Baten, Jörg. *A History of the Global Economy. From 1500 to the
 Present*. Cambridge: Cambridge University Press, 2016. p. 286. ISBN
@@ -675,63 +675,63 @@ Machines Could Warp Humanity*. Hachette UK, 2019.
 Zhuang, Guotu. ‘The Overseas Chinese: A Long History.’ *UNESCO Courier*.
 2021.
 
-[^1]: Claude Lévi-Strauss, *The Savage Mind*, Chicago: University of
+[^08chapter6_1]: Claude Lévi-Strauss, *The Savage Mind*, Chicago: University of
     Chicago Press, 1962. p. 257.
 
-[^2]: *flattening the world* is another way of forming the notable
+[^08chapter6_2]: *flattening the world* is another way of forming the notable
     concept *The World Is Flat* which appeared in the book *The World Is
     Flat: A Brief History of the Twenty-first Century*.
 
     Thomas L Friedman, *The World Is Flat: A Brief History of the
     Twenty-First Century*, Macmillan, 2005.
 
-[^3]: Encyclopædia Britannica, ‘Southeast Asia’*,* *britannica.com*, 20
+[^08chapter6_3]: Encyclopædia Britannica, ‘Southeast Asia’*,* *britannica.com*, 20
     April 2021. https://www.britannica.com.
 
-[^4]: Encyclopædia Britannica, ‘Southeast Asia’*,* *britannica.com*, 20
+[^08chapter6_4]: Encyclopædia Britannica, ‘Southeast Asia’*,* *britannica.com*, 20
     April 2021. https://www.britannica.com.
 
-[^5]: Encyclopædia Britannica, ‘Southeast Asia’*,* *britannica.com*, 20
+[^08chapter6_5]: Encyclopædia Britannica, ‘Southeast Asia’*,* *britannica.com*, 20
     April 2021. https://www.britannica.com.
 
-[^6]: Laurence Bergreen, *Magellan's Terrifying Circumnavigation of the
+[^08chapter6_6]: Laurence Bergreen, *Magellan's Terrifying Circumnavigation of the
     Globe*. HarperPerennial, 2003.
 
-[^7]: Guotu Zhuang, ‘The Overseas Chinese: A Long History.’ *UNESCO
+[^08chapter6_7]: Guotu Zhuang, ‘The Overseas Chinese: A Long History.’ *UNESCO
     Courier*, 2021.
     https://en.unesco.org/courier/2021-4/overseas-chinese-long-history\#:\~:text=By%20the%20beginning%20of%20the,them%20settled%20in%20Southeast%20Asia.
 
-[^8]: Jörg Baten, *A History of the Global Economy. From 1500 to the
+[^08chapter6_8]: Jörg Baten, *A History of the Global Economy. From 1500 to the
     Present*, Cambridge: Cambridge University Press, 2016. p. 286. ISBN
     978-1-107-50718-0.
 
-[^9]: John W Dower, *War Without Mercy: Race and Power in the Pacific
+[^08chapter6_9]: John W Dower, *War Without Mercy: Race and Power in the Pacific
     War*, 1st ed. New York: Pantheon Books, 1986.
 
-[^10]: Murat Halstead, *The Story of the Philippines and Our New
+[^08chapter6_10]: Murat Halstead, *The Story of the Philippines and Our New
     Possessions, Including the Ladrones, Hawaii, Cuba and Porto Rico,*
     1898. http://books.google.com/books?id=lIQcwt7g2wkC; Proclamation, ‘Independence of the Philippines’*, archives.gov*, 26
     May 2020, https://www.archives.gov/federal-register/codification/proclamations/02695.html.
 
-[^11]: Ronald H. Spector, ‘Vietnam War’, *Britannica*, 20 May 2020.
+[^08chapter6_11]: Ronald H. Spector, ‘Vietnam War’, *Britannica*, 20 May 2020.
     Available at: https://www.britannica.com/event/Vietnam-War.
 
-[^12]: IMF, ‘World Economic Outlook (December 2020) – Nominal GDP per
+[^08chapter6_12]: IMF, ‘World Economic Outlook (December 2020) – Nominal GDP per
     Capita.’ *International Monetary Fund* (IMF), 2020.
     https://www.imf.org.
 
-[^13]: Wikipedia contributors, ‘Southeast Asia’, 10 November 2020.
+[^08chapter6_13]: Wikipedia contributors, ‘Southeast Asia’, 10 November 2020.
     https://en.wikipedia.org/wiki/Southeast\_Asia.
 
-[^14]: Statista, ‘Internet penetration in Southeast Asia as of July
+[^08chapter6_14]: Statista, ‘Internet penetration in Southeast Asia as of July
     2022, by country’, *statista.com*, 2 May 2023.
     https://www.statista.com/statistics/487965/internet-penetration-in-southeast-asian-countries.
 
-[^15]: Yinglan Tan, ‘Southeast Asia's Retail Boom Fuels the Rise of
+[^08chapter6_15]: Yinglan Tan, ‘Southeast Asia's Retail Boom Fuels the Rise of
     Logistics.’ *Forbes*, 2019.
     https://www.forbes.com/sites/tanyinglan/2019/01/18/southeast-asias-retail-boom-fuels-the-rise-of-logistics/?sh=3884346b7148.
 
-[^16]: The digital native term specifically applied to the generation
+[^08chapter6_16]: The digital native term specifically applied to the generation
     that grew up in the *digital age*, predominantly regarding
     individuals born after the year 1980.
 
@@ -739,24 +739,24 @@ Zhuang, Guotu. ‘The Overseas Chinese: A Long History.’ *UNESCO Courier*.
     Proceedings*, vol. 61, no. 4, 364-379. Emerald Group Publishing
     Limited, 2009.
 
-[^17]: Statista, ‘Value of the e-commerce market in Southeast Asia from
+[^08chapter6_17]: Statista, ‘Value of the e-commerce market in Southeast Asia from
     2019 to 2022 and a forecast for 2025’, *statista.com*, 2 May 2023.
     https://www.statista.com/statistics/958414/southeast-asia-e-commerce-market-value/\#:\~:text=In%202022%2C%20the%20e%2Dcommerce,approximately%20131%20billion%20U.S.%20dollars.
 
-[^18]: Marcia Kaplan, ‘Southeast Asia Tops Worldwide Ecommerce Growth.’
+[^08chapter6_18]: Marcia Kaplan, ‘Southeast Asia Tops Worldwide Ecommerce Growth.’
     *Practical Ecommerce*, 2022.
     https://www.practicalecommerce.com/southeast-asia-tops-worldwide-ecommerce-growth.
 
-[^19]: Natasha Beschorner, ‘The Digital Economy in Southeast Asia:
+[^08chapter6_19]: Natasha Beschorner, ‘The Digital Economy in Southeast Asia:
     Emerging Policy Priorities and Opportunities for Regional
     Collaboration.’ In *New Dimensions of Connectivity in the
     Asia-Pacific*, 121-156, 2021.
 
-[^20]: Vietnam - Country Commercial Guide*,* ‘Assessment of Current
+[^08chapter6_20]: Vietnam - Country Commercial Guide*,* ‘Assessment of Current
     Buyer Behavior in Market’, *trade.gov*, 22 March 2023.
     https://www.trade.gov/country-commercial-guides/vietnam-ecommerce.
 
-[^21]: *Đổi Mới* is the name given to the economic reforms initiated in
+[^08chapter6_21]: *Đổi Mới* is the name given to the economic reforms initiated in
     Vietnam in 1986 with the goal of creating a *socialist-oriented
     market economy*. The term *đổi mới* itself is a general term with
     wide use in the Vietnamese language meaning *innovate*’ or
@@ -765,132 +765,132 @@ Zhuang, Guotu. ‘The Overseas Chinese: A Long History.’ *UNESCO Courier*.
     Wikipedia contributors, ‘Đổi Mới’, 10 November 2020.
     https://en.wikipedia.org/wiki/%C4%90%E1%BB%95i\_M%E1%BB%9Bi.
 
-[^22]: Vietnam - Ministry of Planning and Investment, ‘Policy supporting
+[^08chapter6_22]: Vietnam - Ministry of Planning and Investment, ‘Policy supporting
     development the digital economy in Vietnam’, *fia.mpi.gov.vn*, 20
     May 2022.
     https://fia.mpi.gov.vn/en/Detail/CatID/1c9dee34-6455-4d73-8b8c-71a35a99b8ae/NewsID/6ccb38b8-7290-416a-9b43-d806eb4fc49b.
 
-[^23]: Luật Việt Nam, ‘Nhiều ưu đãi thuế dành cho doanh nghiệp công nghệ
+[^08chapter6_23]: Luật Việt Nam, ‘Nhiều ưu đãi thuế dành cho doanh nghiệp công nghệ
     thông tin’, *luatvietnam.vn,* 22 April 2023. https://luatvietnam.vn/thue-phi-le-phi/uu-dai-thue-cho-doanh-nghiep-cong-nghe-thong-tin-565-24815-article.html\#:\~:text=Thu%E1%BA%BF%20su%E1%BA%A5t%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp,%C4%91%E1%BA%A7u%20ti%C3%AAn%20c%C3%B3%20doanh%20thu.
 
-[^24]: Naomi Klein, *No Logo: No Space, No Choice, No Jobs*, Picador,
+[^08chapter6_24]: Naomi Klein, *No Logo: No Space, No Choice, No Jobs*, Picador,
     2009.
 
-[^25]: Prasenjit Duara, *Nationalism and Development in Asia*, No.
+[^08chapter6_25]: Prasenjit Duara, *Nationalism and Development in Asia*, No.
     2018/95. WIDER Working Paper, 2018.
 
-[^26]: *the flat world* is another way of forming the notable concept
+[^08chapter6_26]: *the flat world* is another way of forming the notable concept
     *The World Is Flat* which appeared in the book *The World Is Flat: A
     Brief History of the Twenty-first Century* by Thomas L. Friedman.
 
     Thomas L Friedman, *The World Is Flat: A Brief History of the
     Twenty-First Century*, Macmillan, 2005.
 
-[^27]: George Danezis, ‘The Dawn of Cyber-Colonialism.’ *Conspicuous
+[^08chapter6_27]: George Danezis, ‘The Dawn of Cyber-Colonialism.’ *Conspicuous
     Chatter*, 2014.
 
-[^28]: Giovanni Sartor and Andrej Loreggia, ‘The Impact of Algorithms
+[^08chapter6_28]: Giovanni Sartor and Andrej Loreggia, ‘The Impact of Algorithms
     for Online Content Filtering or Moderation.’ *Upload Filters*, 2020.
 
-[^29]: Frank Pasquale, *The Black Box Society: The Secret Algorithms
+[^08chapter6_29]: Frank Pasquale, *The Black Box Society: The Secret Algorithms
     That Control Money and Information*. Harvard University Press, 2015.
     p.3.
 
-[^30]: Statista, ‘Internet usage in Southeast Asia - statistics & fact’,
+[^08chapter6_30]: Statista, ‘Internet usage in Southeast Asia - statistics & fact’,
     *statista.com,* 22 May 2022. https://www.statista.com/topics/9093/internet-usage-in-southeast-asia/\#topicOverview.
 
-[^31]: Data Reportal, ‘The Social Media Habits of Young People In
+[^08chapter6_31]: Data Reportal, ‘The Social Media Habits of Young People In
     South-East Asia’, *datareportal.com, 12 May 2021.*
     https://datareportal.com/reports/digital-youth-in-south-east-asia-2021.
 
-[^32]: Financial Times, ‘The Economics of Big Tech’, *ft.com*, 29 March
+[^08chapter6_32]: Financial Times, ‘The Economics of Big Tech’, *ft.com*, 29 March
     2018. https://www.ft.com/economics-of-big-tech.
 
-[^33]: Business Hub, ‘From Alibaba and Huawei to Tencent and Baidu,
+[^08chapter6_33]: Business Hub, ‘From Alibaba and Huawei to Tencent and Baidu,
     these are China’s biggest tech firms’, *ns-businesshub.com,* 22
     December 2022*.*
     https://www.ns-businesshub.com/technology/biggest-chinese-tech-companies.
 
-[^34]: Nick Srnicek, ‘We Need to Nationalise Google, Facebook and
+[^08chapter6_34]: Nick Srnicek, ‘We Need to Nationalise Google, Facebook and
     Amazon. Here’s Why.’ *The Guardian*, August, 2017.
     https://www.theguardian.com/commentisfree/2017/aug/30/nationalise-google-facebook-amazon-data-monopoly-platform-public-interest.
 
-[^35]: Nick Srnicek, ‘We Need to Nationalise Google, Facebook and
+[^08chapter6_35]: Nick Srnicek, ‘We Need to Nationalise Google, Facebook and
     Amazon. Here’s Why.’ *The Guardian*, August, 2017.
 
-[^36]: Yessar Rosendar, ‘Alibaba Invests \$378.5 Million Into Its
+[^08chapter6_36]: Yessar Rosendar, ‘Alibaba Invests \$378.5 Million Into Its
     Southeast Asia Arm Lazada.’ *Forbes*, 2022.
     https://www.forbes.com/sites/yessarrosendar/2022/05/09/alibaba-invests-3785-million-into-its-southeast-asia-arm-lazada/?sh=5128b5d468db.
 
-[^37]: Ryan Browne, ‘Alibaba Expands South Asia Footprint, Snapping up
+[^08chapter6_37]: Ryan Browne, ‘Alibaba Expands South Asia Footprint, Snapping up
     Pakistani Online Retailer Daraz.’ *CNBC*, 8 May 2018.
     https://www.cnbc.com/2018/05/08/alibaba-buys-rocket-internet-backed-daraz-in-south-asia-expansion.html.
 
-[^38]: Aaron Gregg, ‘Amazon Launches New Cloud Storage Service for U.S.
+[^08chapter6_38]: Aaron Gregg, ‘Amazon Launches New Cloud Storage Service for U.S.
     Spy Agencies.’ *The Washington Post*, 20 November 2017.
     https://www.washingtonpost.com/news/business/wp/2017/11/20/amazon-launches-new-cloud-storage-service-for-u-s-spy-agencies.
 
-[^39]: Amy Webb, *The Big Nine: How the Tech Titans and Their Thinking
+[^08chapter6_39]: Amy Webb, *The Big Nine: How the Tech Titans and Their Thinking
     Machines Could Warp Humanity,* Hachette UK, 2019.
 
-[^40]: Sapore di Cina, ‘The List of Blocked Websites in China’,
+[^08chapter6_40]: Sapore di Cina, ‘The List of Blocked Websites in China’,
     *saporedicina.com,* 22 May 2022, Available at:
     https://www.saporedicina.com/english/list-of-blocked-websites-in-china.
 
-[^41]: Geert Lovink, *Dynamics of Critical Internet Culture
+[^08chapter6_41]: Geert Lovink, *Dynamics of Critical Internet Culture
     (1994-2001)*, Vol. 1. Institute of Network Cultures, 2009. p. 8.
 
-[^42]: *Tristan Harris – Congress Testimony January*, (Center for Humane
+[^08chapter6_42]: *Tristan Harris – Congress Testimony January*, (Center for Humane
     Technology, 2020), Available at: https://www.youtube.com/watch?v=gDL9z\_lof3Q.
 
-[^43]: Karen Hao, ‘Artificial Intelligence Is Creating a New Colonial
+[^08chapter6_43]: Karen Hao, ‘Artificial Intelligence Is Creating a New Colonial
     World Order.’ *MIT Technology Review*, July, 2022.
 
-[^44]: Karen Hao, ‘Artificial Intelligence Is Creating a New Colonial
+[^08chapter6_44]: Karen Hao, ‘Artificial Intelligence Is Creating a New Colonial
     World Order.’ *MIT Technology Review*, July, 2022.
 
-[^45]: Karen Hao, ‘Artificial Intelligence Is Creating a New Colonial
+[^08chapter6_45]: Karen Hao, ‘Artificial Intelligence Is Creating a New Colonial
     World Order.’ *MIT Technology Review*, July, 2022.
 
-[^46]: *Elisa Giardina Papa – Artist website,*
+[^08chapter6_46]: *Elisa Giardina Papa – Artist website,*
     http://www.elisagiardinapapa.org/
 
-[^47]: *Elisa Giardina Papa – Artist website,*
+[^08chapter6_47]: *Elisa Giardina Papa – Artist website,*
     http://www.elisagiardinapapa.org/
 
-[^48]: *No Logo: Brands, Globalization, Resistance* (Naomi Klein, 2023),
+[^08chapter6_48]: *No Logo: Brands, Globalization, Resistance* (Naomi Klein, 2023),
     Documentary film, Media Education Foundation, Available at:
     https://www.youtube.com/watch?v=oeTgLKNb5R0&t=215s.
 
-[^49]: Marian Jacob, ‘Facebook Launches Marketplace in Thailand; It’s
+[^08chapter6_49]: Marian Jacob, ‘Facebook Launches Marketplace in Thailand; It’s
     Now in 25 Countries.’ *AIM Group*, 2017.
     https://aimgroup.com/2017/11/07/facebook-launches-marketplace-thailand-now-25-countries-2.
 
-[^50]: Christopher Butler and Jacob Douglas, ‘Amazon Go, the Cashierless
+[^08chapter6_50]: Christopher Butler and Jacob Douglas, ‘Amazon Go, the Cashierless
     Retail Store of the Future, Has Some New Competition.’ *CNBC*, 2019.
     https://www.cnbc.com/2019/11/12/amazon-go-cashierless-store-of-the-future-has-some-new-competition.html.
 
-[^51]: Karen Hao and Heidi Swart, ‘South Africa’s Private Surveillance
+[^08chapter6_51]: Karen Hao and Heidi Swart, ‘South Africa’s Private Surveillance
     Machine Is Fueling a Digital Apartheid.’ *MIT Technology Review*, 19
     April 2022.
     https://www.technologyreview.com/2022/04/19/1049996/south-africa-ai-surveillance-digital-apartheid/
 
-[^52]: Karen Hao and Heidi Swart, ‘South Africa’s Private Surveillance
+[^08chapter6_52]: Karen Hao and Heidi Swart, ‘South Africa’s Private Surveillance
     Machine Is Fueling a Digital Apartheid.’ *MIT Technology Review*, 19
     April 2022.
 
-[^53]: Roger Montti, ‘Google's 'Don't Be Evil' No Longer Prefaces Code
+[^08chapter6_53]: Roger Montti, ‘Google's 'Don't Be Evil' No Longer Prefaces Code
     of Conduct.’ *Search Engine Journal*, 2018.
     https://www.searchenginejournal.com.
 
-[^54]: Mark Coeckelbergh, *AI Ethic,.* MIT Press, 2020.
+[^08chapter6_54]: Mark Coeckelbergh, *AI Ethic,.* MIT Press, 2020.
 
-[^55]: Engage Media, *Digital Rights Asia-Pacific 2023*,
+[^08chapter6_55]: Engage Media, *Digital Rights Asia-Pacific 2023*,
     engagemedia.org, 22 may 2022. Available at: https://engagemedia.org.
 
-[^56]: Asean, ‘The 3rd ASEAN Digital Ministers’ Meeting and Related
+[^08chapter6_56]: Asean, ‘The 3rd ASEAN Digital Ministers’ Meeting and Related
     Meetings’, *asean.org*, 12 May 2023. Available at: https://asean.org/wp-content/uploads/2023/02/Endorsed-3rd-ADGMIN-JMS.pdf.
 
-[^57]: Nick Srnicek, ‘We Need to Nationalise Google, Facebook and
+[^08chapter6_57]: Nick Srnicek, ‘We Need to Nationalise Google, Facebook and
     Amazon. Here’s Why.’ *The Guardian*, 30 August 2017.
     https://www.theguardian.com/commentisfree/2017/aug/30/nationalise-google-facebook-amazon-data-monopoly-platform-public-interest.
