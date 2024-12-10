@@ -19,20 +19,6 @@ Rights: CC BY-NC 4.0
 
 Title
 
-# Chronicles of the Cyber Village
+# Chronicles of the Cyber Village: Colonialism and Advertising in the Age of AI
 
-Subtitle
-
-## Colonialism and Advertising in the Age of AI
-
-Author
-
-## Nguyen Thi Thanh Tra
-
-Content consultant
-
-Assoc. Prof. Dr. habil Szabolcs KissPál
-
-Language consultant
-
-Mr. Rick Fendrick
+###Nguyen Thi Thanh Tra  
