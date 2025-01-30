@@ -44,7 +44,7 @@ KissPál
 
 Published by the Institute of Network Cultures, Amsterdam 2025.
 
-ISBN: 
+ISBN: 9789083520902
 
 **Contact:** Institute of Network Cultures <br/>
 Amsterdam University of Applied Sciences (HvA)
